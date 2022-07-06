@@ -1,0 +1,9458 @@
+[{
+     "id": 1,
+     "word": "العوم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العلوم"
+},
+{
+     "id": 2,
+     "word": "البتة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "البحتة"
+},
+{
+     "id": 3,
+     "word": "عم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "علم"
+},
+{
+     "id": 4,
+     "word": "الكيياء",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الكيمياء"
+},
+{
+     "id": 5,
+     "word": "بالإنليزية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالإنجليزية"
+},
+{
+     "id": 6,
+     "word": "هو",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "هو"
+},
+{
+     "id": 7,
+     "word": "اللم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "العلم"
+},
+{
+     "id": 8,
+     "word": "الي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الذي"
+},
+{
+     "id": 9,
+     "word": "يخص",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يختص"
+},
+{
+     "id": 10,
+     "word": "بدرسة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بدراسة"
+},
+{
+     "id": 11,
+     "word": "الماد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المواد"
+},
+{
+     "id": 12,
+     "word": "الطبعية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الطبيعية"
+},
+{
+     "id": 13,
+     "word": "الي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التي"
+},
+{
+     "id": 14,
+     "word": "تكن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تكون"
+},
+{
+     "id": 15,
+     "word": "عنصر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عناصر"
+},
+{
+     "id": 16,
+     "word": "إا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "إما"
+},
+{
+     "id": 17,
+     "word": "أم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أم"
+},
+{
+     "id": 18,
+     "word": "مركات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مركبات"
+},
+{
+     "id": 19,
+     "word": "درسة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "دراسة"
+},
+{
+     "id": 20,
+     "word": "خواها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خواصها"
+},
+{
+     "id": 21,
+     "word": "الكيمائية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الكيميائية"
+},
+{
+     "id": 22,
+     "word": "تكونها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تكوينها"
+},
+{
+     "id": 23,
+     "word": "الري",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الذري"
+},
+{
+     "id": 24,
+     "word": "تفاعاتها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تفاعلاتها"
+},
+{
+     "id": 25,
+     "word": "مع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مع"
+},
+{
+     "id": 26,
+     "word": "بعها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بعضها"
+},
+{
+     "id": 27,
+     "word": "العض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "البعض"
+},
+{
+     "id": 28,
+     "word": "ما",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ما"
+},
+{
+     "id": 29,
+     "word": "ينج",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ينتج"
+},
+{
+     "id": 30,
+     "word": "عن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عن"
+},
+{
+     "id": 31,
+     "word": "تك",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تلك"
+},
+{
+     "id": 32,
+     "word": "التفعلات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التفاعلات"
+},
+{
+     "id": 33,
+     "word": "له",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "له"
+},
+{
+     "id": 34,
+     "word": "فرع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فروع"
+},
+{
+     "id": 35,
+     "word": "عة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عدة"
+},
+{
+     "id": 36,
+     "word": "مل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مثل"
+},
+{
+     "id": 37,
+     "word": "العوية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "العضوية"
+},
+{
+     "id": 38,
+     "word": "النوية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "النووية"
+},
+{
+     "id": 39,
+     "word": "الفيزائية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الفيزيائية"
+},
+{
+     "id": 40,
+     "word": "التطيقية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التطبيقية"
+},
+{
+     "id": 41,
+     "word": "الزاعة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الزراعة"
+},
+{
+     "id": 42,
+     "word": "يعى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يعنى"
+},
+{
+     "id": 43,
+     "word": "البئات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البيئات"
+},
+{
+     "id": 44,
+     "word": "المخلفة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المختلفة"
+},
+{
+     "id": 45,
+     "word": "الكانات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الكائنات"
+},
+{
+     "id": 46,
+     "word": "الية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحية"
+},
+{
+     "id": 47,
+     "word": "المؤرات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المؤثرات"
+},
+{
+     "id": 48,
+     "word": "علها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عليها"
+},
+{
+     "id": 49,
+     "word": "يشل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يشمل"
+},
+{
+     "id": 50,
+     "word": "النبتية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "النباتية"
+},
+{
+     "id": 51,
+     "word": "الحيانية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحيوانية"
+},
+{
+     "id": 52,
+     "word": "التذية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التغذية"
+},
+{
+     "id": 53,
+     "word": "الصنعات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الصناعات"
+},
+{
+     "id": 54,
+     "word": "الغذئية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الغذائية"
+},
+{
+     "id": 55,
+     "word": "غيها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "غيرها"
+},
+{
+     "id": 56,
+     "word": "مجاات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مجالات"
+},
+{
+     "id": 57,
+     "word": "الماجع",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المراجع"
+},
+{
+     "id": 58,
+     "word": "تتدد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تتعدد"
+},
+{
+     "id": 59,
+     "word": "أو",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أو"
+},
+{
+     "id": 60,
+     "word": "لتمل",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لتشمل"
+},
+{
+     "id": 61,
+     "word": "العيد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العديد"
+},
+{
+     "id": 62,
+     "word": "من",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "من"
+},
+{
+     "id": 63,
+     "word": "الفوع",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الفروع"
+},
+{
+     "id": 64,
+     "word": "تسند",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تستند"
+},
+{
+     "id": 65,
+     "word": "إى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "إلى"
+},
+{
+     "id": 66,
+     "word": "المنجية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المنهجية"
+},
+{
+     "id": 67,
+     "word": "العمية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العلمية"
+},
+{
+     "id": 68,
+     "word": "في",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "في"
+},
+{
+     "id": 69,
+     "word": "دراتها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "دراستها"
+},
+{
+     "id": 70,
+     "word": "تشل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تشمل"
+},
+{
+     "id": 71,
+     "word": "الرض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأرض"
+},
+{
+     "id": 72,
+     "word": "المتص",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المختص"
+},
+{
+     "id": 73,
+     "word": "التوين",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التكوين"
+},
+{
+     "id": 74,
+     "word": "الأضي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأرضي"
+},
+{
+     "id": 75,
+     "word": "الغاف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الغلاف"
+},
+{
+     "id": 76,
+     "word": "الوي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الجوي"
+},
+{
+     "id": 77,
+     "word": "فو",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فهو"
+},
+{
+     "id": 78,
+     "word": "يدس",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يدرس"
+},
+{
+     "id": 79,
+     "word": "المكنات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المكونات"
+},
+{
+     "id": 80,
+     "word": "الير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الغير"
+},
+{
+     "id": 81,
+     "word": "حة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حية"
+},
+{
+     "id": 82,
+     "word": "الأصاد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأرصاد"
+},
+{
+     "id": 83,
+     "word": "الجية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجوية"
+},
+{
+     "id": 84,
+     "word": "الجيووجيا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الجيولوجيا"
+},
+{
+     "id": 85,
+     "word": "البار",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "البحار"
+},
+{
+     "id": 86,
+     "word": "في",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فهي"
+},
+{
+     "id": 87,
+     "word": "تخصات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تخصصات"
+},
+{
+     "id": 88,
+     "word": "الأثلة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأمثلة"
+},
+{
+     "id": 89,
+     "word": "المرفة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المعرفة"
+},
+{
+     "id": 90,
+     "word": "الإنانية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الإنسانية"
+},
+{
+     "id": 91,
+     "word": "معرف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "معارف"
+},
+{
+     "id": 92,
+     "word": "علم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "علوم"
+},
+{
+     "id": 93,
+     "word": "فمها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فمنها"
+},
+{
+     "id": 94,
+     "word": "الثقفية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الثقافية"
+},
+{
+     "id": 95,
+     "word": "التايخية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التاريخية"
+},
+{
+     "id": 96,
+     "word": "فالمرفة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فالمعرفة"
+},
+{
+     "id": 97,
+     "word": "هي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "هي"
+},
+{
+     "id": 98,
+     "word": "جمع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جميع"
+},
+{
+     "id": 99,
+     "word": "تطبياتها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تطبيقاتها"
+},
+{
+     "id": 100,
+     "word": "يمن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يمكن"
+},
+{
+     "id": 101,
+     "word": "تصنفها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تصنيفها"
+},
+{
+     "id": 102,
+     "word": "قسين",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قسمين"
+},
+{
+     "id": 103,
+     "word": "تتنول",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تتناول"
+},
+{
+     "id": 104,
+     "word": "تفير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تفسير"
+},
+{
+     "id": 105,
+     "word": "الظاهر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الظواهر"
+},
+{
+     "id": 106,
+     "word": "فم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فهم"
+},
+{
+     "id": 107,
+     "word": "ماهتها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ماهيتها"
+},
+{
+     "id": 108,
+     "word": "كيية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كيفية"
+},
+{
+     "id": 109,
+     "word": "حدوها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "حدوثها"
+},
+{
+     "id": 110,
+     "word": "أا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أما"
+},
+{
+     "id": 111,
+     "word": "العلية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العملية"
+},
+{
+     "id": 112,
+     "word": "تقم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تقوم"
+},
+{
+     "id": 113,
+     "word": "باستدام",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "باستخدام"
+},
+{
+     "id": 114,
+     "word": "للحول",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للحصول"
+},
+{
+     "id": 115,
+     "word": "عى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "على"
+},
+{
+     "id": 116,
+     "word": "غاات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "غايات"
+},
+{
+     "id": 117,
+     "word": "معنة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "معينة"
+},
+{
+     "id": 118,
+     "word": "فاللوم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فالعلوم"
+},
+{
+     "id": 119,
+     "word": "التكنلوجيا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التكنولوجيا"
+},
+{
+     "id": 120,
+     "word": "الهدسة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الهندسة"
+},
+{
+     "id": 121,
+     "word": "التطيقات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التطبيقات"
+},
+{
+     "id": 122,
+     "word": "المسندة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المستندة"
+},
+{
+     "id": 123,
+     "word": "الطيعي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الطبيعي"
+},
+{
+     "id": 124,
+     "word": "الحسوب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحاسوب"
+},
+{
+     "id": 125,
+     "word": "التكنلوجية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التكنولوجية"
+},
+{
+     "id": 126,
+     "word": "حث",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حيث"
+},
+{
+     "id": 127,
+     "word": "بالأهزة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالأجهزة"
+},
+{
+     "id": 128,
+     "word": "الحاوبية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحاسوبية"
+},
+{
+     "id": 129,
+     "word": "بالبرجيات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالبرمجيات"
+},
+{
+     "id": 130,
+     "word": "تصيم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تصميم"
+},
+{
+     "id": 131,
+     "word": "تطير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تطوير"
+},
+{
+     "id": 132,
+     "word": "البامج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البرامج"
+},
+{
+     "id": 133,
+     "word": "الخوازميات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الخوارزميات"
+},
+{
+     "id": 134,
+     "word": "البمجة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البرمجة"
+},
+{
+     "id": 135,
+     "word": "المن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأمن"
+},
+{
+     "id": 136,
+     "word": "المعلماتي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المعلوماتي"
+},
+{
+     "id": 137,
+     "word": "اللك",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الفلك"
+},
+{
+     "id": 138,
+     "word": "المني",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المعني"
+},
+{
+     "id": 139,
+     "word": "الأسام",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأجسام"
+},
+{
+     "id": 140,
+     "word": "الفكية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الفلكية"
+},
+{
+     "id": 141,
+     "word": "كالكاكب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كالكواكب"
+},
+{
+     "id": 142,
+     "word": "الأمار",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأقمار"
+},
+{
+     "id": 143,
+     "word": "النوم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "النجوم"
+},
+{
+     "id": 144,
+     "word": "حركتها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حركاتها"
+},
+{
+     "id": 145,
+     "word": "كل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كل"
+},
+{
+     "id": 146,
+     "word": "يتلق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يتعلق"
+},
+{
+     "id": 147,
+     "word": "با",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بها"
+},
+{
+     "id": 148,
+     "word": "ظوهر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ظواهر"
+},
+{
+     "id": 149,
+     "word": "بالإافة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالإضافة"
+},
+{
+     "id": 150,
+     "word": "لدرسة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لدراسة"
+},
+{
+     "id": 151,
+     "word": "خصاصها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خصائصها"
+},
+{
+     "id": 152,
+     "word": "المتددة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المتعددة"
+},
+{
+     "id": 153,
+     "word": "يسند",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يستند"
+},
+{
+     "id": 154,
+     "word": "الفيياء",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الفيزياء"
+},
+{
+     "id": 155,
+     "word": "الريضات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الرياضات"
+},
+{
+     "id": 156,
+     "word": "بشل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بشكل"
+},
+{
+     "id": 157,
+     "word": "أسسي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أساسي"
+},
+{
+     "id": 158,
+     "word": "الأياء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأحياء"
+},
+{
+     "id": 159,
+     "word": "مكونتها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مكوناتها"
+},
+{
+     "id": 160,
+     "word": "علاقتها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "علاقاتها"
+},
+{
+     "id": 161,
+     "word": "ببعها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ببعضها"
+},
+{
+     "id": 162,
+     "word": "ببيئتها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ببيئاتها"
+},
+{
+     "id": 163,
+     "word": "التريح",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التشريح"
+},
+{
+     "id": 164,
+     "word": "الديقة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الدقيقة"
+},
+{
+     "id": 165,
+     "word": "الواثة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الوراثة"
+},
+{
+     "id": 166,
+     "word": "الخية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الخلية"
+},
+{
+     "id": 167,
+     "word": "وظئف",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وظائف"
+},
+{
+     "id": 168,
+     "word": "الأضاء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأعضاء"
+},
+{
+     "id": 169,
+     "word": "الأواع",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأنواع"
+},
+{
+     "id": 170,
+     "word": "الكهرائية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الكهربائية"
+},
+{
+     "id": 171,
+     "word": "الميكنيكية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الميكانيكية"
+},
+{
+     "id": 172,
+     "word": "الصنعية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الصناعية"
+},
+{
+     "id": 173,
+     "word": "الطية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الطبية"
+},
+{
+     "id": 174,
+     "word": "عم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عام"
+},
+{
+     "id": 175,
+     "word": "تعى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تعنى"
+},
+{
+     "id": 176,
+     "word": "بتخيط",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بتخطيط"
+},
+{
+     "id": 177,
+     "word": "المدات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المعدات"
+},
+{
+     "id": 178,
+     "word": "الآيات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الآليات"
+},
+{
+     "id": 179,
+     "word": "البرجيات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البرمجيات"
+},
+{
+     "id": 180,
+     "word": "اللزمة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "اللازمة"
+},
+{
+     "id": 181,
+     "word": "شأها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "شأنها"
+},
+{
+     "id": 182,
+     "word": "تحيق",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تحقيق"
+},
+{
+     "id": 183,
+     "word": "غاة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "غاية"
+},
+{
+     "id": 184,
+     "word": "معية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "معنية"
+},
+{
+     "id": 185,
+     "word": "الريضيات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الرياضيات"
+},
+{
+     "id": 186,
+     "word": "تدس",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تدرس"
+},
+{
+     "id": 187,
+     "word": "تفسياتها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تفسيراتها"
+},
+{
+     "id": 188,
+     "word": "تسى",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تسمى"
+},
+{
+     "id": 189,
+     "word": "أيا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أيضا"
+},
+{
+     "id": 190,
+     "word": "تهم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تهتم"
+},
+{
+     "id": 191,
+     "word": "الأياء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأشياء"
+},
+{
+     "id": 192,
+     "word": "تفسرا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تفسيرا"
+},
+{
+     "id": 193,
+     "word": "عليا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "علميا"
+},
+{
+     "id": 194,
+     "word": "مدما",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مدعما"
+},
+{
+     "id": 195,
+     "word": "بالدلة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالأدلة"
+},
+{
+     "id": 196,
+     "word": "الجة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحجة"
+},
+{
+     "id": 197,
+     "word": "البهان",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البرهان"
+},
+{
+     "id": 198,
+     "word": "ذك",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ذلك"
+},
+{
+     "id": 199,
+     "word": "بتفير",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بتفسير"
+},
+{
+     "id": 200,
+     "word": "حدث",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حدوث"
+},
+{
+     "id": 201,
+     "word": "الناذج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "النماذج"
+},
+{
+     "id": 202,
+     "word": "الريضية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الرياضية"
+},
+{
+     "id": 203,
+     "word": "الإحائية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الإحصائية"
+},
+{
+     "id": 204,
+     "word": "قد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قد"
+},
+{
+     "id": 205,
+     "word": "اخلف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "اختلف"
+},
+{
+     "id": 206,
+     "word": "العماء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العلماء"
+},
+{
+     "id": 207,
+     "word": "إا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "إذا"
+},
+{
+     "id": 208,
+     "word": "كن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كان"
+},
+{
+     "id": 209,
+     "word": "يعبر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يعتبر"
+},
+{
+     "id": 210,
+     "word": "علا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "علما"
+},
+{
+     "id": 211,
+     "word": "طبييا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "طبيعيا"
+},
+{
+     "id": 212,
+     "word": "بد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بحد"
+},
+{
+     "id": 213,
+     "word": "ذاه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ذاته"
+},
+{
+     "id": 214,
+     "word": "كوه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كونه"
+},
+{
+     "id": 215,
+     "word": "أدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أداة"
+},
+{
+     "id": 216,
+     "word": "تستدم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تستخدم"
+},
+{
+     "id": 217,
+     "word": "الحاتين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحالتين"
+},
+{
+     "id": 218,
+     "word": "فن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فإن"
+},
+{
+     "id": 219,
+     "word": "جزا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جزءا"
+},
+{
+     "id": 220,
+     "word": "لا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لا"
+},
+{
+     "id": 221,
+     "word": "يتزأ",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "يتجزأ"
+},
+{
+     "id": 222,
+     "word": "يتدخل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يتداخل"
+},
+{
+     "id": 223,
+     "word": "فرعه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فروعه"
+},
+{
+     "id": 224,
+     "word": "لا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لما"
+},
+{
+     "id": 225,
+     "word": "سق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "سبق"
+},
+{
+     "id": 226,
+     "word": "وقنا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وقتنا"
+},
+{
+     "id": 227,
+     "word": "الحلي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحالي"
+},
+{
+     "id": 228,
+     "word": "علما",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "علوما"
+},
+{
+     "id": 229,
+     "word": "أكادمية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أكاديمية"
+},
+{
+     "id": 230,
+     "word": "فد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فقد"
+},
+{
+     "id": 231,
+     "word": "تخلف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تختلف"
+},
+{
+     "id": 232,
+     "word": "مسمات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مسميات"
+},
+{
+     "id": 233,
+     "word": "باخلاف",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "باختلاف"
+},
+{
+     "id": 234,
+     "word": "العور",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العصور"
+},
+{
+     "id": 235,
+     "word": "إا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "إلا"
+},
+{
+     "id": 236,
+     "word": "أن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أن"
+},
+{
+     "id": 237,
+     "word": "المسيات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المسميات"
+},
+{
+     "id": 238,
+     "word": "تعر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تعبر"
+},
+{
+     "id": 239,
+     "word": "أسس",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أساس"
+},
+{
+     "id": 240,
+     "word": "واد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "واحد"
+},
+{
+     "id": 241,
+     "word": "جميها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "جميعها"
+},
+{
+     "id": 242,
+     "word": "تفسرها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تفسيرها"
+},
+{
+     "id": 243,
+     "word": "خصئص",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "خصائص"
+},
+{
+     "id": 244,
+     "word": "تأثياتها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تأثيراتها"
+},
+{
+     "id": 245,
+     "word": "الطقة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الطاقة"
+},
+{
+     "id": 246,
+     "word": "المن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الزمن"
+},
+{
+     "id": 247,
+     "word": "المدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المادة"
+},
+{
+     "id": 248,
+     "word": "الذية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الذرية"
+},
+{
+     "id": 249,
+     "word": "الأسسية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأساسية"
+},
+{
+     "id": 250,
+     "word": "تطبقات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تطبيقات"
+},
+{
+     "id": 251,
+     "word": "مختفة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مختلفة"
+},
+{
+     "id": 252,
+     "word": "تب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تصب"
+},
+{
+     "id": 253,
+     "word": "مصحة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مصلحة"
+},
+{
+     "id": 254,
+     "word": "البرية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "البشرية"
+},
+{
+     "id": 255,
+     "word": "تعبر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تعتبر"
+},
+{
+     "id": 256,
+     "word": "التبيق",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التطبيق"
+},
+{
+     "id": 257,
+     "word": "العلي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العملي"
+},
+{
+     "id": 258,
+     "word": "للعوم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للعلوم"
+},
+{
+     "id": 259,
+     "word": "تعمد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تعتمد"
+},
+{
+     "id": 260,
+     "word": "اعتادا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "اعتمادا"
+},
+{
+     "id": 261,
+     "word": "كالا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كاملا"
+},
+{
+     "id": 262,
+     "word": "المدأ",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المبدأ"
+},
+{
+     "id": 263,
+     "word": "ها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "هنا"
+},
+{
+     "id": 264,
+     "word": "تأي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تأتي"
+},
+{
+     "id": 265,
+     "word": "أهية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أهمية"
+},
+{
+     "id": 266,
+     "word": "كوها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كونها"
+},
+{
+     "id": 267,
+     "word": "تشل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تشكل"
+},
+{
+     "id": 268,
+     "word": "الأاس",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأساس"
+},
+{
+     "id": 269,
+     "word": "باستمال",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "باستعمال"
+},
+{
+     "id": 270,
+     "word": "مبدئ",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مبادئ"
+},
+{
+     "id": 271,
+     "word": "الهنسات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الهندسات"
+},
+{
+     "id": 272,
+     "word": "بجيع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بجميع"
+},
+{
+     "id": 273,
+     "word": "فروها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فروعها"
+},
+{
+     "id": 274,
+     "word": "الب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الطب"
+},
+{
+     "id": 275,
+     "word": "أنوعها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أنواعها"
+},
+{
+     "id": 276,
+     "word": "سبل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "سبيل"
+},
+{
+     "id": 277,
+     "word": "المال",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المثال"
+},
+{
+     "id": 278,
+     "word": "بمبدئ",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بمبادئ"
+},
+{
+     "id": 279,
+     "word": "طبيية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "طبيعية"
+},
+{
+     "id": 280,
+     "word": "استدام",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "استخدام"
+},
+{
+     "id": 281,
+     "word": "هه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "هذه"
+},
+{
+     "id": 282,
+     "word": "التخيطات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التخطيطات"
+},
+{
+     "id": 283,
+     "word": "العمانية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العمرانية"
+},
+{
+     "id": 284,
+     "word": "مثا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مثلا"
+},
+{
+     "id": 285,
+     "word": "تطبقيا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تطبيقيا"
+},
+{
+     "id": 286,
+     "word": "المسولة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المسؤولة"
+},
+{
+     "id": 287,
+     "word": "التور",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التطور"
+},
+{
+     "id": 288,
+     "word": "الحري",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحضري"
+},
+{
+     "id": 289,
+     "word": "التكنلوجي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التكنولوجي"
+},
+{
+     "id": 290,
+     "word": "المجمعات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المجتمعات"
+},
+{
+     "id": 291,
+     "word": "استادا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "استنادا"
+},
+{
+     "id": 292,
+     "word": "التقنات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التقانات"
+},
+{
+     "id": 293,
+     "word": "الحوية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحيوية"
+},
+{
+     "id": 294,
+     "word": "التطيقي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التطبيقي"
+},
+{
+     "id": 295,
+     "word": "المتند",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المستند"
+},
+{
+     "id": 296,
+     "word": "الدوئية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الدوائية"
+},
+{
+     "id": 297,
+     "word": "التحليل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التحاليل"
+},
+{
+     "id": 298,
+     "word": "التشيصية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التشخيصية"
+},
+{
+     "id": 299,
+     "word": "ضط",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ضبط"
+},
+{
+     "id": 300,
+     "word": "الجدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجودة"
+},
+{
+     "id": 301,
+     "word": "فيتمين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فيتامين"
+},
+{
+     "id": 302,
+     "word": "ب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ب"
+},
+{
+     "id": 303,
+     "word": "ميكرورامات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ميكروغرامات"
+},
+{
+     "id": 304,
+     "word": "مليرام",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مليغرام"
+},
+{
+     "id": 305,
+     "word": "جد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جد"
+},
+{
+     "id": 306,
+     "word": "نشت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نشرت"
+},
+{
+     "id": 307,
+     "word": "مجة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مجلة"
+},
+{
+     "id": 308,
+     "word": "مستلص",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مستخلص"
+},
+{
+     "id": 309,
+     "word": "بذر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بذور"
+},
+{
+     "id": 310,
+     "word": "الكفس",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الكرفس"
+},
+{
+     "id": 311,
+     "word": "فعلا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فعالا"
+},
+{
+     "id": 312,
+     "word": "تخيف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تخفيف"
+},
+{
+     "id": 313,
+     "word": "بض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بعض"
+},
+{
+     "id": 314,
+     "word": "الحلات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحالات"
+},
+{
+     "id": 315,
+     "word": "الالتابية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الالتهابية"
+},
+{
+     "id": 316,
+     "word": "كالهاب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كالتهاب"
+},
+{
+     "id": 317,
+     "word": "الماصل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المفاصل"
+},
+{
+     "id": 318,
+     "word": "القحة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "القرحة"
+},
+{
+     "id": 319,
+     "word": "ج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ج"
+},
+{
+     "id": 320,
+     "word": "السرات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "السعرات"
+},
+{
+     "id": 321,
+     "word": "الحررية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحرارية"
+},
+{
+     "id": 322,
+     "word": "الصويوم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الصوديوم"
+},
+{
+     "id": 323,
+     "word": "احتوؤها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "احتواؤها"
+},
+{
+     "id": 324,
+     "word": "مضدة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مضادة"
+},
+{
+     "id": 325,
+     "word": "للالتابات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للالتهابات"
+},
+{
+     "id": 326,
+     "word": "تربط",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ترتبط"
+},
+{
+     "id": 327,
+     "word": "الالتابات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الالتهابات"
+},
+{
+     "id": 328,
+     "word": "الممنة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المزمنة"
+},
+{
+     "id": 329,
+     "word": "بالديد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بالعديد"
+},
+{
+     "id": 330,
+     "word": "الأراض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأمراض"
+},
+{
+     "id": 331,
+     "word": "التاب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التهاب"
+},
+{
+     "id": 332,
+     "word": "هششة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "هشاشة"
+},
+{
+     "id": 333,
+     "word": "العام",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العظام"
+},
+{
+     "id": 334,
+     "word": "يحوي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يحتوي"
+},
+{
+     "id": 335,
+     "word": "يقرب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يقارب"
+},
+{
+     "id": 336,
+     "word": "مربا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مركبا"
+},
+{
+     "id": 337,
+     "word": "مضدا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مضادا"
+},
+{
+     "id": 338,
+     "word": "منا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "منها"
+},
+{
+     "id": 339,
+     "word": "مرب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مركب"
+},
+{
+     "id": 340,
+     "word": "الأبيينين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأبيجينين"
+},
+{
+     "id": 341,
+     "word": "يخع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يخضع"
+},
+{
+     "id": 342,
+     "word": "ها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "هذا"
+},
+{
+     "id": 343,
+     "word": "المكب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المركب"
+},
+{
+     "id": 344,
+     "word": "لدرسات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لدراسات"
+},
+{
+     "id": 345,
+     "word": "متعقة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "متعلقة"
+},
+{
+     "id": 346,
+     "word": "بخصئصه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بخصائصه"
+},
+{
+     "id": 347,
+     "word": "تقل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تقلل"
+},
+{
+     "id": 348,
+     "word": "خر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خطر"
+},
+{
+     "id": 349,
+     "word": "الإابة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الإصابة"
+},
+{
+     "id": 350,
+     "word": "بالسطان",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالسرطان"
+},
+{
+     "id": 351,
+     "word": "ظر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ظهر"
+},
+{
+     "id": 352,
+     "word": "لمكب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لمركب"
+},
+{
+     "id": 353,
+     "word": "الأذية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأغذية"
+},
+{
+     "id": 354,
+     "word": "الغية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الغنية"
+},
+{
+     "id": 355,
+     "word": "به",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "به"
+},
+{
+     "id": 356,
+     "word": "تأير",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تأثير"
+},
+{
+     "id": 357,
+     "word": "تقيل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تقليل"
+},
+{
+     "id": 358,
+     "word": "استابة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "استجابة"
+},
+{
+     "id": 359,
+     "word": "البروينات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البروتينات"
+},
+{
+     "id": 360,
+     "word": "الخصة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الخاصة"
+},
+{
+     "id": 361,
+     "word": "بالاسجابة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالاستجابة"
+},
+{
+     "id": 362,
+     "word": "للالهاب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للالتهاب"
+},
+{
+     "id": 363,
+     "word": "عد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عند"
+},
+{
+     "id": 364,
+     "word": "الفران",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الفئران"
+},
+{
+     "id": 365,
+     "word": "ما",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مما"
+},
+{
+     "id": 366,
+     "word": "يسهم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يساهم"
+},
+{
+     "id": 367,
+     "word": "التليل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التقليل"
+},
+{
+     "id": 368,
+     "word": "استادة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "استعادة"
+},
+{
+     "id": 369,
+     "word": "التازن",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التوازن"
+},
+{
+     "id": 370,
+     "word": "جهز",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جهاز"
+},
+{
+     "id": 371,
+     "word": "الماعة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المناعة"
+},
+{
+     "id": 372,
+     "word": "حب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حسب"
+},
+{
+     "id": 373,
+     "word": "أجيت",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أجريت"
+},
+{
+     "id": 374,
+     "word": "للحث",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للبحث"
+},
+{
+     "id": 375,
+     "word": "عا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عما"
+},
+{
+     "id": 376,
+     "word": "المسعدة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المساعدة"
+},
+{
+     "id": 377,
+     "word": "تعيل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تعديل"
+},
+{
+     "id": 378,
+     "word": "الأرار",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأضرار"
+},
+{
+     "id": 379,
+     "word": "النتجة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الناتجة"
+},
+{
+     "id": 380,
+     "word": "الجزئية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجزيئية"
+},
+{
+     "id": 381,
+     "word": "أباث",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أبحاث"
+},
+{
+     "id": 382,
+     "word": "الغاء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الغذاء"
+},
+{
+     "id": 383,
+     "word": "مليغاما",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مليغراما"
+},
+{
+     "id": 384,
+     "word": "محتاها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "محتواها"
+},
+{
+     "id": 385,
+     "word": "المادن",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المعادن"
+},
+{
+     "id": 386,
+     "word": "الممة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المهمة"
+},
+{
+     "id": 387,
+     "word": "للعام",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للعظام"
+},
+{
+     "id": 388,
+     "word": "يحاج",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يحتاج"
+},
+{
+     "id": 389,
+     "word": "السم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجسم"
+},
+{
+     "id": 390,
+     "word": "بكمات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بكميات"
+},
+{
+     "id": 391,
+     "word": "متفوتة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "متفاوتة"
+},
+{
+     "id": 392,
+     "word": "للحاظ",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للحفاظ"
+},
+{
+     "id": 393,
+     "word": "بصة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بصحة"
+},
+{
+     "id": 394,
+     "word": "جية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جيدة"
+},
+{
+     "id": 395,
+     "word": "العاصر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العناصر"
+},
+{
+     "id": 396,
+     "word": "الكاسيوم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الكالسيوم"
+},
+{
+     "id": 397,
+     "word": "أد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أحد"
+},
+{
+     "id": 398,
+     "word": "أكر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أكثر"
+},
+{
+     "id": 399,
+     "word": "المربطة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المرتبطة"
+},
+{
+     "id": 400,
+     "word": "إذ",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "إذ"
+},
+{
+     "id": 401,
+     "word": "تور",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "توفر"
+},
+{
+     "id": 402,
+     "word": "المعقة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الملعقة"
+},
+{
+     "id": 403,
+     "word": "الكيرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الكبيرة"
+},
+{
+     "id": 404,
+     "word": "الاحياج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الاحتياج"
+},
+{
+     "id": 405,
+     "word": "اليمي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "اليومي"
+},
+{
+     "id": 406,
+     "word": "المدن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المعدن"
+},
+{
+     "id": 407,
+     "word": "الجير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجدير"
+},
+{
+     "id": 408,
+     "word": "بالكر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بالذكر"
+},
+{
+     "id": 409,
+     "word": "أه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أنه"
+},
+{
+     "id": 410,
+     "word": "حل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حال"
+},
+{
+     "id": 411,
+     "word": "تنول",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تناول"
+},
+{
+     "id": 412,
+     "word": "كمات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كميات"
+},
+{
+     "id": 413,
+     "word": "غر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "غير"
+},
+{
+     "id": 414,
+     "word": "كاية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كافية"
+},
+{
+     "id": 415,
+     "word": "لفتات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لفترات"
+},
+{
+     "id": 416,
+     "word": "طولة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "طويلة"
+},
+{
+     "id": 417,
+     "word": "فن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فان"
+},
+{
+     "id": 418,
+     "word": "يعض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يعوض"
+},
+{
+     "id": 419,
+     "word": "القص",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "النقص"
+},
+{
+     "id": 420,
+     "word": "بأذه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بأخذه"
+},
+{
+     "id": 421,
+     "word": "يؤي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "يؤدي"
+},
+{
+     "id": 422,
+     "word": "انخاض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "انخفاض"
+},
+{
+     "id": 423,
+     "word": "كثفة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كثافة"
+},
+{
+     "id": 424,
+     "word": "كمة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كمية"
+},
+{
+     "id": 425,
+     "word": "الموودة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الموجودة"
+},
+{
+     "id": 426,
+     "word": "حم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حجم"
+},
+{
+     "id": 427,
+     "word": "محد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "محدد"
+},
+{
+     "id": 428,
+     "word": "يربط",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يرتبط"
+},
+{
+     "id": 429,
+     "word": "الانفاض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الانخفاض"
+},
+{
+     "id": 430,
+     "word": "بارفاع",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بارتفاع"
+},
+{
+     "id": 431,
+     "word": "بالسور",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بالكسور"
+},
+{
+     "id": 432,
+     "word": "خاة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خاصة"
+},
+{
+     "id": 433,
+     "word": "لى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لدى"
+},
+{
+     "id": 434,
+     "word": "كبر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كبار"
+},
+{
+     "id": 435,
+     "word": "الن",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "السن"
+},
+{
+     "id": 436,
+     "word": "تبن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تبين"
+},
+{
+     "id": 437,
+     "word": "الدرسات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الدراسات"
+},
+{
+     "id": 438,
+     "word": "بيها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بينها"
+},
+{
+     "id": 439,
+     "word": "زيدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "زيادة"
+},
+{
+     "id": 440,
+     "word": "استلاك",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "استهلاك"
+},
+{
+     "id": 441,
+     "word": "الترض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التعرض"
+},
+{
+     "id": 442,
+     "word": "للكور",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للكسور"
+},
+{
+     "id": 443,
+     "word": "بن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بين"
+},
+{
+     "id": 444,
+     "word": "كا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كلا"
+},
+{
+     "id": 445,
+     "word": "الجسين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الجنسين"
+},
+{
+     "id": 446,
+     "word": "الففور",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الفسفور"
+},
+{
+     "id": 447,
+     "word": "المربات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المركبات"
+},
+{
+     "id": 448,
+     "word": "المادة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المضادة"
+},
+{
+     "id": 449,
+     "word": "للأسدة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للأكسدة"
+},
+{
+     "id": 450,
+     "word": "الاق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الساق"
+},
+{
+     "id": 451,
+     "word": "الوحد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الواحد"
+},
+{
+     "id": 452,
+     "word": "نبت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نبات"
+},
+{
+     "id": 453,
+     "word": "البتا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "البيتا"
+},
+{
+     "id": 454,
+     "word": "كارتين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كاروتين"
+},
+{
+     "id": 455,
+     "word": "الفلاينويد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الفلافينويد"
+},
+{
+     "id": 456,
+     "word": "كا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كما"
+},
+{
+     "id": 457,
+     "word": "تد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تعد"
+},
+{
+     "id": 458,
+     "word": "سيقنه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "سيقانه"
+},
+{
+     "id": 459,
+     "word": "مصرا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مصدرا"
+},
+{
+     "id": 460,
+     "word": "جيا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جيدا"
+},
+{
+     "id": 461,
+     "word": "للماد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للمواد"
+},
+{
+     "id": 462,
+     "word": "الثاوية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الثانوية"
+},
+{
+     "id": 463,
+     "word": "فعلة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فعالة"
+},
+{
+     "id": 464,
+     "word": "الخايا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الخلايا"
+},
+{
+     "id": 465,
+     "word": "الجاز",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجهاز"
+},
+{
+     "id": 466,
+     "word": "الهمي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الهضمي"
+},
+{
+     "id": 467,
+     "word": "الأعية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأوعية"
+},
+{
+     "id": 468,
+     "word": "الدوية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الدموية"
+},
+{
+     "id": 469,
+     "word": "أعاء",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أعضاء"
+},
+{
+     "id": 470,
+     "word": "تف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تلف"
+},
+{
+     "id": 471,
+     "word": "ناج",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ناتج"
+},
+{
+     "id": 472,
+     "word": "تعرها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تعرضها"
+},
+{
+     "id": 473,
+     "word": "للجور",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للجذور"
+},
+{
+     "id": 474,
+     "word": "الرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحرة"
+},
+{
+     "id": 475,
+     "word": "الغم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الرغم"
+},
+{
+     "id": 476,
+     "word": "قة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قلة"
+},
+{
+     "id": 477,
+     "word": "الأحاث",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأبحاث"
+},
+{
+     "id": 478,
+     "word": "يملك",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يمتلك"
+},
+{
+     "id": 479,
+     "word": "وق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وفق"
+},
+{
+     "id": 480,
+     "word": "مراعة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مراجعة"
+},
+{
+     "id": 481,
+     "word": "لعة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لعدة"
+},
+{
+     "id": 482,
+     "word": "دراات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "دراسات"
+},
+{
+     "id": 483,
+     "word": "مخبية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مخبرية"
+},
+{
+     "id": 484,
+     "word": "أخى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أخرى"
+},
+{
+     "id": 485,
+     "word": "الحيانات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحيوانات"
+},
+{
+     "id": 486,
+     "word": "التكملي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التكاملي"
+},
+{
+     "id": 487,
+     "word": "المني",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المبني"
+},
+{
+     "id": 488,
+     "word": "الألة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأدلة"
+},
+{
+     "id": 489,
+     "word": "يرع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يرجع"
+},
+{
+     "id": 490,
+     "word": "البب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "السبب"
+},
+{
+     "id": 491,
+     "word": "ورء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وراء"
+},
+{
+     "id": 492,
+     "word": "وجد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وجود"
+},
+{
+     "id": 493,
+     "word": "البولفينول",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البوليفينول"
+},
+{
+     "id": 494,
+     "word": "بذره",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بذوره"
+},
+{
+     "id": 495,
+     "word": "تتفر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تتوفر"
+},
+{
+     "id": 496,
+     "word": "ود",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وقد"
+},
+{
+     "id": 497,
+     "word": "اربط",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ارتبط"
+},
+{
+     "id": 498,
+     "word": "بمكب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بمركب"
+},
+{
+     "id": 499,
+     "word": "بانفاض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بانخفاض"
+},
+{
+     "id": 500,
+     "word": "بأماض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بأمراض"
+},
+{
+     "id": 501,
+     "word": "اللب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "القلب"
+},
+{
+     "id": 502,
+     "word": "السري",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "السكري"
+},
+{
+     "id": 503,
+     "word": "السطان",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "السرطان"
+},
+{
+     "id": 504,
+     "word": "لن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لكن"
+},
+{
+     "id": 505,
+     "word": "تزل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تزال"
+},
+{
+     "id": 506,
+     "word": "هنك",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "هناك"
+},
+{
+     "id": 507,
+     "word": "حاة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حاجة"
+},
+{
+     "id": 508,
+     "word": "الميد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المزيد"
+},
+{
+     "id": 509,
+     "word": "حل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حول"
+},
+{
+     "id": 510,
+     "word": "البرتين",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "البروتين"
+},
+{
+     "id": 511,
+     "word": "فوئد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فوائد"
+},
+{
+     "id": 512,
+     "word": "مسكات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مسكنات"
+},
+{
+     "id": 513,
+     "word": "اللم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الألم"
+},
+{
+     "id": 514,
+     "word": "لنات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لنبات"
+},
+{
+     "id": 515,
+     "word": "يسب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يسبب"
+},
+{
+     "id": 516,
+     "word": "بالعاس",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالنعاس"
+},
+{
+     "id": 517,
+     "word": "الأوية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأدوية"
+},
+{
+     "id": 518,
+     "word": "المكنة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المسكنة"
+},
+{
+     "id": 519,
+     "word": "سبا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "سببا"
+},
+{
+     "id": 520,
+     "word": "للناس",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للنعاس"
+},
+{
+     "id": 521,
+     "word": "الشور",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الشعور"
+},
+{
+     "id": 522,
+     "word": "مصر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مصدر"
+},
+{
+     "id": 523,
+     "word": "اللوتولين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "اللوتيولين"
+},
+{
+     "id": 524,
+     "word": "يتفر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يتوفر"
+},
+{
+     "id": 525,
+     "word": "الففل",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الفلفل"
+},
+{
+     "id": 526,
+     "word": "الأضر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأخضر"
+},
+{
+     "id": 527,
+     "word": "يسعد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يساعد"
+},
+{
+     "id": 528,
+     "word": "بحاات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بحالات"
+},
+{
+     "id": 529,
+     "word": "الداغ",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الدماغ"
+},
+{
+     "id": 530,
+     "word": "يد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يعد"
+},
+{
+     "id": 531,
+     "word": "قوا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قويا"
+},
+{
+     "id": 532,
+     "word": "الفلاونويد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الفلافونويد"
+},
+{
+     "id": 533,
+     "word": "تود",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "توجد"
+},
+{
+     "id": 534,
+     "word": "الخضاوات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الخضراوات"
+},
+{
+     "id": 535,
+     "word": "الفاكه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الفواكه"
+},
+{
+     "id": 536,
+     "word": "المشوبات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المشروبات"
+},
+{
+     "id": 537,
+     "word": "شي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شاي"
+},
+{
+     "id": 538,
+     "word": "الباونج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البابونج"
+},
+{
+     "id": 539,
+     "word": "يوح",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يوضح"
+},
+{
+     "id": 540,
+     "word": "الجول",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجدول"
+},
+{
+     "id": 541,
+     "word": "التي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الآتي"
+},
+{
+     "id": 542,
+     "word": "غرم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "غرام"
+},
+{
+     "id": 543,
+     "word": "الدون",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الدهون"
+},
+{
+     "id": 544,
+     "word": "خسرة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "خسارة"
+},
+{
+     "id": 545,
+     "word": "الزن",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الوزن"
+},
+{
+     "id": 546,
+     "word": "للكفس",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للكرفس"
+},
+{
+     "id": 547,
+     "word": "إناص",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إنقاص"
+},
+{
+     "id": 548,
+     "word": "استهاكه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "استهلاكه"
+},
+{
+     "id": 549,
+     "word": "كجء",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كجزء"
+},
+{
+     "id": 550,
+     "word": "نظم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نظام"
+},
+{
+     "id": 551,
+     "word": "غذئي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "غذائي"
+},
+{
+     "id": 552,
+     "word": "صي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "صحي"
+},
+{
+     "id": 553,
+     "word": "شال",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شامل"
+},
+{
+     "id": 554,
+     "word": "محتاه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "محتواه"
+},
+{
+     "id": 555,
+     "word": "الأياف",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الألياف"
+},
+{
+     "id": 556,
+     "word": "بالاتلاء",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالامتلاء"
+},
+{
+     "id": 557,
+     "word": "اعتاره",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "اعتباره"
+},
+{
+     "id": 558,
+     "word": "وجة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وجبة"
+},
+{
+     "id": 559,
+     "word": "خففة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "خفيفة"
+},
+{
+     "id": 560,
+     "word": "منخضة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "منخفضة"
+},
+{
+     "id": 561,
+     "word": "بالسبة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالنسبة"
+},
+{
+     "id": 562,
+     "word": "لعير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لعصير"
+},
+{
+     "id": 563,
+     "word": "فم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فلم"
+},
+{
+     "id": 564,
+     "word": "أدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أدلة"
+},
+{
+     "id": 565,
+     "word": "تدم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تدعم"
+},
+{
+     "id": 566,
+     "word": "دوه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "دوره"
+},
+{
+     "id": 567,
+     "word": "قدته",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قدرته"
+},
+{
+     "id": 568,
+     "word": "تقيم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تقديم"
+},
+{
+     "id": 569,
+     "word": "أي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أي"
+},
+{
+     "id": 570,
+     "word": "فادة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فائدة"
+},
+{
+     "id": 571,
+     "word": "صحة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "صحية"
+},
+{
+     "id": 572,
+     "word": "ملاحتها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ملاحظتها"
+},
+{
+     "id": 573,
+     "word": "لأه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لأنه"
+},
+{
+     "id": 574,
+     "word": "يفقر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يفتقر"
+},
+{
+     "id": 575,
+     "word": "للأياف",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للألياف"
+},
+{
+     "id": 576,
+     "word": "المأوذة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المأخوذة"
+},
+{
+     "id": 577,
+     "word": "السائل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "السوائل"
+},
+{
+     "id": 578,
+     "word": "تسب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تسبب"
+},
+{
+     "id": 579,
+     "word": "بالمتوى",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالمستوى"
+},
+{
+     "id": 580,
+     "word": "يحث",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يحدث"
+},
+{
+     "id": 581,
+     "word": "الأعمة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأطعمة"
+},
+{
+     "id": 582,
+     "word": "كالة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كاملة"
+},
+{
+     "id": 583,
+     "word": "الطام",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الطعام"
+},
+{
+     "id": 584,
+     "word": "بد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بعد"
+},
+{
+     "id": 585,
+     "word": "ساة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ساعة"
+},
+{
+     "id": 586,
+     "word": "ساعين",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ساعتين"
+},
+{
+     "id": 587,
+     "word": "الأخاص",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأشخاص"
+},
+{
+     "id": 588,
+     "word": "لتعيض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لتعويض"
+},
+{
+     "id": 589,
+     "word": "جوهم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جوعهم"
+},
+{
+     "id": 590,
+     "word": "يجر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يجدر"
+},
+{
+     "id": 591,
+     "word": "الكر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الذكر"
+},
+{
+     "id": 592,
+     "word": "التأيرات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التأثيرات"
+},
+{
+     "id": 593,
+     "word": "مؤدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مؤكدة"
+},
+{
+     "id": 594,
+     "word": "زات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "زالت"
+},
+{
+     "id": 595,
+     "word": "للميد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للمزيد"
+},
+{
+     "id": 596,
+     "word": "حوها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "حولها"
+},
+{
+     "id": 597,
+     "word": "البوتسيوم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البوتاسيوم"
+},
+{
+     "id": 598,
+     "word": "وجت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وجدت"
+},
+{
+     "id": 599,
+     "word": "إحى",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إحدى"
+},
+{
+     "id": 600,
+     "word": "المخرية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المخبرية"
+},
+{
+     "id": 601,
+     "word": "جاعة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جامعة"
+},
+{
+     "id": 602,
+     "word": "شيفلد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "شيفيلد"
+},
+{
+     "id": 603,
+     "word": "هاام",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "هالام"
+},
+{
+     "id": 604,
+     "word": "لمسخلص",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لمستخلص"
+},
+{
+     "id": 605,
+     "word": "آثرا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "آثارا"
+},
+{
+     "id": 606,
+     "word": "مقامة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مقاومة"
+},
+{
+     "id": 607,
+     "word": "للبكيريا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للبكتيريا"
+},
+{
+     "id": 608,
+     "word": "الموية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الملوية"
+},
+{
+     "id": 609,
+     "word": "البوبية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "البوابية"
+},
+{
+     "id": 610,
+     "word": "لبض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لبعض"
+},
+{
+     "id": 611,
+     "word": "تؤي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تؤدي"
+},
+{
+     "id": 612,
+     "word": "بقرات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بقرحات"
+},
+{
+     "id": 613,
+     "word": "المدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المعدة"
+},
+{
+     "id": 614,
+     "word": "لوظ",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لوحظ"
+},
+{
+     "id": 615,
+     "word": "يكفح",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "يكافح"
+},
+{
+     "id": 616,
+     "word": "أنوعا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أنواعا"
+},
+{
+     "id": 617,
+     "word": "محدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "محددة"
+},
+{
+     "id": 618,
+     "word": "البكيريا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البكتيريا"
+},
+{
+     "id": 619,
+     "word": "الخائر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الخمائر"
+},
+{
+     "id": 620,
+     "word": "الفطيات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الفطريات"
+},
+{
+     "id": 621,
+     "word": "يشبه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يشابه"
+},
+{
+     "id": 622,
+     "word": "آثره",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "آثاره"
+},
+{
+     "id": 623,
+     "word": "خص",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خلص"
+},
+{
+     "id": 624,
+     "word": "الباثون",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الباحثون"
+},
+{
+     "id": 625,
+     "word": "يكن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يكون"
+},
+{
+     "id": 626,
+     "word": "ماة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مادة"
+},
+{
+     "id": 627,
+     "word": "حاظة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حافظة"
+},
+{
+     "id": 628,
+     "word": "للأذية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للأغذية"
+},
+{
+     "id": 629,
+     "word": "وفا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وفقا"
+},
+{
+     "id": 630,
+     "word": "بنا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بنها"
+},
+{
+     "id": 631,
+     "word": "التبيه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التنبيه"
+},
+{
+     "id": 632,
+     "word": "لم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لم"
+},
+{
+     "id": 633,
+     "word": "يم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يتم"
+},
+{
+     "id": 634,
+     "word": "اختار",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "اختبار"
+},
+{
+     "id": 635,
+     "word": "الفائد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الفوائد"
+},
+{
+     "id": 636,
+     "word": "الشر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "البشر"
+},
+{
+     "id": 637,
+     "word": "ميكروراما",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ميكروغراما"
+},
+{
+     "id": 638,
+     "word": "غرما",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "غراما"
+},
+{
+     "id": 639,
+     "word": "تملك",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تمتلك"
+},
+{
+     "id": 640,
+     "word": "دللا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "دليلا"
+},
+{
+     "id": 641,
+     "word": "أل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أقل"
+},
+{
+     "id": 642,
+     "word": "قة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قوة"
+},
+{
+     "id": 643,
+     "word": "للحيد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للحديد"
+},
+{
+     "id": 644,
+     "word": "الحيد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحديد"
+},
+{
+     "id": 645,
+     "word": "لإناج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لإنتاج"
+},
+{
+     "id": 646,
+     "word": "خليا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خلايا"
+},
+{
+     "id": 647,
+     "word": "الم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الدم"
+},
+{
+     "id": 648,
+     "word": "الحراء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحمراء"
+},
+{
+     "id": 649,
+     "word": "تكن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تكمن"
+},
+{
+     "id": 650,
+     "word": "وظفة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وظيفة"
+},
+{
+     "id": 651,
+     "word": "بنل",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بنقل"
+},
+{
+     "id": 652,
+     "word": "الأكجين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأكسجين"
+},
+{
+     "id": 653,
+     "word": "الرتين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الرئتين"
+},
+{
+     "id": 654,
+     "word": "أجاء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أجزاء"
+},
+{
+     "id": 655,
+     "word": "المادر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المصادر"
+},
+{
+     "id": 656,
+     "word": "الجدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجيدة"
+},
+{
+     "id": 657,
+     "word": "نسته",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نسبته"
+},
+{
+     "id": 658,
+     "word": "للناء",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للنساء"
+},
+{
+     "id": 659,
+     "word": "و",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "و"
+},
+{
+     "id": 660,
+     "word": "للرال",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للرجال"
+},
+{
+     "id": 661,
+     "word": "يب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يجب"
+},
+{
+     "id": 662,
+     "word": "عم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عدم"
+},
+{
+     "id": 663,
+     "word": "كف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كاف"
+},
+{
+     "id": 664,
+     "word": "لن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لن"
+},
+{
+     "id": 665,
+     "word": "إناج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إنتاج"
+},
+{
+     "id": 666,
+     "word": "يكي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يكفي"
+},
+{
+     "id": 667,
+     "word": "بالالي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالتالي"
+},
+{
+     "id": 668,
+     "word": "سيون",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "سيكون"
+},
+{
+     "id": 669,
+     "word": "معضا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "معرضا"
+},
+{
+     "id": 670,
+     "word": "لخر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لخطر"
+},
+{
+     "id": 671,
+     "word": "بفر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بفقر"
+},
+{
+     "id": 672,
+     "word": "نتجة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "نتيجة"
+},
+{
+     "id": 673,
+     "word": "نص",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نقص"
+},
+{
+     "id": 674,
+     "word": "التثير",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التأثير"
+},
+{
+     "id": 675,
+     "word": "مستيات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مستويات"
+},
+{
+     "id": 676,
+     "word": "الخوبة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الخصوبة"
+},
+{
+     "id": 677,
+     "word": "القم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "العقم"
+},
+{
+     "id": 678,
+     "word": "المشلات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المشكلات"
+},
+{
+     "id": 679,
+     "word": "المقدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المعقدة"
+},
+{
+     "id": 680,
+     "word": "لـ",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لـ"
+},
+{
+     "id": 681,
+     "word": "بيت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بينت"
+},
+{
+     "id": 682,
+     "word": "الإيابي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الإيجابي"
+},
+{
+     "id": 683,
+     "word": "تأثرات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تأثيرات"
+},
+{
+     "id": 684,
+     "word": "قاية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قائية"
+},
+{
+     "id": 685,
+     "word": "ضد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ضد"
+},
+{
+     "id": 686,
+     "word": "لا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لها"
+},
+{
+     "id": 687,
+     "word": "ضر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ضار"
+},
+{
+     "id": 688,
+     "word": "بنة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بنية"
+},
+{
+     "id": 689,
+     "word": "الخية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الخصية"
+},
+{
+     "id": 690,
+     "word": "الموية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المنوية"
+},
+{
+     "id": 691,
+     "word": "الثاث",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الثلاث"
+},
+{
+     "id": 692,
+     "word": "البقية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الباقية"
+},
+{
+     "id": 693,
+     "word": "تأثرا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تأثيرا"
+},
+{
+     "id": 694,
+     "word": "مختفا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مختلفا"
+},
+{
+     "id": 695,
+     "word": "فيا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فيها"
+},
+{
+     "id": 696,
+     "word": "آثر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "آثار"
+},
+{
+     "id": 697,
+     "word": "مثطة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مثبطة"
+},
+{
+     "id": 698,
+     "word": "للخوبة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للخصوبة"
+},
+{
+     "id": 699,
+     "word": "لها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لهذا"
+},
+{
+     "id": 700,
+     "word": "النات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "النبات"
+},
+{
+     "id": 701,
+     "word": "بسب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بسبب"
+},
+{
+     "id": 702,
+     "word": "احتائه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "احتوائه"
+},
+{
+     "id": 703,
+     "word": "بالغم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بالرغم"
+},
+{
+     "id": 704,
+     "word": "فوئه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فوائه"
+},
+{
+     "id": 705,
+     "word": "المذورة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المذكورة"
+},
+{
+     "id": 706,
+     "word": "ساقا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "سابقا"
+},
+{
+     "id": 707,
+     "word": "مثطا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مثبطا"
+},
+{
+     "id": 708,
+     "word": "استخامه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "استخدامه"
+},
+{
+     "id": 709,
+     "word": "بتريز",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بتركيز"
+},
+{
+     "id": 710,
+     "word": "مرفع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مرتفع"
+},
+{
+     "id": 711,
+     "word": "لفرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لفترة"
+},
+{
+     "id": 712,
+     "word": "متكرة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "متكررة"
+},
+{
+     "id": 713,
+     "word": "عله",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عليه"
+},
+{
+     "id": 714,
+     "word": "مرااة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مراعاة"
+},
+{
+     "id": 715,
+     "word": "الجعات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الجرعات"
+},
+{
+     "id": 716,
+     "word": "المسخدمة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المستخدمة"
+},
+{
+     "id": 717,
+     "word": "مة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مدة"
+},
+{
+     "id": 718,
+     "word": "بدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بدقة"
+},
+{
+     "id": 719,
+     "word": "تزد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تزيد"
+},
+{
+     "id": 720,
+     "word": "الحسسية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحساسية"
+},
+{
+     "id": 721,
+     "word": "للوء",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للضوء"
+},
+{
+     "id": 722,
+     "word": "إن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "إن"
+},
+{
+     "id": 723,
+     "word": "حساية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "حساسية"
+},
+{
+     "id": 724,
+     "word": "اللد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجلد"
+},
+{
+     "id": 725,
+     "word": "لأعة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لأشعة"
+},
+{
+     "id": 726,
+     "word": "المس",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الشمس"
+},
+{
+     "id": 727,
+     "word": "يزد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يزيد"
+},
+{
+     "id": 728,
+     "word": "تفقم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تفاقم"
+},
+{
+     "id": 729,
+     "word": "الحلة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحالة"
+},
+{
+     "id": 730,
+     "word": "تناله",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تناوله"
+},
+{
+     "id": 731,
+     "word": "معا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "معها"
+},
+{
+     "id": 732,
+     "word": "حق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حرق"
+},
+{
+     "id": 733,
+     "word": "شمي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شمسي"
+},
+{
+     "id": 734,
+     "word": "ظهر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ظهور"
+},
+{
+     "id": 735,
+     "word": "طح",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "طفح"
+},
+{
+     "id": 736,
+     "word": "جلي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جلدي"
+},
+{
+     "id": 737,
+     "word": "الماطق",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المناطق"
+},
+{
+     "id": 738,
+     "word": "المرضة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المعرضة"
+},
+{
+     "id": 739,
+     "word": "ينح",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ينصح"
+},
+{
+     "id": 740,
+     "word": "شرء",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "شراء"
+},
+{
+     "id": 741,
+     "word": "باخيار",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "باختيار"
+},
+{
+     "id": 742,
+     "word": "ذي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ذي"
+},
+{
+     "id": 743,
+     "word": "السقان",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "السيقان"
+},
+{
+     "id": 744,
+     "word": "القئمة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "القائمة"
+},
+{
+     "id": 745,
+     "word": "القسية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "القاسية"
+},
+{
+     "id": 746,
+     "word": "لأواقه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لأوراقه"
+},
+{
+     "id": 747,
+     "word": "فيب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فيجب"
+},
+{
+     "id": 748,
+     "word": "طاجة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "طازجة"
+},
+{
+     "id": 749,
+     "word": "وهة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وهشة"
+},
+{
+     "id": 750,
+     "word": "يمل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يميل"
+},
+{
+     "id": 751,
+     "word": "لوها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لونها"
+},
+{
+     "id": 752,
+     "word": "البهت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الباهت"
+},
+{
+     "id": 753,
+     "word": "الزهي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الزاهي"
+},
+{
+     "id": 754,
+     "word": "يفل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يفضل"
+},
+{
+     "id": 755,
+     "word": "تجب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تجنب"
+},
+{
+     "id": 756,
+     "word": "اختار",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "اختيار"
+},
+{
+     "id": 757,
+     "word": "الأراق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأوراق"
+},
+{
+     "id": 758,
+     "word": "الصراء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الصفراء"
+},
+{
+     "id": 759,
+     "word": "البية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البنية"
+},
+{
+     "id": 760,
+     "word": "بعم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بعدم"
+},
+{
+     "id": 761,
+     "word": "تقطعه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تقطيعه"
+},
+{
+     "id": 762,
+     "word": "قل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قبل"
+},
+{
+     "id": 763,
+     "word": "طبه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "طبخه"
+},
+{
+     "id": 764,
+     "word": "مبارة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مباشرة"
+},
+{
+     "id": 765,
+     "word": "تقيع",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تقطيع"
+},
+{
+     "id": 766,
+     "word": "تره",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تركه"
+},
+{
+     "id": 767,
+     "word": "لساات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لساعات"
+},
+{
+     "id": 768,
+     "word": "قللة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قليلة"
+},
+{
+     "id": 769,
+     "word": "يفده",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يفقده"
+},
+{
+     "id": 770,
+     "word": "يوى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يوصى"
+},
+{
+     "id": 771,
+     "word": "باستلاك",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "باستهلاك"
+},
+{
+     "id": 772,
+     "word": "خلل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خلال"
+},
+{
+     "id": 773,
+     "word": "أيم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أيام"
+},
+{
+     "id": 774,
+     "word": "شرئه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "شرائه"
+},
+{
+     "id": 775,
+     "word": "طاجا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "طازجا"
+},
+{
+     "id": 776,
+     "word": "أكر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أكبر"
+},
+{
+     "id": 777,
+     "word": "قر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قدر"
+},
+{
+     "id": 778,
+     "word": "فواده",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فوائده"
+},
+{
+     "id": 779,
+     "word": "فعاية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فعالية"
+},
+{
+     "id": 780,
+     "word": "كعير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كعصير"
+},
+{
+     "id": 781,
+     "word": "مليغامات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مليغرامات"
+},
+{
+     "id": 782,
+     "word": "يعف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يعرف"
+},
+{
+     "id": 783,
+     "word": "بأه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بأنه"
+},
+{
+     "id": 784,
+     "word": "أناع",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أنواع"
+},
+{
+     "id": 785,
+     "word": "النبتات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "النباتات"
+},
+{
+     "id": 786,
+     "word": "تنمي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تنتمي"
+},
+{
+     "id": 787,
+     "word": "الفيلة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الفصيلة"
+},
+{
+     "id": 788,
+     "word": "الخمية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الخيمية"
+},
+{
+     "id": 789,
+     "word": "تم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تضم"
+},
+{
+     "id": 790,
+     "word": "البقونس",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البقدونس"
+},
+{
+     "id": 791,
+     "word": "الزر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجزر"
+},
+{
+     "id": 792,
+     "word": "الأيض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأبيض"
+},
+{
+     "id": 793,
+     "word": "الخضوات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الخضروات"
+},
+{
+     "id": 794,
+     "word": "الجرية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجذرية"
+},
+{
+     "id": 795,
+     "word": "تستلك",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تستهلك"
+},
+{
+     "id": 796,
+     "word": "سيان",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "سيقان"
+},
+{
+     "id": 797,
+     "word": "الغلب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الغالب"
+},
+{
+     "id": 798,
+     "word": "كوبة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كوجبة"
+},
+{
+     "id": 799,
+     "word": "استدمت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "استخدمت"
+},
+{
+     "id": 800,
+     "word": "لتخيف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لتخفيف"
+},
+{
+     "id": 801,
+     "word": "نيا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نيئا"
+},
+{
+     "id": 802,
+     "word": "مطبخا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مطبوخا"
+},
+{
+     "id": 803,
+     "word": "طخ",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "طبخ"
+},
+{
+     "id": 804,
+     "word": "بسطا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بسيطا"
+},
+{
+     "id": 805,
+     "word": "بحب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بحسب"
+},
+{
+     "id": 806,
+     "word": "ذكت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ذكرت"
+},
+{
+     "id": 807,
+     "word": "الأكايمية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأكاديمية"
+},
+{
+     "id": 808,
+     "word": "الصنية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الصينية"
+},
+{
+     "id": 809,
+     "word": "لعم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لعلم"
+},
+{
+     "id": 810,
+     "word": "الإتاج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الإنتاج"
+},
+{
+     "id": 811,
+     "word": "الناتي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "النباتي"
+},
+{
+     "id": 812,
+     "word": "إضفة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إضافة"
+},
+{
+     "id": 813,
+     "word": "مفدة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مفيدة"
+},
+{
+     "id": 814,
+     "word": "للعائر",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للعصائر"
+},
+{
+     "id": 815,
+     "word": "البن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجبن"
+},
+{
+     "id": 816,
+     "word": "صلات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "صلصات"
+},
+{
+     "id": 817,
+     "word": "التميس",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التغميس"
+},
+{
+     "id": 818,
+     "word": "السطات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "السلطات"
+},
+{
+     "id": 819,
+     "word": "إضاته",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إضافته"
+},
+{
+     "id": 820,
+     "word": "الشائر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الشطائر"
+},
+{
+     "id": 821,
+     "word": "لإضاء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لإضفاء"
+},
+{
+     "id": 822,
+     "word": "مذق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مذاق"
+},
+{
+     "id": 823,
+     "word": "مقمش",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مقرمش"
+},
+{
+     "id": 824,
+     "word": "الشوبات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الشوربات"
+},
+{
+     "id": 825,
+     "word": "فيكن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فيمكن"
+},
+{
+     "id": 826,
+     "word": "إضاتها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إضافتها"
+},
+{
+     "id": 827,
+     "word": "أطاق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أطباق"
+},
+{
+     "id": 828,
+     "word": "الحاء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحساء"
+},
+{
+     "id": 829,
+     "word": "كمكه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كمنكه"
+},
+{
+     "id": 830,
+     "word": "لصلات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لصلصات"
+},
+{
+     "id": 831,
+     "word": "السطة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "السلطة"
+},
+{
+     "id": 832,
+     "word": "فط",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فرط"
+},
+{
+     "id": 833,
+     "word": "شحمات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شحميات"
+},
+{
+     "id": 834,
+     "word": "الجزئات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الجزيئات"
+},
+{
+     "id": 835,
+     "word": "الدنية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الدهنية"
+},
+{
+     "id": 836,
+     "word": "تجر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تجدر"
+},
+{
+     "id": 837,
+     "word": "الإارة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الإشارة"
+},
+{
+     "id": 838,
+     "word": "تظر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تظهر"
+},
+{
+     "id": 839,
+     "word": "غابا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "غالبا"
+},
+{
+     "id": 840,
+     "word": "أعاض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أعراض"
+},
+{
+     "id": 841,
+     "word": "أنا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أنها"
+},
+{
+     "id": 842,
+     "word": "الدى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المدى"
+},
+{
+     "id": 843,
+     "word": "الطيل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الطويل"
+},
+{
+     "id": 844,
+     "word": "مخطر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مخاطر"
+},
+{
+     "id": 845,
+     "word": "الستات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "السكتات"
+},
+{
+     "id": 846,
+     "word": "الدمغية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الدماغية"
+},
+{
+     "id": 847,
+     "word": "خض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خفض"
+},
+{
+     "id": 848,
+     "word": "نسة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نسبة"
+},
+{
+     "id": 849,
+     "word": "الكولترول",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الكولسترول"
+},
+{
+     "id": 850,
+     "word": "الار",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الضار"
+},
+{
+     "id": 851,
+     "word": "لمعفة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لمعرفة"
+},
+{
+     "id": 852,
+     "word": "الدهيات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الدهنيات"
+},
+{
+     "id": 853,
+     "word": "المرفعة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المرتفعة"
+},
+{
+     "id": 854,
+     "word": "تخع",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تخضع"
+},
+{
+     "id": 855,
+     "word": "لحية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لحمية"
+},
+{
+     "id": 856,
+     "word": "غذاية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "غذائية"
+},
+{
+     "id": 857,
+     "word": "مرتعة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مرتفعة"
+},
+{
+     "id": 858,
+     "word": "تطيق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تطبيق"
+},
+{
+     "id": 859,
+     "word": "الداسة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الدراسة"
+},
+{
+     "id": 860,
+     "word": "فط",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فقط"
+},
+{
+     "id": 861,
+     "word": "إجرئها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إجرائها"
+},
+{
+     "id": 862,
+     "word": "فإها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فإنها"
+},
+{
+     "id": 863,
+     "word": "تضف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تضيف"
+},
+{
+     "id": 864,
+     "word": "لاستلاك",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لاستهلاك"
+},
+{
+     "id": 865,
+     "word": "أشر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أشار"
+},
+{
+     "id": 866,
+     "word": "بث",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بحث"
+},
+{
+     "id": 867,
+     "word": "أجي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أجري"
+},
+{
+     "id": 868,
+     "word": "نر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نشر"
+},
+{
+     "id": 869,
+     "word": "همرد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "همدرد"
+},
+{
+     "id": 870,
+     "word": "خلاها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خلالها"
+},
+{
+     "id": 871,
+     "word": "ساد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ساعد"
+},
+{
+     "id": 872,
+     "word": "تثيط",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تثبيط"
+},
+{
+     "id": 873,
+     "word": "نو",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نمو"
+},
+{
+     "id": 874,
+     "word": "سران",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "سرطان"
+},
+{
+     "id": 875,
+     "word": "البد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الكبد"
+},
+{
+     "id": 876,
+     "word": "جت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جدت"
+},
+{
+     "id": 877,
+     "word": "مكاحة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مكافحة"
+},
+{
+     "id": 878,
+     "word": "أواق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أوراق"
+},
+{
+     "id": 879,
+     "word": "سعة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "سعرة"
+},
+{
+     "id": 880,
+     "word": "حراية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "حرارية"
+},
+{
+     "id": 881,
+     "word": "احتملية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "احتمالية"
+},
+{
+     "id": 882,
+     "word": "فلافنويد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فلافونويد"
+},
+{
+     "id": 883,
+     "word": "يطق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يطلق"
+},
+{
+     "id": 884,
+     "word": "ام",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "اسم"
+},
+{
+     "id": 885,
+     "word": "لوتيلين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لوتيولين"
+},
+{
+     "id": 886,
+     "word": "يعقد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يعتقد"
+},
+{
+     "id": 887,
+     "word": "وضته",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وضحته"
+},
+{
+     "id": 888,
+     "word": "فعالتها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فعاليتها"
+},
+{
+     "id": 889,
+     "word": "ألاف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ألياف"
+},
+{
+     "id": 890,
+     "word": "البتين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البكتين"
+},
+{
+     "id": 891,
+     "word": "أبيمان",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أبيومان"
+},
+{
+     "id": 892,
+     "word": "أثتت",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أثبتت"
+},
+{
+     "id": 893,
+     "word": "قرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قرحة"
+},
+{
+     "id": 894,
+     "word": "التكم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التحكم"
+},
+{
+     "id": 895,
+     "word": "بإفرزات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بإفرازات"
+},
+{
+     "id": 896,
+     "word": "كبرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كبيرة"
+},
+{
+     "id": 897,
+     "word": "الاء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الماء"
+},
+{
+     "id": 898,
+     "word": "تل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تصل"
+},
+{
+     "id": 899,
+     "word": "كبر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كبير"
+},
+{
+     "id": 900,
+     "word": "بنويها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بنوعيها"
+},
+{
+     "id": 901,
+     "word": "القبل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "القابل"
+},
+{
+     "id": 902,
+     "word": "للذبان",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للذوبان"
+},
+{
+     "id": 903,
+     "word": "تعيز",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تعزيز"
+},
+{
+     "id": 904,
+     "word": "صة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "صحة"
+},
+{
+     "id": 905,
+     "word": "المحفظة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المحافظة"
+},
+{
+     "id": 906,
+     "word": "حرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حركة"
+},
+{
+     "id": 907,
+     "word": "الأعاء",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأمعاء"
+},
+{
+     "id": 908,
+     "word": "منظم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "منتظم"
+},
+{
+     "id": 909,
+     "word": "الكية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الكمية"
+},
+{
+     "id": 910,
+     "word": "وحة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وحدة"
+},
+{
+     "id": 911,
+     "word": "دوية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "دولية"
+},
+{
+     "id": 912,
+     "word": "ويثر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ويؤثر"
+},
+{
+     "id": 913,
+     "word": "الدقية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الدبقية"
+},
+{
+     "id": 914,
+     "word": "الصيرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الصغيرة"
+},
+{
+     "id": 915,
+     "word": "بالإجيزية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالإجليزية"
+},
+{
+     "id": 916,
+     "word": "تنشر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تنتشر"
+},
+{
+     "id": 917,
+     "word": "طل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "طول"
+},
+{
+     "id": 918,
+     "word": "العبي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العصبي"
+},
+{
+     "id": 919,
+     "word": "المكزي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المركزي"
+},
+{
+     "id": 920,
+     "word": "وتد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وتعد"
+},
+{
+     "id": 921,
+     "word": "ولن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ولكن"
+},
+{
+     "id": 922,
+     "word": "إنتجها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إنتاجها"
+},
+{
+     "id": 923,
+     "word": "المرط",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المفرط"
+},
+{
+     "id": 924,
+     "word": "للجزئات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للجزيئات"
+},
+{
+     "id": 925,
+     "word": "حاة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حالة"
+},
+{
+     "id": 926,
+     "word": "التكل",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التآكل"
+},
+{
+     "id": 927,
+     "word": "الين",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الذين"
+},
+{
+     "id": 928,
+     "word": "يعاون",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يعانون"
+},
+{
+     "id": 929,
+     "word": "مض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مرض"
+},
+{
+     "id": 930,
+     "word": "ألزهيمر",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ألزهايمر"
+},
+{
+     "id": 931,
+     "word": "ومض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ومرض"
+},
+{
+     "id": 932,
+     "word": "كروتزفيدجاكوب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كروتزفيلدجاكوب"
+},
+{
+     "id": 933,
+     "word": "بجاعة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بجامعة"
+},
+{
+     "id": 934,
+     "word": "إليوي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إلينوي"
+},
+{
+     "id": 935,
+     "word": "إرباناامبين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إرباناشامبين"
+},
+{
+     "id": 936,
+     "word": "العاج",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العلاج"
+},
+{
+     "id": 937,
+     "word": "باللويولين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "باللوتيولين"
+},
+{
+     "id": 938,
+     "word": "للفران",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للفئران"
+},
+{
+     "id": 939,
+     "word": "تعضت",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تعرضت"
+},
+{
+     "id": 940,
+     "word": "يقل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يقلل"
+},
+{
+     "id": 941,
+     "word": "الالهاب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الالتهاب"
+},
+{
+     "id": 942,
+     "word": "النتج",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الناتج"
+},
+{
+     "id": 943,
+     "word": "عنا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عنها"
+},
+{
+     "id": 944,
+     "word": "تثط",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تثبط"
+},
+{
+     "id": 945,
+     "word": "محز",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "محفز"
+},
+{
+     "id": 946,
+     "word": "الين",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجين"
+},
+{
+     "id": 947,
+     "word": "المرض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المحرض"
+},
+{
+     "id": 948,
+     "word": "مؤشات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مؤشرات"
+},
+{
+     "id": 949,
+     "word": "والماغ",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والدماغ"
+},
+{
+     "id": 950,
+     "word": "المطقة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المنطقة"
+},
+{
+     "id": 951,
+     "word": "التلم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التعلم"
+},
+{
+     "id": 952,
+     "word": "والذكرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والذاكرة"
+},
+{
+     "id": 953,
+     "word": "واتي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والتي"
+},
+{
+     "id": 954,
+     "word": "تدى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تدعى"
+},
+{
+     "id": 955,
+     "word": "بالصين",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بالحصين"
+},
+{
+     "id": 956,
+     "word": "الول",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "القول"
+},
+{
+     "id": 957,
+     "word": "المن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الآمن"
+},
+{
+     "id": 958,
+     "word": "زت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "زيت"
+},
+{
+     "id": 959,
+     "word": "وبذره",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وبذوره"
+},
+{
+     "id": 960,
+     "word": "طرق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "طريق"
+},
+{
+     "id": 961,
+     "word": "الم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الفم"
+},
+{
+     "id": 962,
+     "word": "وجات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وجبات"
+},
+{
+     "id": 963,
+     "word": "آما",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "آمنا"
+},
+{
+     "id": 964,
+     "word": "لمظم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لمعظم"
+},
+{
+     "id": 965,
+     "word": "الاس",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الناس"
+},
+{
+     "id": 966,
+     "word": "وضه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وضعه"
+},
+{
+     "id": 967,
+     "word": "دواية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "دوائية"
+},
+{
+     "id": 968,
+     "word": "قصرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قصيرة"
+},
+{
+     "id": 969,
+     "word": "وع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ومع"
+},
+{
+     "id": 970,
+     "word": "فإه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فإنه"
+},
+{
+     "id": 971,
+     "word": "التابا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التهابا"
+},
+{
+     "id": 972,
+     "word": "وزيدة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وزيادة"
+},
+{
+     "id": 973,
+     "word": "لذك",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لذلك"
+},
+{
+     "id": 974,
+     "word": "توي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "توخي"
+},
+{
+     "id": 975,
+     "word": "الذر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحذر"
+},
+{
+     "id": 976,
+     "word": "إه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إنه"
+},
+{
+     "id": 977,
+     "word": "وبور",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وبذور"
+},
+{
+     "id": 978,
+     "word": "مرلة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مرحلة"
+},
+{
+     "id": 979,
+     "word": "المل",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحمل"
+},
+{
+     "id": 980,
+     "word": "انقاض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "انقباض"
+},
+{
+     "id": 981,
+     "word": "الحم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الرحم"
+},
+{
+     "id": 982,
+     "word": "والإهاض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والإجهاض"
+},
+{
+     "id": 983,
+     "word": "موثقة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "موثوقة"
+},
+{
+     "id": 984,
+     "word": "سلمة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "سلامة"
+},
+{
+     "id": 985,
+     "word": "الراعة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الرضاعة"
+},
+{
+     "id": 986,
+     "word": "طبة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "طبية"
+},
+{
+     "id": 987,
+     "word": "ضط",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ضغط"
+},
+{
+     "id": 988,
+     "word": "وللك",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ولذلك"
+},
+{
+     "id": 989,
+     "word": "بتجبه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بتجنبه"
+},
+{
+     "id": 990,
+     "word": "المعناة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المعاناة"
+},
+{
+     "id": 991,
+     "word": "انخاضه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "انخفاضه"
+},
+{
+     "id": 992,
+     "word": "ويكن",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ويمكن"
+},
+{
+     "id": 993,
+     "word": "للإراط",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للإفراط"
+},
+{
+     "id": 994,
+     "word": "نزف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نزيف"
+},
+{
+     "id": 995,
+     "word": "باضطابات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "باضطرابات"
+},
+{
+     "id": 996,
+     "word": "نزية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نزفية"
+},
+{
+     "id": 997,
+     "word": "محاير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "محاذير"
+},
+{
+     "id": 998,
+     "word": "ليفوثيوكسين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ليفوثيروكسين"
+},
+{
+     "id": 999,
+     "word": "ويسخدم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ويستخدم"
+},
+{
+     "id": 1000,
+     "word": "الداء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الدواء"
+},
+{
+     "id": 1001,
+     "word": "قصر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قصور"
+},
+{
+     "id": 1002,
+     "word": "الدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الغدة"
+},
+{
+     "id": 1003,
+     "word": "الدقية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الدرقية"
+},
+{
+     "id": 1004,
+     "word": "مه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "معه"
+},
+{
+     "id": 1005,
+     "word": "فعايته",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فعاليته"
+},
+{
+     "id": 1006,
+     "word": "ومى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ومدى"
+},
+{
+     "id": 1007,
+     "word": "تأثره",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تأثيره"
+},
+{
+     "id": 1008,
+     "word": "زل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "زال"
+},
+{
+     "id": 1009,
+     "word": "معوف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "معروف"
+},
+{
+     "id": 1010,
+     "word": "يتنالون",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "يتناولون"
+},
+{
+     "id": 1011,
+     "word": "بالذر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بالحذر"
+},
+{
+     "id": 1012,
+     "word": "ونكر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ونذكر"
+},
+{
+     "id": 1013,
+     "word": "يأي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يأتي"
+},
+{
+     "id": 1014,
+     "word": "وتدر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وتجدر"
+},
+{
+     "id": 1015,
+     "word": "تحوي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تحتوي"
+},
+{
+     "id": 1016,
+     "word": "الوع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "النوع"
+},
+{
+     "id": 1017,
+     "word": "الهمي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الهيمي"
+},
+{
+     "id": 1018,
+     "word": "يخلف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يختلف"
+},
+{
+     "id": 1019,
+     "word": "المجود",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الموجود"
+},
+{
+     "id": 1020,
+     "word": "المنجات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المنتجات"
+},
+{
+     "id": 1021,
+     "word": "ويخلف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ويختلف"
+},
+{
+     "id": 1022,
+     "word": "هذن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "هذان"
+},
+{
+     "id": 1023,
+     "word": "النعان",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "النوعان"
+},
+{
+     "id": 1024,
+     "word": "قدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قدرة"
+},
+{
+     "id": 1025,
+     "word": "امتاصه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "امتصاصه"
+},
+{
+     "id": 1026,
+     "word": "امتاص",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "امتصاص"
+},
+{
+     "id": 1027,
+     "word": "يتجوز",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يتجاوز"
+},
+{
+     "id": 1028,
+     "word": "ولذا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ولهذا"
+},
+{
+     "id": 1029,
+     "word": "بتنول",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بتناول"
+},
+{
+     "id": 1030,
+     "word": "لزيدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لزيادة"
+},
+{
+     "id": 1031,
+     "word": "امتصصها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "امتصاصها"
+},
+{
+     "id": 1032,
+     "word": "ون",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ومن"
+},
+{
+     "id": 1033,
+     "word": "بفيتمين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بفيتامين"
+},
+{
+     "id": 1034,
+     "word": "اللو",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحلو"
+},
+{
+     "id": 1035,
+     "word": "والحضيات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والحمضيات"
+},
+{
+     "id": 1036,
+     "word": "والوت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والتوت"
+},
+{
+     "id": 1037,
+     "word": "تنالها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تناولها"
+},
+{
+     "id": 1038,
+     "word": "العصر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العنصر"
+},
+{
+     "id": 1039,
+     "word": "الغائي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الغذائي"
+},
+{
+     "id": 1040,
+     "word": "المغنسيوم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المغنيسيوم"
+},
+{
+     "id": 1041,
+     "word": "لس",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ليس"
+},
+{
+     "id": 1042,
+     "word": "الويد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الوحيد"
+},
+{
+     "id": 1043,
+     "word": "لإضفته",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لإضافته"
+},
+{
+     "id": 1044,
+     "word": "النام",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "النظام"
+},
+{
+     "id": 1045,
+     "word": "الواية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الوقاية"
+},
+{
+     "id": 1046,
+     "word": "نذر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نذكر"
+},
+{
+     "id": 1047,
+     "word": "الكربويدرات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الكربوهيدرات"
+},
+{
+     "id": 1048,
+     "word": "لتحين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لتحسين"
+},
+{
+     "id": 1049,
+     "word": "عر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عسر"
+},
+{
+     "id": 1050,
+     "word": "المث",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الطمث"
+},
+{
+     "id": 1051,
+     "word": "وتخيف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وتخفيف"
+},
+{
+     "id": 1052,
+     "word": "آلم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "آلام"
+},
+{
+     "id": 1053,
+     "word": "العلات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العضلات"
+},
+{
+     "id": 1054,
+     "word": "والماصل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والمفاصل"
+},
+{
+     "id": 1055,
+     "word": "والقرس",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والنقرس"
+},
+{
+     "id": 1056,
+     "word": "والداع",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والصداع"
+},
+{
+     "id": 1057,
+     "word": "وتعيز",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وتعزيز"
+},
+{
+     "id": 1058,
+     "word": "الشية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الشهية"
+},
+{
+     "id": 1059,
+     "word": "والتفيف",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والتخفيف"
+},
+{
+     "id": 1060,
+     "word": "الغزات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الغازات"
+},
+{
+     "id": 1061,
+     "word": "إدار",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "إدرار"
+},
+{
+     "id": 1062,
+     "word": "الحيب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحليب"
+},
+{
+     "id": 1063,
+     "word": "وتقيل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وتقليل"
+},
+{
+     "id": 1064,
+     "word": "والماعدة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والمساعدة"
+},
+{
+     "id": 1065,
+     "word": "الضم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الهضم"
+},
+{
+     "id": 1066,
+     "word": "وتنيم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وتنظيم"
+},
+{
+     "id": 1067,
+     "word": "وغيها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وغيرها"
+},
+{
+     "id": 1068,
+     "word": "وبحجة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وبحاجة"
+},
+{
+     "id": 1069,
+     "word": "لتأيد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لتأكيد"
+},
+{
+     "id": 1070,
+     "word": "القمة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "القيمة"
+},
+{
+     "id": 1071,
+     "word": "لأواق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لأوراق"
+},
+{
+     "id": 1072,
+     "word": "العبية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العصبية"
+},
+{
+     "id": 1073,
+     "word": "الأبينين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأبجينين"
+},
+{
+     "id": 1074,
+     "word": "يحز",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يحفز"
+},
+{
+     "id": 1075,
+     "word": "ونمها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ونموها"
+},
+{
+     "id": 1076,
+     "word": "وتطرها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وتطورها"
+},
+{
+     "id": 1077,
+     "word": "أظرت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أظهرت"
+},
+{
+     "id": 1078,
+     "word": "مدنة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مدينة"
+},
+{
+     "id": 1079,
+     "word": "دبن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "دبلن"
+},
+{
+     "id": 1080,
+     "word": "حن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حقن"
+},
+{
+     "id": 1081,
+     "word": "عر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عبر"
+},
+{
+     "id": 1082,
+     "word": "حن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حسن"
+},
+{
+     "id": 1083,
+     "word": "الذكرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الذاكرة"
+},
+{
+     "id": 1084,
+     "word": "والعلم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والتعلم"
+},
+{
+     "id": 1085,
+     "word": "لإجاء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لإجراء"
+},
+{
+     "id": 1086,
+     "word": "النائج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "النتائج"
+},
+{
+     "id": 1087,
+     "word": "تحين",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تحسين"
+},
+{
+     "id": 1088,
+     "word": "الكر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "السكر"
+},
+{
+     "id": 1089,
+     "word": "المصبين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المصابين"
+},
+{
+     "id": 1090,
+     "word": "بمقمات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بمقدمات"
+},
+{
+     "id": 1091,
+     "word": "الحاظ",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحفاظ"
+},
+{
+     "id": 1092,
+     "word": "للكر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للسكر"
+},
+{
+     "id": 1093,
+     "word": "مها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مهما"
+},
+{
+     "id": 1094,
+     "word": "للد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "للحد"
+},
+{
+     "id": 1095,
+     "word": "بمض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بمرض"
+},
+{
+     "id": 1096,
+     "word": "الثني",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الثاني"
+},
+{
+     "id": 1097,
+     "word": "أماض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أمراض"
+},
+{
+     "id": 1098,
+     "word": "ويد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ويعد"
+},
+{
+     "id": 1099,
+     "word": "وادا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "واحدا"
+},
+{
+     "id": 1100,
+     "word": "تسهم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تساهم"
+},
+{
+     "id": 1101,
+     "word": "للإنولين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للإنسولين"
+},
+{
+     "id": 1102,
+     "word": "وو",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وهو"
+},
+{
+     "id": 1103,
+     "word": "الهمون",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الهرمون"
+},
+{
+     "id": 1104,
+     "word": "المؤول",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المسؤول"
+},
+{
+     "id": 1105,
+     "word": "تنيم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تنظيم"
+},
+{
+     "id": 1106,
+     "word": "وادة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "واحدة"
+},
+{
+     "id": 1107,
+     "word": "بالمغيسيوم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالمغنيسيوم"
+},
+{
+     "id": 1108,
+     "word": "لإضفة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لإضافة"
+},
+{
+     "id": 1109,
+     "word": "بنبة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بنسبة"
+},
+{
+     "id": 1110,
+     "word": "وذك",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وذلك"
+},
+{
+     "id": 1111,
+     "word": "بيته",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بينته"
+},
+{
+     "id": 1112,
+     "word": "تحيل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تحليل"
+},
+{
+     "id": 1113,
+     "word": "شملي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شمولي"
+},
+{
+     "id": 1114,
+     "word": "أ",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "أ"
+},
+{
+     "id": 1115,
+     "word": "شع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شاع"
+},
+{
+     "id": 1116,
+     "word": "شب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شرب"
+},
+{
+     "id": 1117,
+     "word": "عصر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "عصير"
+},
+{
+     "id": 1118,
+     "word": "الصية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الصحية"
+},
+{
+     "id": 1119,
+     "word": "خص",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خاص"
+},
+{
+     "id": 1120,
+     "word": "وي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وفي"
+},
+{
+     "id": 1121,
+     "word": "الحيقة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحقيقة"
+},
+{
+     "id": 1122,
+     "word": "يتون",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يتكون"
+},
+{
+     "id": 1123,
+     "word": "بمعمه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بمعظمه"
+},
+{
+     "id": 1124,
+     "word": "بالسائل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بالسوائل"
+},
+{
+     "id": 1125,
+     "word": "ذر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ذكر"
+},
+{
+     "id": 1126,
+     "word": "ويدر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ويجدر"
+},
+{
+     "id": 1127,
+     "word": "حولي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حوالي"
+},
+{
+     "id": 1128,
+     "word": "وي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وهي"
+},
+{
+     "id": 1129,
+     "word": "لعمية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لعملية"
+},
+{
+     "id": 1130,
+     "word": "المابل",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المقابل"
+},
+{
+     "id": 1131,
+     "word": "غاب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "غالب"
+},
+{
+     "id": 1132,
+     "word": "الأيان",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأحيان"
+},
+{
+     "id": 1133,
+     "word": "يحل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يحول"
+},
+{
+     "id": 1134,
+     "word": "دن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "دون"
+},
+{
+     "id": 1135,
+     "word": "الحول",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الحصول"
+},
+{
+     "id": 1136,
+     "word": "فوادها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "فوائدها"
+},
+{
+     "id": 1137,
+     "word": "العير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العصير"
+},
+{
+     "id": 1138,
+     "word": "يبى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يبقى"
+},
+{
+     "id": 1139,
+     "word": "محاظا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "محافظا"
+},
+{
+     "id": 1140,
+     "word": "الفيتمينات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الفيتامينات"
+},
+{
+     "id": 1141,
+     "word": "والمادن",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والمعادن"
+},
+{
+     "id": 1142,
+     "word": "وبانظر",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وبالنظر"
+},
+{
+     "id": 1143,
+     "word": "معم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "معظم"
+},
+{
+     "id": 1144,
+     "word": "وتنول",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وتناول"
+},
+{
+     "id": 1145,
+     "word": "الكملة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الكاملة"
+},
+{
+     "id": 1146,
+     "word": "مليلرات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مليلترات"
+},
+{
+     "id": 1147,
+     "word": "لتحيد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لتحديد"
+},
+{
+     "id": 1148,
+     "word": "أم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أهم"
+},
+{
+     "id": 1149,
+     "word": "يزع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يزرع"
+},
+{
+     "id": 1150,
+     "word": "نطق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نطاق"
+},
+{
+     "id": 1151,
+     "word": "واع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "واسع"
+},
+{
+     "id": 1152,
+     "word": "ذت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ذات"
+},
+{
+     "id": 1153,
+     "word": "الماخ",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المناخ"
+},
+{
+     "id": 1154,
+     "word": "المتدل",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المعتدل"
+},
+{
+     "id": 1155,
+     "word": "ثناية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ثنائية"
+},
+{
+     "id": 1156,
+     "word": "الول",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحول"
+},
+{
+     "id": 1157,
+     "word": "يل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يصل"
+},
+{
+     "id": 1158,
+     "word": "طوها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "طولها"
+},
+{
+     "id": 1159,
+     "word": "مر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "متر"
+},
+{
+     "id": 1160,
+     "word": "وعرها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وعرضها"
+},
+{
+     "id": 1161,
+     "word": "ويهر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ويزهر"
+},
+{
+     "id": 1162,
+     "word": "بدية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بداية"
+},
+{
+     "id": 1163,
+     "word": "كاون",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كانون"
+},
+{
+     "id": 1164,
+     "word": "وحى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وحتى"
+},
+{
+     "id": 1165,
+     "word": "شر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شهر"
+},
+{
+     "id": 1166,
+     "word": "آب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "آب"
+},
+{
+     "id": 1167,
+     "word": "وتضج",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وتنضج"
+},
+{
+     "id": 1168,
+     "word": "شهي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شهري"
+},
+{
+     "id": 1169,
+     "word": "وأيول",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وأيلول"
+},
+{
+     "id": 1170,
+     "word": "وتتيز",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وتتميز"
+},
+{
+     "id": 1171,
+     "word": "أزار",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أزهار"
+},
+{
+     "id": 1172,
+     "word": "بكوها",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بكونها"
+},
+{
+     "id": 1173,
+     "word": "خنى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خنثى"
+},
+{
+     "id": 1174,
+     "word": "النس",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجنس"
+},
+{
+     "id": 1175,
+     "word": "الضو",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العضو"
+},
+{
+     "id": 1176,
+     "word": "الذري",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الذكري"
+},
+{
+     "id": 1177,
+     "word": "والأثوي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والأنثوي"
+},
+{
+     "id": 1178,
+     "word": "وبالالي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وبالتالي"
+},
+{
+     "id": 1179,
+     "word": "نباات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "نباتات"
+},
+{
+     "id": 1180,
+     "word": "ذاية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ذاتية"
+},
+{
+     "id": 1181,
+     "word": "التقيح",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التلقيح"
+},
+{
+     "id": 1182,
+     "word": "التبة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التربة"
+},
+{
+     "id": 1183,
+     "word": "الرلية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الرملية"
+},
+{
+     "id": 1184,
+     "word": "والطالية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والطفالية"
+},
+{
+     "id": 1185,
+     "word": "والطنية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والطينية"
+},
+{
+     "id": 1186,
+     "word": "منابة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مناسبة"
+},
+{
+     "id": 1187,
+     "word": "لزرعة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لزراعة"
+},
+{
+     "id": 1188,
+     "word": "ولنه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ولكنه"
+},
+{
+     "id": 1189,
+     "word": "الربة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الرطبة"
+},
+{
+     "id": 1190,
+     "word": "وعصره",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وعصيره"
+},
+{
+     "id": 1191,
+     "word": "يسبا",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "يسببا"
+},
+{
+     "id": 1192,
+     "word": "الآار",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الآثار"
+},
+{
+     "id": 1193,
+     "word": "الجابية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الجانبية"
+},
+{
+     "id": 1194,
+     "word": "منابا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مناسبا"
+},
+{
+     "id": 1195,
+     "word": "لجيع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لجميع"
+},
+{
+     "id": 1196,
+     "word": "السوالين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "السورالين"
+},
+{
+     "id": 1197,
+     "word": "الكييائي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الكيميائي"
+},
+{
+     "id": 1198,
+     "word": "والأعمة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والأطعمة"
+},
+{
+     "id": 1199,
+     "word": "بنب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بنسب"
+},
+{
+     "id": 1200,
+     "word": "للأعة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للأشعة"
+},
+{
+     "id": 1201,
+     "word": "فق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فوق"
+},
+{
+     "id": 1202,
+     "word": "البنسجية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البنفسجية"
+},
+{
+     "id": 1203,
+     "word": "الاابة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الاصابة"
+},
+{
+     "id": 1204,
+     "word": "بالهاب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالتهاب"
+},
+{
+     "id": 1205,
+     "word": "والغير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والتغير"
+},
+{
+     "id": 1206,
+     "word": "صفت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "صفات"
+},
+{
+     "id": 1207,
+     "word": "يدى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يدعى"
+},
+{
+     "id": 1208,
+     "word": "بشيوخة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بشيخوخة"
+},
+{
+     "id": 1209,
+     "word": "تهجا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تهيجا"
+},
+{
+     "id": 1210,
+     "word": "لللد",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للجلد"
+},
+{
+     "id": 1211,
+     "word": "اتاه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "اتجاه"
+},
+{
+     "id": 1212,
+     "word": "لمهم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لمسهم"
+},
+{
+     "id": 1213,
+     "word": "للأعمة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للأطعمة"
+},
+{
+     "id": 1214,
+     "word": "المحوية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المحتوية"
+},
+{
+     "id": 1215,
+     "word": "يصب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يصاب"
+},
+{
+     "id": 1216,
+     "word": "بحسسية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بحساسية"
+},
+{
+     "id": 1217,
+     "word": "الأراض",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأعراض"
+},
+{
+     "id": 1218,
+     "word": "با",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بما"
+},
+{
+     "id": 1219,
+     "word": "ردد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ردود"
+},
+{
+     "id": 1220,
+     "word": "فل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فعل"
+},
+{
+     "id": 1221,
+     "word": "تحسية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تحسسية"
+},
+{
+     "id": 1222,
+     "word": "واضطابات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "واضطرابات"
+},
+{
+     "id": 1223,
+     "word": "هضية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "هضمية"
+},
+{
+     "id": 1224,
+     "word": "ومشكل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ومشاكل"
+},
+{
+     "id": 1225,
+     "word": "تنفية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "تنفسية"
+},
+{
+     "id": 1226,
+     "word": "حاات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "حالات"
+},
+{
+     "id": 1227,
+     "word": "نارة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "نادرة"
+},
+{
+     "id": 1228,
+     "word": "ممتة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مميتة"
+},
+{
+     "id": 1229,
+     "word": "تعف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تعرف"
+},
+{
+     "id": 1230,
+     "word": "بالدمة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالصدمة"
+},
+{
+     "id": 1231,
+     "word": "التحسية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التحسسية"
+},
+{
+     "id": 1232,
+     "word": "التجيبية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "التجريبية"
+},
+{
+     "id": 1233,
+     "word": "الحيثة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحديثة"
+},
+{
+     "id": 1234,
+     "word": "لتنول",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لتناول"
+},
+{
+     "id": 1235,
+     "word": "يحن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يحسن"
+},
+{
+     "id": 1236,
+     "word": "ارتاعه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ارتفاعه"
+},
+{
+     "id": 1237,
+     "word": "بدجة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بدرجة"
+},
+{
+     "id": 1238,
+     "word": "بسطة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بسيطة"
+},
+{
+     "id": 1239,
+     "word": "متوطة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "متوسطة"
+},
+{
+     "id": 1240,
+     "word": "حد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حدد"
+},
+{
+     "id": 1241,
+     "word": "يعد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يعود"
+},
+{
+     "id": 1242,
+     "word": "لمحواه",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لمحتواه"
+},
+{
+     "id": 1243,
+     "word": "يسى",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "يسمى"
+},
+{
+     "id": 1244,
+     "word": "اختارا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "اختصارا"
+},
+{
+     "id": 1245,
+     "word": "بـ",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بـ"
+},
+{
+     "id": 1246,
+     "word": "واذي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والذي"
+},
+{
+     "id": 1247,
+     "word": "مسؤلا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مسؤولا"
+},
+{
+     "id": 1248,
+     "word": "وراحة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ورائحة"
+},
+{
+     "id": 1249,
+     "word": "النك",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الزنك"
+},
+{
+     "id": 1250,
+     "word": "مليلترا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مليليترا"
+},
+{
+     "id": 1251,
+     "word": "اللييوم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الليثيوم"
+},
+{
+     "id": 1252,
+     "word": "فن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فمن"
+},
+{
+     "id": 1253,
+     "word": "المتمل",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المحتمل"
+},
+{
+     "id": 1254,
+     "word": "مشبه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مشابه"
+},
+{
+     "id": 1255,
+     "word": "لأدية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لأدوية"
+},
+{
+     "id": 1256,
+     "word": "الول",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "البول"
+},
+{
+     "id": 1257,
+     "word": "إخاج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "إخراج"
+},
+{
+     "id": 1258,
+     "word": "دال",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "داخل"
+},
+{
+     "id": 1259,
+     "word": "يتبب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يتسبب"
+},
+{
+     "id": 1260,
+     "word": "بحوث",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بحدوث"
+},
+{
+     "id": 1261,
+     "word": "جانية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جانبية"
+},
+{
+     "id": 1262,
+     "word": "خطرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خطيرة"
+},
+{
+     "id": 1263,
+     "word": "باستارة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "باستشارة"
+},
+{
+     "id": 1264,
+     "word": "مقم",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مقدم"
+},
+{
+     "id": 1265,
+     "word": "الراية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الرعاية"
+},
+{
+     "id": 1266,
+     "word": "يتلب",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "يتطلب"
+},
+{
+     "id": 1267,
+     "word": "المر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأمر"
+},
+{
+     "id": 1268,
+     "word": "حيها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "حينها"
+},
+{
+     "id": 1269,
+     "word": "تغير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تغيير"
+},
+{
+     "id": 1270,
+     "word": "جرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "جرعة"
+},
+{
+     "id": 1271,
+     "word": "الفلات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الفولات"
+},
+{
+     "id": 1272,
+     "word": "غنة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "غنية"
+},
+{
+     "id": 1273,
+     "word": "بالفيتمينات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالفيتامينات"
+},
+{
+     "id": 1274,
+     "word": "مؤره",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "مؤشره"
+},
+{
+     "id": 1275,
+     "word": "الجلاسيمي",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الجلايسيمي"
+},
+{
+     "id": 1276,
+     "word": "وفيتمين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "وفيتامين"
+},
+{
+     "id": 1277,
+     "word": "ك",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ك"
+},
+{
+     "id": 1278,
+     "word": "والفلات",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والفولات"
+},
+{
+     "id": 1279,
+     "word": "ويتيز",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ويتميز"
+},
+{
+     "id": 1280,
+     "word": "فه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فيه"
+},
+{
+     "id": 1281,
+     "word": "ينرج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "يندرج"
+},
+{
+     "id": 1282,
+     "word": "قامة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قائمة"
+},
+{
+     "id": 1283,
+     "word": "المشر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المؤشر"
+},
+{
+     "id": 1284,
+     "word": "المخفض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المنخفض"
+},
+{
+     "id": 1285,
+     "word": "يرع",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يرفع"
+},
+{
+     "id": 1286,
+     "word": "معل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "معدل"
+},
+{
+     "id": 1287,
+     "word": "سر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "سكر"
+},
+{
+     "id": 1288,
+     "word": "بطء",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بطيء"
+},
+{
+     "id": 1289,
+     "word": "واليت",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والزيت"
+},
+{
+     "id": 1290,
+     "word": "المسخرج",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المستخرج"
+},
+{
+     "id": 1291,
+     "word": "التابل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "التوابل"
+},
+{
+     "id": 1292,
+     "word": "متعدة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "متعددة"
+},
+{
+     "id": 1293,
+     "word": "الاستدامات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الاستخدامات"
+},
+{
+     "id": 1294,
+     "word": "وعدة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وعادة"
+},
+{
+     "id": 1295,
+     "word": "الهي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الطهي"
+},
+{
+     "id": 1296,
+     "word": "وتتفر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وتتوفر"
+},
+{
+     "id": 1297,
+     "word": "كحوب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "كحبوب"
+},
+{
+     "id": 1298,
+     "word": "شل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شكل"
+},
+{
+     "id": 1299,
+     "word": "مسوق",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مسحوق"
+},
+{
+     "id": 1300,
+     "word": "خن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "خشن"
+},
+{
+     "id": 1301,
+     "word": "نام",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "ناعم"
+},
+{
+     "id": 1302,
+     "word": "غنا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "غنيا"
+},
+{
+     "id": 1303,
+     "word": "بالواد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بالمواد"
+},
+{
+     "id": 1304,
+     "word": "وعى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وعلى"
+},
+{
+     "id": 1305,
+     "word": "الآنة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الآونة"
+},
+{
+     "id": 1306,
+     "word": "الأيرة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأخيرة"
+},
+{
+     "id": 1307,
+     "word": "لخض",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لخفض"
+},
+{
+     "id": 1308,
+     "word": "فعى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فعلى"
+},
+{
+     "id": 1309,
+     "word": "والأياف",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والألياف"
+},
+{
+     "id": 1310,
+     "word": "ومضدات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ومضادات"
+},
+{
+     "id": 1311,
+     "word": "الحة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الصحة"
+},
+{
+     "id": 1312,
+     "word": "وحها",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "وحدها"
+},
+{
+     "id": 1313,
+     "word": "كمكلات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كمكملات"
+},
+{
+     "id": 1314,
+     "word": "بيه",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "بينه"
+},
+{
+     "id": 1315,
+     "word": "الدتور",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الدكتور"
+},
+{
+     "id": 1316,
+     "word": "كيث",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "كينث"
+},
+{
+     "id": 1317,
+     "word": "شير",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "شيفر"
+},
+{
+     "id": 1318,
+     "word": "المخصص",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "المتخصص"
+},
+{
+     "id": 1319,
+     "word": "طب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "طب"
+},
+{
+     "id": 1320,
+     "word": "المسخلصة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المستخلصة"
+},
+{
+     "id": 1321,
+     "word": "والمكبات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والمركبات"
+},
+{
+     "id": 1322,
+     "word": "الأرى",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الأخرى"
+},
+{
+     "id": 1323,
+     "word": "والبب",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والسبب"
+},
+{
+     "id": 1324,
+     "word": "المستلصات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المستخلصات"
+},
+{
+     "id": 1325,
+     "word": "الرر",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الضرر"
+},
+{
+     "id": 1326,
+     "word": "أحينا",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "أحيانا"
+},
+{
+     "id": 1327,
+     "word": "امتاك",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "امتلاك"
+},
+{
+     "id": 1328,
+     "word": "قلي",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "قلوي"
+},
+{
+     "id": 1329,
+     "word": "احتاء",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "احتواء"
+},
+{
+     "id": 1330,
+     "word": "والديد",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "والحديد"
+},
+{
+     "id": 1331,
+     "word": "والصديوم",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "والصوديوم"
+},
+{
+     "id": 1332,
+     "word": "معدل",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "معادل"
+},
+{
+     "id": 1333,
+     "word": "الحضية",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الحمضية"
+},
+{
+     "id": 1334,
+     "word": "مهة",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "مهمة"
+},
+{
+     "id": 1335,
+     "word": "للوائف",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "للوظائف"
+},
+{
+     "id": 1336,
+     "word": "لبور",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لبذور"
+},
+{
+     "id": 1337,
+     "word": "معن",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "معدن"
+},
+{
+     "id": 1338,
+     "word": "المننيز",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "المنغنيز"
+},
+{
+     "id": 1339,
+     "word": "ينط",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "ينشط"
+},
+{
+     "id": 1340,
+     "word": "الإنيمات",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الإنزيمات"
+},
+{
+     "id": 1341,
+     "word": "تنج",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تنتج"
+},
+{
+     "id": 1342,
+     "word": "لتكين",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "لتكوين"
+},
+{
+     "id": 1343,
+     "word": "الأسجة",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "الأنسجة"
+},
+{
+     "id": 1344,
+     "word": "العمية",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "العظمية"
+},
+{
+     "id": 1345,
+     "word": "الغروف",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "الغضروف"
+},
+{
+     "id": 1346,
+     "word": "لمعني",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "لمعدني"
+},
+{
+     "id": 1347,
+     "word": "اللان",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "اللذان"
+},
+{
+     "id": 1348,
+     "word": "يدعان",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "يدعمان"
+},
+{
+     "id": 1349,
+     "word": "تكين",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "تكوين"
+},
+{
+     "id": 1350,
+     "word": "بالمابل",
+     "tag": "wrong",
+     "domain": "AppliedScience",
+     "correct word": "بالمقابل"
+},
+{
+     "id": 1351,
+     "word": "فيما",
+     "tag": "correct",
+     "domain": "AppliedScience",
+     "correct word": "فيهما"
+}
+]

@@ -1,0 +1,6042 @@
+[{
+     "id": 1,
+     "word": "الندام",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "النظام"
+},
+{
+     "id": 2,
+     "word": "العلفي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العرفي"
+},
+{
+     "id": 3,
+     "word": "تعومد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تعتمد"
+},
+{
+     "id": 4,
+     "word": "عظى",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "على"
+},
+{
+     "id": 5,
+     "word": "إجرزءات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "إجراءات"
+},
+{
+     "id": 6,
+     "word": "قوذعد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "قواعد"
+},
+{
+     "id": 7,
+     "word": "تقلهدية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تقليدية"
+},
+{
+     "id": 8,
+     "word": "مبآية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مبنية"
+},
+{
+     "id": 9,
+     "word": "ثقيفة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "ثقافة"
+},
+{
+     "id": 10,
+     "word": "المثتمع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المجتمع"
+},
+{
+     "id": 11,
+     "word": "عادجتهم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عاداتهم"
+},
+{
+     "id": 12,
+     "word": "تقالشدهم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تقاليدهم"
+},
+{
+     "id": 13,
+     "word": "تخللف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تختلف"
+},
+{
+     "id": 14,
+     "word": "من",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "من"
+},
+{
+     "id": 15,
+     "word": "مجعمع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مجتمع"
+},
+{
+     "id": 16,
+     "word": "لآكر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لآخر"
+},
+{
+     "id": 17,
+     "word": "كةا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "كما"
+},
+{
+     "id": 18,
+     "word": "تمزل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تمثل"
+},
+{
+     "id": 19,
+     "word": "هشه",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "هذه"
+},
+{
+     "id": 20,
+     "word": "القناعد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القواعد"
+},
+{
+     "id": 21,
+     "word": "حس",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "حس"
+},
+{
+     "id": 22,
+     "word": "العوالة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "العدالة"
+},
+{
+     "id": 23,
+     "word": "لخى",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لدى"
+},
+{
+     "id": 24,
+     "word": "الأتخاص",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأشخاص"
+},
+{
+     "id": 25,
+     "word": "عافة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "عادة"
+},
+{
+     "id": 26,
+     "word": "لا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لا"
+},
+{
+     "id": 27,
+     "word": "تكجن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تكون"
+},
+{
+     "id": 28,
+     "word": "تؤك",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تلك"
+},
+{
+     "id": 29,
+     "word": "القوخنين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القوانين"
+},
+{
+     "id": 30,
+     "word": "مكتآبة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مكتوبة"
+},
+{
+     "id": 31,
+     "word": "حلث",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حيث"
+},
+{
+     "id": 32,
+     "word": "لقل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لكل"
+},
+{
+     "id": 33,
+     "word": "حاإة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حالة"
+},
+{
+     "id": 34,
+     "word": "معهنة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "معينة"
+},
+{
+     "id": 35,
+     "word": "دبن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "دون"
+},
+{
+     "id": 36,
+     "word": "تعةيم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تعميم"
+},
+{
+     "id": 37,
+     "word": "مطيق",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مطلق"
+},
+{
+     "id": 38,
+     "word": "هو",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "هو"
+},
+{
+     "id": 39,
+     "word": "مجمنعة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مجموعة"
+},
+{
+     "id": 40,
+     "word": "التشأيعات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التشريعات"
+},
+{
+     "id": 41,
+     "word": "الإضهية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الإلهية"
+},
+{
+     "id": 42,
+     "word": "التففيرات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التفسيرات"
+},
+{
+     "id": 43,
+     "word": "المتنلقة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المتعلقة"
+},
+{
+     "id": 44,
+     "word": "بقا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بها"
+},
+{
+     "id": 45,
+     "word": "الصي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التي"
+},
+{
+     "id": 46,
+     "word": "ببث",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بعث"
+},
+{
+     "id": 47,
+     "word": "الأنفياء",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأنبياء"
+},
+{
+     "id": 48,
+     "word": "ليعلءوها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ليعلموها"
+},
+{
+     "id": 49,
+     "word": "للشاس",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للناس"
+},
+{
+     "id": 50,
+     "word": "يقم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يتم"
+},
+{
+     "id": 51,
+     "word": "الؤصل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الفصل"
+},
+{
+     "id": 52,
+     "word": "في",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "في"
+},
+{
+     "id": 53,
+     "word": "الخلآفات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الخلافات"
+},
+{
+     "id": 54,
+     "word": "خلةل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "خلال"
+},
+{
+     "id": 55,
+     "word": "شءص",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "شخص"
+},
+{
+     "id": 56,
+     "word": "يسطى",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يسمى"
+},
+{
+     "id": 57,
+     "word": "قاض",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "قاض"
+},
+{
+     "id": 58,
+     "word": "أو",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أو"
+},
+{
+     "id": 59,
+     "word": "كاظن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "كاهن"
+},
+{
+     "id": 60,
+     "word": "المبكن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الممكن"
+},
+{
+     "id": 61,
+     "word": "دةج",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "دمج"
+},
+{
+     "id": 62,
+     "word": "بخض",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بعض"
+},
+{
+     "id": 63,
+     "word": "الأوسام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأقسام"
+},
+{
+     "id": 64,
+     "word": "الدانية",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الدينية"
+},
+{
+     "id": 65,
+     "word": "مع",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مع"
+},
+{
+     "id": 66,
+     "word": "الأظظمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأنظمة"
+},
+{
+     "id": 67,
+     "word": "الأصرى",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأخرى"
+},
+{
+     "id": 68,
+     "word": "نظسم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "نظام"
+},
+{
+     "id": 69,
+     "word": "هيية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "هيئة"
+},
+{
+     "id": 70,
+     "word": "المحءفين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المحلفين"
+},
+{
+     "id": 71,
+     "word": "يقكم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يقوم"
+},
+{
+     "id": 72,
+     "word": "هلا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "هذا"
+},
+{
+     "id": 73,
+     "word": "تقوير",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تقرير"
+},
+{
+     "id": 74,
+     "word": "الوشائع",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الوقائع"
+},
+{
+     "id": 75,
+     "word": "اخزلف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "اختلف"
+},
+{
+     "id": 76,
+     "word": "فيظا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فيها"
+},
+{
+     "id": 77,
+     "word": "الدةاوى",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الدعاوى"
+},
+{
+     "id": 78,
+     "word": "القضسئية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القضائية"
+},
+{
+     "id": 79,
+     "word": "يحئم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يحكم"
+},
+{
+     "id": 80,
+     "word": "القاشوني",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القانوني"
+},
+{
+     "id": 81,
+     "word": "المجشمعات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المجتمعات"
+},
+{
+     "id": 82,
+     "word": "العلنقات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العلاقات"
+},
+{
+     "id": 83,
+     "word": "بان",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بين"
+},
+{
+     "id": 84,
+     "word": "الأجراد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الأفراد"
+},
+{
+     "id": 85,
+     "word": "المين",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الذين"
+},
+{
+     "id": 86,
+     "word": "يعياون",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يعيشون"
+},
+{
+     "id": 87,
+     "word": "به",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "به"
+},
+{
+     "id": 88,
+     "word": "يفجض",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يفرض"
+},
+{
+     "id": 89,
+     "word": "التةامل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التعامل"
+},
+{
+     "id": 90,
+     "word": "بشحل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بشكل"
+},
+{
+     "id": 91,
+     "word": "عاهل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "عادل"
+},
+{
+     "id": 92,
+     "word": "الئاس",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الناس"
+},
+{
+     "id": 93,
+     "word": "الاعاداء",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الاعتداء"
+},
+{
+     "id": 94,
+     "word": "أخد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أحد"
+},
+{
+     "id": 95,
+     "word": "منا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مما"
+},
+{
+     "id": 96,
+     "word": "يسرهم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يساهم"
+},
+{
+     "id": 97,
+     "word": "خذق",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "خلق"
+},
+{
+     "id": 98,
+     "word": "بيكة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بيئة"
+},
+{
+     "id": 99,
+     "word": "آمضة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "آمنة"
+},
+{
+     "id": 100,
+     "word": "زيآدة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "زيادة"
+},
+{
+     "id": 101,
+     "word": "الشءور",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الشعور"
+},
+{
+     "id": 102,
+     "word": "بالومان",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالأمان"
+},
+{
+     "id": 103,
+     "word": "تسزعد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تساعد"
+},
+{
+     "id": 104,
+     "word": "مماكسة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "ممارسة"
+},
+{
+     "id": 105,
+     "word": "النشططات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "النشاطات"
+},
+{
+     "id": 106,
+     "word": "الببرية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "البشرية"
+},
+{
+     "id": 107,
+     "word": "المخدلفة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المختلفة"
+},
+{
+     "id": 108,
+     "word": "بسهكلة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بسهولة"
+},
+{
+     "id": 109,
+     "word": "فيعا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فيما"
+},
+{
+     "id": 110,
+     "word": "يظي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يلي"
+},
+{
+     "id": 111,
+     "word": "نذتر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "نذكر"
+},
+{
+     "id": 112,
+     "word": "أءم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أهم"
+},
+{
+     "id": 113,
+     "word": "النةاط",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "النقاط"
+},
+{
+     "id": 114,
+     "word": "يعتل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يعمل"
+},
+{
+     "id": 115,
+     "word": "تحشين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تحسين"
+},
+{
+     "id": 116,
+     "word": "الحءاظ",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الحفاظ"
+},
+{
+     "id": 117,
+     "word": "نظلمه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "نظامه"
+},
+{
+     "id": 118,
+     "word": "الهمل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "العمل"
+},
+{
+     "id": 119,
+     "word": "حل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "حل"
+},
+{
+     "id": 120,
+     "word": "المشئلات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المشكلات"
+},
+{
+     "id": 121,
+     "word": "توخجه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تواجه"
+},
+{
+     "id": 122,
+     "word": "تقلمه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تقدمه"
+},
+{
+     "id": 123,
+     "word": "فضطا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فضلا"
+},
+{
+     "id": 124,
+     "word": "عن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "عن"
+},
+{
+     "id": 125,
+     "word": "تموعه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تمتعه"
+},
+{
+     "id": 126,
+     "word": "بالرمو",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بالنمو"
+},
+{
+     "id": 127,
+     "word": "الازنهار",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الازدهار"
+},
+{
+     "id": 128,
+     "word": "يسود",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يسود"
+},
+{
+     "id": 129,
+     "word": "الخصاب",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الخراب"
+},
+{
+     "id": 130,
+     "word": "تزم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تعم"
+},
+{
+     "id": 131,
+     "word": "الفئضى",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الفوضى"
+},
+{
+     "id": 132,
+     "word": "الفي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الذي"
+},
+{
+     "id": 133,
+     "word": "تغءب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تغيب"
+},
+{
+     "id": 134,
+     "word": "عآه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عنه"
+},
+{
+     "id": 135,
+     "word": "القائونية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القانونية"
+},
+{
+     "id": 136,
+     "word": "المخني",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المدني"
+},
+{
+     "id": 137,
+     "word": "تحيمه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تحكمه"
+},
+{
+     "id": 138,
+     "word": "التشذيعية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التشريعية"
+},
+{
+     "id": 139,
+     "word": "تسجها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تسنها"
+},
+{
+     "id": 140,
+     "word": "الهأئات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الهيئات"
+},
+{
+     "id": 141,
+     "word": "الحكس",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العكس"
+},
+{
+     "id": 142,
+     "word": "المام",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "العام"
+},
+{
+     "id": 143,
+     "word": "يأصي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يأتي"
+},
+{
+     "id": 144,
+     "word": "تحؤيق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تحقيق"
+},
+{
+     "id": 145,
+     "word": "يكلن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يكون"
+},
+{
+     "id": 146,
+     "word": "أكزر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أكثر"
+},
+{
+     "id": 147,
+     "word": "تفصإلا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تفصيلا"
+},
+{
+     "id": 148,
+     "word": "مذه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "منه"
+},
+{
+     "id": 149,
+     "word": "يبق",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يحق"
+},
+{
+     "id": 150,
+     "word": "للأهخاص",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للأشخاص"
+},
+{
+     "id": 151,
+     "word": "رأع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "رفع"
+},
+{
+     "id": 152,
+     "word": "دعروى",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "دعاوى"
+},
+{
+     "id": 153,
+     "word": "قضايية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "قضائية"
+},
+{
+     "id": 154,
+     "word": "الدبني",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الديني"
+},
+{
+     "id": 155,
+     "word": "سن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "سن"
+},
+{
+     "id": 156,
+     "word": "قواثين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "قوانين"
+},
+{
+     "id": 157,
+     "word": "السصابق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "السوابق"
+},
+{
+     "id": 158,
+     "word": "للس",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "ليس"
+},
+{
+     "id": 159,
+     "word": "الألاسي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأساسي"
+},
+{
+     "id": 160,
+     "word": "الجهة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الجهة"
+},
+{
+     "id": 161,
+     "word": "تقدم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تقوم"
+},
+{
+     "id": 162,
+     "word": "بسكها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بسنها"
+},
+{
+     "id": 163,
+     "word": "هي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "هي"
+},
+{
+     "id": 164,
+     "word": "القصاء",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "القضاء"
+},
+{
+     "id": 165,
+     "word": "ييب",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يصب"
+},
+{
+     "id": 166,
+     "word": "اهتفامه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "اهتمامه"
+},
+{
+     "id": 167,
+     "word": "الجءائم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الجرائم"
+},
+{
+     "id": 168,
+     "word": "شنل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "شكل"
+},
+{
+     "id": 169,
+     "word": "مخازمة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مخاصمة"
+},
+{
+     "id": 170,
+     "word": "أطماف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أطراف"
+},
+{
+     "id": 171,
+     "word": "يمزل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يمثل"
+},
+{
+     "id": 172,
+     "word": "القنضي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القاضي"
+},
+{
+     "id": 173,
+     "word": "حكخا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حكما"
+},
+{
+     "id": 174,
+     "word": "غنر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "غير"
+},
+{
+     "id": 175,
+     "word": "متخيز",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "متحيز"
+},
+{
+     "id": 176,
+     "word": "لطدف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لطرف"
+},
+{
+     "id": 177,
+     "word": "دوها",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "دونا"
+},
+{
+     "id": 178,
+     "word": "طةف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "طرف"
+},
+{
+     "id": 179,
+     "word": "إن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "إن"
+},
+{
+     "id": 180,
+     "word": "وجيد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "وجود"
+},
+{
+     "id": 181,
+     "word": "قاعون",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "قانون"
+},
+{
+     "id": 182,
+     "word": "ما",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "ما"
+},
+{
+     "id": 183,
+     "word": "يقآضي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يقتضي"
+},
+{
+     "id": 184,
+     "word": "لزقما",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لزاما"
+},
+{
+     "id": 185,
+     "word": "قانتني",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "قانوني"
+},
+{
+     "id": 186,
+     "word": "يندمي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ينتمي"
+},
+{
+     "id": 187,
+     "word": "له",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "له"
+},
+{
+     "id": 188,
+     "word": "توطيح",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "توضيح"
+},
+{
+     "id": 189,
+     "word": "بطجق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بطرق"
+},
+{
+     "id": 190,
+     "word": "مختظفة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مختلفة"
+},
+{
+     "id": 191,
+     "word": "تنفهذها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تنفيذها"
+},
+{
+     "id": 192,
+     "word": "يتخمن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يتضمن"
+},
+{
+     "id": 193,
+     "word": "البسس",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الأسس"
+},
+{
+     "id": 194,
+     "word": "التدظبير",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التدابير"
+},
+{
+     "id": 195,
+     "word": "بالإلافة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالإضافة"
+},
+{
+     "id": 196,
+     "word": "إقى",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "إلى"
+},
+{
+     "id": 197,
+     "word": "يمءن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يمكن"
+},
+{
+     "id": 198,
+     "word": "طريةها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "طريقها"
+},
+{
+     "id": 199,
+     "word": "تنهيذ",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تنفيذ"
+},
+{
+     "id": 200,
+     "word": "مشاثيع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مشاريع"
+},
+{
+     "id": 201,
+     "word": "عاحة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عامة"
+},
+{
+     "id": 202,
+     "word": "أخطى",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أخرى"
+},
+{
+     "id": 203,
+     "word": "خاكة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "خاصة"
+},
+{
+     "id": 204,
+     "word": "بوسائل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بوسائل"
+},
+{
+     "id": 205,
+     "word": "مشرغعة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مشروعة"
+},
+{
+     "id": 206,
+     "word": "يتمون",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يتكون"
+},
+{
+     "id": 207,
+     "word": "القيائي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القضائي"
+},
+{
+     "id": 208,
+     "word": "أشئال",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أشكال"
+},
+{
+     "id": 209,
+     "word": "رئيزية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "رئيسية"
+},
+{
+     "id": 210,
+     "word": "نوضإها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "نوضحها"
+},
+{
+     "id": 211,
+     "word": "الغتي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الآتي"
+},
+{
+     "id": 212,
+     "word": "يقضي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يقوي"
+},
+{
+     "id": 213,
+     "word": "شعجر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "شعور"
+},
+{
+     "id": 214,
+     "word": "الملاطن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المواطن"
+},
+{
+     "id": 215,
+     "word": "بالاظتماء",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالانتماء"
+},
+{
+     "id": 216,
+     "word": "للدلد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للبلد"
+},
+{
+     "id": 217,
+     "word": "ذيك",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "ذلك"
+},
+{
+     "id": 218,
+     "word": "نظذا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "نظرا"
+},
+{
+     "id": 219,
+     "word": "لأطه",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لأنه"
+},
+{
+     "id": 220,
+     "word": "يتصتع",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يتمتع"
+},
+{
+     "id": 221,
+     "word": "بكظفة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بكافة"
+},
+{
+     "id": 222,
+     "word": "حقغقه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حقوقه"
+},
+{
+     "id": 223,
+     "word": "الدشلة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الدولة"
+},
+{
+     "id": 224,
+     "word": "بالمثافظة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالمحافظة"
+},
+{
+     "id": 225,
+     "word": "علشها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عليها"
+},
+{
+     "id": 226,
+     "word": "قشر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "قدر"
+},
+{
+     "id": 227,
+     "word": "الإضكان",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الإمكان"
+},
+{
+     "id": 228,
+     "word": "أنممة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أنظمة"
+},
+{
+     "id": 229,
+     "word": "قانثنية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "قانونية"
+},
+{
+     "id": 230,
+     "word": "الانوخابي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الانتخابي"
+},
+{
+     "id": 231,
+     "word": "حآم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حكم"
+},
+{
+     "id": 232,
+     "word": "الاخعيار",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الاختيار"
+},
+{
+     "id": 233,
+     "word": "الديمزراطية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الديمقراطية"
+},
+{
+     "id": 234,
+     "word": "أهمية",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أهمية"
+},
+{
+     "id": 235,
+     "word": "يعغز",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يعزز"
+},
+{
+     "id": 236,
+     "word": "بالمصاواة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالمساواة"
+},
+{
+     "id": 237,
+     "word": "لان",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لأن"
+},
+{
+     "id": 238,
+     "word": "تحغم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تحكم"
+},
+{
+     "id": 239,
+     "word": "جمذع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "جميع"
+},
+{
+     "id": 240,
+     "word": "الغشر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "البشر"
+},
+{
+     "id": 241,
+     "word": "بثا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بلا"
+},
+{
+     "id": 242,
+     "word": "تفبقة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تفرقة"
+},
+{
+     "id": 243,
+     "word": "لسي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لأي"
+},
+{
+     "id": 244,
+     "word": "سضب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "سبب"
+},
+{
+     "id": 245,
+     "word": "كبن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "كان"
+},
+{
+     "id": 246,
+     "word": "بالظالي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالتالي"
+},
+{
+     "id": 247,
+     "word": "لن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لن"
+},
+{
+     "id": 248,
+     "word": "يظنم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يظلم"
+},
+{
+     "id": 249,
+     "word": "أي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أي"
+},
+{
+     "id": 250,
+     "word": "آهر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "آخر"
+},
+{
+     "id": 251,
+     "word": "يعمدي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يعتدي"
+},
+{
+     "id": 252,
+     "word": "حقفق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حقوق"
+},
+{
+     "id": 253,
+     "word": "الآررين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الآخرين"
+},
+{
+     "id": 254,
+     "word": "يتزرض",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يتعرض"
+},
+{
+     "id": 255,
+     "word": "للعقآبات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للعقوبات"
+},
+{
+     "id": 256,
+     "word": "تخبص",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تختص"
+},
+{
+     "id": 257,
+     "word": "بنغع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بنوع"
+},
+{
+     "id": 258,
+     "word": "محسد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "محدد"
+},
+{
+     "id": 259,
+     "word": "مسع",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "منع"
+},
+{
+     "id": 260,
+     "word": "الخر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الشر"
+},
+{
+     "id": 261,
+     "word": "الحثاية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الحماية"
+},
+{
+     "id": 262,
+     "word": "إذ",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "إذ"
+},
+{
+     "id": 263,
+     "word": "تنفبق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تنطبق"
+},
+{
+     "id": 264,
+     "word": "تمتيز",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تمييز"
+},
+{
+     "id": 265,
+     "word": "كل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "كل"
+},
+{
+     "id": 266,
+     "word": "بكرر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بكسر"
+},
+{
+     "id": 267,
+     "word": "لنظع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لنوع"
+},
+{
+     "id": 268,
+     "word": "معظن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "معين"
+},
+{
+     "id": 269,
+     "word": "العقسبات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العقوبات"
+},
+{
+     "id": 270,
+     "word": "هكطا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "هكذا"
+},
+{
+     "id": 271,
+     "word": "يعقم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يعلم"
+},
+{
+     "id": 272,
+     "word": "علته",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "عليه"
+},
+{
+     "id": 273,
+     "word": "واجمات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "واجبات"
+},
+{
+     "id": 274,
+     "word": "الوطجب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الواجب"
+},
+{
+     "id": 275,
+     "word": "المحافظة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "المحافظة"
+},
+{
+     "id": 276,
+     "word": "دومما",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "دونما"
+},
+{
+     "id": 277,
+     "word": "اعتشاء",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "اعتداء"
+},
+{
+     "id": 278,
+     "word": "الضحيبي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الضريبي"
+},
+{
+     "id": 279,
+     "word": "يحلد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يحدد"
+},
+{
+     "id": 280,
+     "word": "قيأة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "قيمة"
+},
+{
+     "id": 281,
+     "word": "الضهائب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الضرائب"
+},
+{
+     "id": 282,
+     "word": "طكق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "طرق"
+},
+{
+     "id": 283,
+     "word": "تحصإلها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تحصيلها"
+},
+{
+     "id": 284,
+     "word": "الننيجة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "النتيجة"
+},
+{
+     "id": 285,
+     "word": "يتعتب",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يترتب"
+},
+{
+     "id": 286,
+     "word": "مضفر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مضار"
+},
+{
+     "id": 287,
+     "word": "الأسعال",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأفعال"
+},
+{
+     "id": 288,
+     "word": "الإجدامية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الإجرامية"
+},
+{
+     "id": 289,
+     "word": "أربان",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أركان"
+},
+{
+     "id": 290,
+     "word": "الجةيمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الجريمة"
+},
+{
+     "id": 291,
+     "word": "قانعنا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "قانونا"
+},
+{
+     "id": 292,
+     "word": "الانبراف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الانحراف"
+},
+{
+     "id": 293,
+     "word": "التصاوز",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التجاوز"
+},
+{
+     "id": 294,
+     "word": "مخثلف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مختلف"
+},
+{
+     "id": 295,
+     "word": "المعذيير",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المعايير"
+},
+{
+     "id": 296,
+     "word": "الجثعية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الجمعية"
+},
+{
+     "id": 297,
+     "word": "تتشف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تتصف"
+},
+{
+     "id": 298,
+     "word": "بلم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بكم"
+},
+{
+     "id": 299,
+     "word": "ضزم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ضخم"
+},
+{
+     "id": 300,
+     "word": "الججرية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الجبرية"
+},
+{
+     "id": 301,
+     "word": "الناعية",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "النوعية"
+},
+{
+     "id": 302,
+     "word": "الكظية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الكلية"
+},
+{
+     "id": 303,
+     "word": "أن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أن"
+},
+{
+     "id": 304,
+     "word": "توسف",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "توصف"
+},
+{
+     "id": 305,
+     "word": "بذآك",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بذلك"
+},
+{
+     "id": 306,
+     "word": "إحا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "إلا"
+},
+{
+     "id": 307,
+     "word": "حزل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "حال"
+},
+{
+     "id": 308,
+     "word": "توجر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "توفر"
+},
+{
+     "id": 309,
+     "word": "القجمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القيمة"
+},
+{
+     "id": 310,
+     "word": "تضعغها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تضعتها"
+},
+{
+     "id": 311,
+     "word": "الجحاعة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الجماعة"
+},
+{
+     "id": 312,
+     "word": "تحتآمها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تحترمها"
+},
+{
+     "id": 313,
+     "word": "الانأزال",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الانعزال"
+},
+{
+     "id": 314,
+     "word": "الصعإدين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الصعيدين"
+},
+{
+     "id": 315,
+     "word": "الحماري",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الحضاري"
+},
+{
+     "id": 316,
+     "word": "الثكافي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الثقافي"
+},
+{
+     "id": 317,
+     "word": "داأل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "داخل"
+},
+{
+     "id": 318,
+     "word": "الطوائف",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الطوائف"
+},
+{
+     "id": 319,
+     "word": "يؤسي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يؤدي"
+},
+{
+     "id": 320,
+     "word": "الحكن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الركن"
+},
+{
+     "id": 321,
+     "word": "أسكسا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أساسا"
+},
+{
+     "id": 322,
+     "word": "دوقا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "دورا"
+},
+{
+     "id": 323,
+     "word": "هاطا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "هاما"
+},
+{
+     "id": 324,
+     "word": "التورقة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التفرقة"
+},
+{
+     "id": 325,
+     "word": "الجركمتين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الجريمتين"
+},
+{
+     "id": 326,
+     "word": "الداملية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الداخلية"
+},
+{
+     "id": 327,
+     "word": "الدتلية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الدولية"
+},
+{
+     "id": 328,
+     "word": "أيةا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أيضا"
+},
+{
+     "id": 329,
+     "word": "فيي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "ففي"
+},
+{
+     "id": 330,
+     "word": "زوشل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "زوال"
+},
+{
+     "id": 331,
+     "word": "اليفة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الصفة"
+},
+{
+     "id": 332,
+     "word": "أني",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أتي"
+},
+{
+     "id": 333,
+     "word": "جرحمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "جريمة"
+},
+{
+     "id": 334,
+     "word": "تتذذ",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تتخذ"
+},
+{
+     "id": 335,
+     "word": "صثة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "صفة"
+},
+{
+     "id": 336,
+     "word": "التبرب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التهرب"
+},
+{
+     "id": 337,
+     "word": "الولقع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الواقع"
+},
+{
+     "id": 338,
+     "word": "التذلص",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التخلص"
+},
+{
+     "id": 339,
+     "word": "كالمساكل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "كالمشاكل"
+},
+{
+     "id": 340,
+     "word": "المطدية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المادية"
+},
+{
+     "id": 341,
+     "word": "العظوب",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "العيوب"
+},
+{
+     "id": 342,
+     "word": "الأدم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الندم"
+},
+{
+     "id": 343,
+     "word": "يعةف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يعرف"
+},
+{
+     "id": 344,
+     "word": "بأله",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بأنه"
+},
+{
+     "id": 345,
+     "word": "المءدة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المادة"
+},
+{
+     "id": 346,
+     "word": "تأحي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تأتي"
+},
+{
+     "id": 347,
+     "word": "بتحأيد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بتحديد"
+},
+{
+     "id": 348,
+     "word": "أبواد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أبعاد"
+},
+{
+     "id": 349,
+     "word": "الإليان",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الإتيان"
+},
+{
+     "id": 350,
+     "word": "عقمب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عقاب"
+},
+{
+     "id": 351,
+     "word": "مدةجا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مدرجا"
+},
+{
+     "id": 352,
+     "word": "يعئبر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يعتبر"
+},
+{
+     "id": 353,
+     "word": "وجعده",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "وجوده"
+},
+{
+     "id": 354,
+     "word": "إلزدميا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "إلزاميا"
+},
+{
+     "id": 355,
+     "word": "جاظب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "جانب"
+},
+{
+     "id": 356,
+     "word": "وقئع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "وقوع"
+},
+{
+     "id": 357,
+     "word": "التفصل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "التوصل"
+},
+{
+     "id": 358,
+     "word": "مباهرة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مباشرة"
+},
+{
+     "id": 359,
+     "word": "الإرم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الجرم"
+},
+{
+     "id": 360,
+     "word": "الععاب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العقاب"
+},
+{
+     "id": 361,
+     "word": "المشرتب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المترتب"
+},
+{
+     "id": 362,
+     "word": "فويا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فورا"
+},
+{
+     "id": 363,
+     "word": "وفإا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "وفقا"
+},
+{
+     "id": 364,
+     "word": "للقلعدة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للقاعدة"
+},
+{
+     "id": 365,
+     "word": "عقةبة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عقوبة"
+},
+{
+     "id": 366,
+     "word": "نص",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "نص"
+},
+{
+     "id": 367,
+     "word": "الدولي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الدولي"
+},
+{
+     "id": 368,
+     "word": "تعظيف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تعريف"
+},
+{
+     "id": 369,
+     "word": "بأفها",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بأنها"
+},
+{
+     "id": 370,
+     "word": "بفسل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بفعل"
+},
+{
+     "id": 371,
+     "word": "يتنتفى",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يتنافى"
+},
+{
+     "id": 372,
+     "word": "الديتور",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الدستور"
+},
+{
+     "id": 373,
+     "word": "تتؤثل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تتمثل"
+},
+{
+     "id": 374,
+     "word": "بالثعدي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالتعدي"
+},
+{
+     "id": 375,
+     "word": "انتهصكها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "انتهاكها"
+},
+{
+     "id": 376,
+     "word": "يعذقب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يعاقب"
+},
+{
+     "id": 377,
+     "word": "القصنون",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القانون"
+},
+{
+     "id": 378,
+     "word": "لتحثيم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لتحريم"
+},
+{
+     "id": 379,
+     "word": "فقل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فعل"
+},
+{
+     "id": 380,
+     "word": "الثعل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الفعل"
+},
+{
+     "id": 381,
+     "word": "شربا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "شرعا"
+},
+{
+     "id": 382,
+     "word": "تقءم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تقسم"
+},
+{
+     "id": 383,
+     "word": "أريعة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أربعة"
+},
+{
+     "id": 384,
+     "word": "أنصاع",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أنواع"
+},
+{
+     "id": 385,
+     "word": "جردئم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "جرائم"
+},
+{
+     "id": 386,
+     "word": "اقتصزدية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "اقتصادية"
+},
+{
+     "id": 387,
+     "word": "جنطية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "جنسية"
+},
+{
+     "id": 388,
+     "word": "سياإية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "سياسية"
+},
+{
+     "id": 389,
+     "word": "الانفقام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الانتقام"
+},
+{
+     "id": 390,
+     "word": "يشأر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يشار"
+},
+{
+     "id": 391,
+     "word": "للجظيمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للجريمة"
+},
+{
+     "id": 392,
+     "word": "نظرطات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "نظريات"
+},
+{
+     "id": 393,
+     "word": "أساآية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أساسية"
+},
+{
+     "id": 394,
+     "word": "مناا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "منها"
+},
+{
+     "id": 395,
+     "word": "نظئية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "نظرية"
+},
+{
+     "id": 396,
+     "word": "المئرسة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المدرسة"
+},
+{
+     "id": 397,
+     "word": "الجغغافية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الجغرافية"
+},
+{
+     "id": 398,
+     "word": "الاقتشادية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الاقتصادية"
+},
+{
+     "id": 399,
+     "word": "البيوؤوجية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "البيولوجية"
+},
+{
+     "id": 400,
+     "word": "عبخرة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عبارة"
+},
+{
+     "id": 401,
+     "word": "نشأط",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "نشاط"
+},
+{
+     "id": 402,
+     "word": "سليك",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "سلوك"
+},
+{
+     "id": 403,
+     "word": "إجرضمي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "إجرامي"
+},
+{
+     "id": 404,
+     "word": "ثلخثة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ثلاثة"
+},
+{
+     "id": 405,
+     "word": "حب",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "حب"
+},
+{
+     "id": 406,
+     "word": "الصأر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الثأر"
+},
+{
+     "id": 407,
+     "word": "بدثفع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بدافع"
+},
+{
+     "id": 408,
+     "word": "الحئجة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الحاجة"
+},
+{
+     "id": 409,
+     "word": "سويء",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "سواء"
+},
+{
+     "id": 410,
+     "word": "المخهرات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المخدرات"
+},
+{
+     "id": 411,
+     "word": "الؤال",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المال"
+},
+{
+     "id": 412,
+     "word": "الأنس",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الجنس"
+},
+{
+     "id": 413,
+     "word": "الرربة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الرغبة"
+},
+{
+     "id": 414,
+     "word": "بالسرطرة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالسيطرة"
+},
+{
+     "id": 415,
+     "word": "التغكم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التحكم"
+},
+{
+     "id": 416,
+     "word": "الجننب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الجانب"
+},
+{
+     "id": 417,
+     "word": "الذاتي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الذاتي"
+},
+{
+     "id": 418,
+     "word": "الخاص",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الخاص"
+},
+{
+     "id": 419,
+     "word": "بالجقيمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالجريمة"
+},
+{
+     "id": 420,
+     "word": "بمثسبة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بمثابة"
+},
+{
+     "id": 421,
+     "word": "التجبير",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التعبير"
+},
+{
+     "id": 422,
+     "word": "العةيق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العميق"
+},
+{
+     "id": 423,
+     "word": "للدلة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للصلة"
+},
+{
+     "id": 424,
+     "word": "النئاط",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "النشاط"
+},
+{
+     "id": 425,
+     "word": "الذاني",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الذهني"
+},
+{
+     "id": 426,
+     "word": "يماطسه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يمارسه"
+},
+{
+     "id": 427,
+     "word": "الفحعل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الفاعل"
+},
+{
+     "id": 428,
+     "word": "المهدي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "المادي"
+},
+{
+     "id": 429,
+     "word": "أنى",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أتى"
+},
+{
+     "id": 430,
+     "word": "يتذفر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يتوفر"
+},
+{
+     "id": 431,
+     "word": "المزنوي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المعنوي"
+},
+{
+     "id": 432,
+     "word": "موجذدا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "موجودا"
+},
+{
+     "id": 433,
+     "word": "فير",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فور"
+},
+{
+     "id": 434,
+     "word": "صدزر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "صدور"
+},
+{
+     "id": 435,
+     "word": "الإجكامي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الإجرامي"
+},
+{
+     "id": 436,
+     "word": "إرعدة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "إرادة"
+},
+{
+     "id": 437,
+     "word": "الحرد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الفرد"
+},
+{
+     "id": 438,
+     "word": "بالتوبير",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالتعبير"
+},
+{
+     "id": 439,
+     "word": "درتسة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "دراسة"
+},
+{
+     "id": 440,
+     "word": "طبأعة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "طبيعة"
+},
+{
+     "id": 441,
+     "word": "العآاقة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العلاقة"
+},
+{
+     "id": 442,
+     "word": "القةئمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القائمة"
+},
+{
+     "id": 443,
+     "word": "جغة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "جهة"
+},
+{
+     "id": 444,
+     "word": "ارتدبه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ارتكبه"
+},
+{
+     "id": 445,
+     "word": "ترشب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ترتب"
+},
+{
+     "id": 446,
+     "word": "نتضجة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "نتيجة"
+},
+{
+     "id": 447,
+     "word": "تعزف",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تعرف"
+},
+{
+     "id": 448,
+     "word": "كاذة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "كافة"
+},
+{
+     "id": 449,
+     "word": "الاعتةاءات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الاعتداءات"
+},
+{
+     "id": 450,
+     "word": "الانتراكات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الانتهاكات"
+},
+{
+     "id": 451,
+     "word": "بآق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بحق"
+},
+{
+     "id": 452,
+     "word": "شيتا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "شيئا"
+},
+{
+     "id": 453,
+     "word": "محعي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "محمي"
+},
+{
+     "id": 454,
+     "word": "موضؤعيا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "موضوعيا"
+},
+{
+     "id": 455,
+     "word": "يعزمد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يعتمد"
+},
+{
+     "id": 456,
+     "word": "عندصر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عناصر"
+},
+{
+     "id": 457,
+     "word": "السةبية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "السببية"
+},
+{
+     "id": 458,
+     "word": "الركبطة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الرابطة"
+},
+{
+     "id": 459,
+     "word": "دفتت",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "دفعت"
+},
+{
+     "id": 460,
+     "word": "بهسا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بهذا"
+},
+{
+     "id": 461,
+     "word": "أسةاب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أسباب"
+},
+{
+     "id": 462,
+     "word": "يحوفظ",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يحافظ"
+},
+{
+     "id": 463,
+     "word": "أسن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أمن"
+},
+{
+     "id": 464,
+     "word": "سلصمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "سلامة"
+},
+{
+     "id": 465,
+     "word": "فنثرا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فنظرا"
+},
+{
+     "id": 466,
+     "word": "يةل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يحل"
+},
+{
+     "id": 467,
+     "word": "نزاعات",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "نزاعات"
+},
+{
+     "id": 468,
+     "word": "مشكقات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مشكلات"
+},
+{
+     "id": 469,
+     "word": "فان",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فإن"
+},
+{
+     "id": 470,
+     "word": "يجقله",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يجعله"
+},
+{
+     "id": 471,
+     "word": "ضروطيا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ضروريا"
+},
+{
+     "id": 472,
+     "word": "للحضاظ",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للحفاظ"
+},
+{
+     "id": 473,
+     "word": "يحدي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يحمي"
+},
+{
+     "id": 474,
+     "word": "الفكات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الفئات"
+},
+{
+     "id": 475,
+     "word": "الأحثر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأكثر"
+},
+{
+     "id": 476,
+     "word": "ضعآا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ضعفا"
+},
+{
+     "id": 477,
+     "word": "الأقإيات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأقليات"
+},
+{
+     "id": 478,
+     "word": "فمطظم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فمعظم"
+},
+{
+     "id": 479,
+     "word": "البول",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الدول"
+},
+{
+     "id": 480,
+     "word": "تمسع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تمنع"
+},
+{
+     "id": 481,
+     "word": "التأييز",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التمييز"
+},
+{
+     "id": 482,
+     "word": "أفإاد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أفراد"
+},
+{
+     "id": 483,
+     "word": "مجتمياتها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مجتمعاتها"
+},
+{
+     "id": 484,
+     "word": "بشض",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بغض"
+},
+{
+     "id": 485,
+     "word": "الإظر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "النظر"
+},
+{
+     "id": 486,
+     "word": "جنذه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "جنسه"
+},
+{
+     "id": 487,
+     "word": "عرجه",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "عرقه"
+},
+{
+     "id": 488,
+     "word": "ديثه",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "دينه"
+},
+{
+     "id": 489,
+     "word": "للوزول",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للوصول"
+},
+{
+     "id": 490,
+     "word": "المسصواة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المساواة"
+},
+{
+     "id": 491,
+     "word": "ياد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يعد"
+},
+{
+     "id": 492,
+     "word": "تطصيق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تطبيق"
+},
+{
+     "id": 493,
+     "word": "فغخاب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فغياب"
+},
+{
+     "id": 494,
+     "word": "لبنض",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لبعض"
+},
+{
+     "id": 495,
+     "word": "الألباب",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الأسباب"
+},
+{
+     "id": 496,
+     "word": "محل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مثل"
+},
+{
+     "id": 497,
+     "word": "النزسعات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "النزاعات"
+},
+{
+     "id": 498,
+     "word": "الحاوب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الحروب"
+},
+{
+     "id": 499,
+     "word": "الأءلية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأهلية"
+},
+{
+     "id": 500,
+     "word": "الخاعجية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الخارجية"
+},
+{
+     "id": 501,
+     "word": "البزاد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "البلاد"
+},
+{
+     "id": 502,
+     "word": "يقطصر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يقتصر"
+},
+{
+     "id": 503,
+     "word": "مؤسجات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مؤسسات"
+},
+{
+     "id": 504,
+     "word": "فقط",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فقط"
+},
+{
+     "id": 505,
+     "word": "بل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بل"
+},
+{
+     "id": 506,
+     "word": "الالهزام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الالتزام"
+},
+{
+     "id": 507,
+     "word": "بالتعضيمات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالتعليمات"
+},
+{
+     "id": 508,
+     "word": "الموإوعة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الموضوعة"
+},
+{
+     "id": 509,
+     "word": "بلةهم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بلدهم"
+},
+{
+     "id": 510,
+     "word": "يضفن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يضمن"
+},
+{
+     "id": 511,
+     "word": "الأسغسية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأساسية"
+},
+{
+     "id": 512,
+     "word": "ضمكها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ضمنها"
+},
+{
+     "id": 513,
+     "word": "حق",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "حق"
+},
+{
+     "id": 514,
+     "word": "الحباة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الحياة"
+},
+{
+     "id": 515,
+     "word": "الزساج",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الزواج"
+},
+{
+     "id": 516,
+     "word": "الترليم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التعليم"
+},
+{
+     "id": 517,
+     "word": "عنم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "عدم"
+},
+{
+     "id": 518,
+     "word": "فبظون",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فبدون"
+},
+{
+     "id": 519,
+     "word": "الإفسان",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الإنسان"
+},
+{
+     "id": 520,
+     "word": "الإحلاق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الإطلاق"
+},
+{
+     "id": 521,
+     "word": "يقةم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يقدم"
+},
+{
+     "id": 522,
+     "word": "البرحمان",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "البرلمان"
+},
+{
+     "id": 523,
+     "word": "مشفوع",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مشروع"
+},
+{
+     "id": 524,
+     "word": "كمسؤدة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "كمسودة"
+},
+{
+     "id": 525,
+     "word": "قعل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "قبل"
+},
+{
+     "id": 526,
+     "word": "التةويت",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التصويت"
+},
+{
+     "id": 527,
+     "word": "أعجاء",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أعضاء"
+},
+{
+     "id": 528,
+     "word": "للبرقمان",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للبرلمان"
+},
+{
+     "id": 529,
+     "word": "الآق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الحق"
+},
+{
+     "id": 530,
+     "word": "إقهار",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "إقرار"
+},
+{
+     "id": 531,
+     "word": "تغفير",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تغيير"
+},
+{
+     "id": 532,
+     "word": "تعتيل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تعديل"
+},
+{
+     "id": 533,
+     "word": "المكدم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "المقدم"
+},
+{
+     "id": 534,
+     "word": "إضاآته",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "إضافته"
+},
+{
+     "id": 535,
+     "word": "يقغها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يقرها"
+},
+{
+     "id": 536,
+     "word": "بتققرير",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بتقارير"
+},
+{
+     "id": 537,
+     "word": "المثكمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المحكمة"
+},
+{
+     "id": 538,
+     "word": "الشبود",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الشهود"
+},
+{
+     "id": 539,
+     "word": "الخفراء",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الخبراء"
+},
+{
+     "id": 540,
+     "word": "المقاكم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المحاكم"
+},
+{
+     "id": 541,
+     "word": "هنظك",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "هناك"
+},
+{
+     "id": 542,
+     "word": "مصدؤان",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مصدران"
+},
+{
+     "id": 543,
+     "word": "رئيريان",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "رئيسيان"
+},
+{
+     "id": 544,
+     "word": "للنتام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للنظام"
+},
+{
+     "id": 545,
+     "word": "هءا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "هما"
+},
+{
+     "id": 546,
+     "word": "مهشة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مهمة"
+},
+{
+     "id": 547,
+     "word": "تكئن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تكمن"
+},
+{
+     "id": 548,
+     "word": "فض",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فض"
+},
+{
+     "id": 549,
+     "word": "تتظلق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تتعلق"
+},
+{
+     "id": 550,
+     "word": "بتفيصيل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بتفاصيل"
+},
+{
+     "id": 551,
+     "word": "إداخية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "إدارية"
+},
+{
+     "id": 552,
+     "word": "الؤهل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "السهل"
+},
+{
+     "id": 553,
+     "word": "معحا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "معها"
+},
+{
+     "id": 554,
+     "word": "فق",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فق"
+},
+{
+     "id": 555,
+     "word": "يمذح",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يمنح"
+},
+{
+     "id": 556,
+     "word": "الصلاحية",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الصلاحية"
+},
+{
+     "id": 557,
+     "word": "إقرطرها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "إقرارها"
+},
+{
+     "id": 558,
+     "word": "سلآة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "سلطة"
+},
+{
+     "id": 559,
+     "word": "المقالس",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "المجالس"
+},
+{
+     "id": 560,
+     "word": "المللية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المحلية"
+},
+{
+     "id": 561,
+     "word": "الولراء",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الوزراء"
+},
+{
+     "id": 562,
+     "word": "لوأع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لوضع"
+},
+{
+     "id": 563,
+     "word": "لوائح",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لوائح"
+},
+{
+     "id": 564,
+     "word": "تسمر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تسير"
+},
+{
+     "id": 565,
+     "word": "التفوصيل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التفاصيل"
+},
+{
+     "id": 566,
+     "word": "الإدررية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الإدارية"
+},
+{
+     "id": 567,
+     "word": "أطه",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أنه"
+},
+{
+     "id": 568,
+     "word": "يوئد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يوجد"
+},
+{
+     "id": 569,
+     "word": "يمسنه",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يمكنه"
+},
+{
+     "id": 570,
+     "word": "التةخل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التدخل"
+},
+{
+     "id": 571,
+     "word": "شؤزن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "شؤون"
+},
+{
+     "id": 572,
+     "word": "دوشة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "دولة"
+},
+{
+     "id": 573,
+     "word": "غذادهم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "غذائهم"
+},
+{
+     "id": 574,
+     "word": "موذد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مواد"
+},
+{
+     "id": 575,
+     "word": "ضاخة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "ضارة"
+},
+{
+     "id": 576,
+     "word": "سائة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "سامة"
+},
+{
+     "id": 577,
+     "word": "قد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "قد"
+},
+{
+     "id": 578,
+     "word": "تدغل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تدخل"
+},
+{
+     "id": 579,
+     "word": "صنتعة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "صناعة"
+},
+{
+     "id": 580,
+     "word": "المؤاد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المواد"
+},
+{
+     "id": 581,
+     "word": "الغذذئية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الغذائية"
+},
+{
+     "id": 582,
+     "word": "يتناوذونها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يتناولونها"
+},
+{
+     "id": 583,
+     "word": "تصكب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تصيب"
+},
+{
+     "id": 584,
+     "word": "بالئرض",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالمرض"
+},
+{
+     "id": 585,
+     "word": "بالحسمم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالتسمم"
+},
+{
+     "id": 586,
+     "word": "الغيائي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الغذائي"
+},
+{
+     "id": 587,
+     "word": "يلثب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يلعب"
+},
+{
+     "id": 588,
+     "word": "دكر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "دور"
+},
+{
+     "id": 589,
+     "word": "ميم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مهم"
+},
+{
+     "id": 590,
+     "word": "التظديث",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التحديث"
+},
+{
+     "id": 591,
+     "word": "التذيير",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "التغيير"
+},
+{
+     "id": 592,
+     "word": "الاجنماعي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الاجتماعي"
+},
+{
+     "id": 593,
+     "word": "يصاإبه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يصاحبه"
+},
+{
+     "id": 594,
+     "word": "مشظكل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مشاكل"
+},
+{
+     "id": 595,
+     "word": "مجتدعية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مجتمعية"
+},
+{
+     "id": 596,
+     "word": "يلشي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يلغي"
+},
+{
+     "id": 597,
+     "word": "الممقرسات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الممارسات"
+},
+{
+     "id": 598,
+     "word": "العددات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العادات"
+},
+{
+     "id": 599,
+     "word": "الخثطئة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الخاطئة"
+},
+{
+     "id": 600,
+     "word": "زوجج",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "زواج"
+},
+{
+     "id": 601,
+     "word": "الأصفال",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأطفال"
+},
+{
+     "id": 602,
+     "word": "الطنيقة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الطريقة"
+},
+{
+     "id": 603,
+     "word": "الأبضل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأفضل"
+},
+{
+     "id": 604,
+     "word": "لتحصيق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لتحقيق"
+},
+{
+     "id": 605,
+     "word": "الدمن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الأمن"
+},
+{
+     "id": 606,
+     "word": "السذامة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "السلامة"
+},
+{
+     "id": 607,
+     "word": "العإمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العامة"
+},
+{
+     "id": 608,
+     "word": "إنساء",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "إنشاء"
+},
+{
+     "id": 609,
+     "word": "علئقة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "علاقة"
+},
+{
+     "id": 610,
+     "word": "تعاثنية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تعاونية"
+},
+{
+     "id": 611,
+     "word": "السسطات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "السلطات"
+},
+{
+     "id": 612,
+     "word": "اجيات",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "اجبات"
+},
+{
+     "id": 613,
+     "word": "التخليل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "التقليل"
+},
+{
+     "id": 614,
+     "word": "ليجعر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ليشعر"
+},
+{
+     "id": 615,
+     "word": "الموسطنين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المواطنين"
+},
+{
+     "id": 616,
+     "word": "بالظضاة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالقضاة"
+},
+{
+     "id": 617,
+     "word": "مساتدي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مساعدي"
+},
+{
+     "id": 618,
+     "word": "القظاة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القضاة"
+},
+{
+     "id": 619,
+     "word": "كتقب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "كتاب"
+},
+{
+     "id": 620,
+     "word": "لقن",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لكن"
+},
+{
+     "id": 621,
+     "word": "يصب",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يجب"
+},
+{
+     "id": 622,
+     "word": "يحتث",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يحدث"
+},
+{
+     "id": 623,
+     "word": "إطكر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "إطار"
+},
+{
+     "id": 624,
+     "word": "حمخية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حماية"
+},
+{
+     "id": 625,
+     "word": "سيهدة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "سيادة"
+},
+{
+     "id": 626,
+     "word": "لذثك",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لذلك"
+},
+{
+     "id": 627,
+     "word": "مطكقي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مطبقي"
+},
+{
+     "id": 628,
+     "word": "بنأء",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بناء"
+},
+{
+     "id": 629,
+     "word": "دلة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "دية"
+},
+{
+     "id": 630,
+     "word": "احتكام",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "احترام"
+},
+{
+     "id": 631,
+     "word": "حريلتهم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حرياتهم"
+},
+{
+     "id": 632,
+     "word": "حقوعهم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حقوقهم"
+},
+{
+     "id": 633,
+     "word": "تجسب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تجنب"
+},
+{
+     "id": 634,
+     "word": "الاسترلتيجيات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الاستراتيجيات"
+},
+{
+     "id": 635,
+     "word": "تتهمن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تتضمن"
+},
+{
+     "id": 636,
+     "word": "استءدام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "استخدام"
+},
+{
+     "id": 637,
+     "word": "الزوة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القوة"
+},
+{
+     "id": 638,
+     "word": "المؤرطة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المفرطة"
+},
+{
+     "id": 639,
+     "word": "ضد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "ضد"
+},
+{
+     "id": 640,
+     "word": "يضع",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يضع"
+},
+{
+     "id": 641,
+     "word": "معادير",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "معايير"
+},
+{
+     "id": 642,
+     "word": "للسلصكيات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للسلوكيات"
+},
+{
+     "id": 643,
+     "word": "المسؤوحة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المسموحة"
+},
+{
+     "id": 644,
+     "word": "الممةوعة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الممنوعة"
+},
+{
+     "id": 645,
+     "word": "للأاراد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للأفراد"
+},
+{
+     "id": 646,
+     "word": "بهصه",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بهذه"
+},
+{
+     "id": 647,
+     "word": "تثل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تقل"
+},
+{
+     "id": 648,
+     "word": "حثة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "حدة"
+},
+{
+     "id": 649,
+     "word": "فالتظام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فالنظام"
+},
+{
+     "id": 650,
+     "word": "حبد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حدد"
+},
+{
+     "id": 651,
+     "word": "عقوثات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عقوبات"
+},
+{
+     "id": 652,
+     "word": "مناعبة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مناسبة"
+},
+{
+     "id": 653,
+     "word": "جهم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "جرم"
+},
+{
+     "id": 654,
+     "word": "مخاعفة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مخالفة"
+},
+{
+     "id": 655,
+     "word": "يرتءبها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يرتكبها"
+},
+{
+     "id": 656,
+     "word": "وسد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "وجد"
+},
+{
+     "id": 657,
+     "word": "لخفمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لخدمة"
+},
+{
+     "id": 658,
+     "word": "فالصرض",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فالغرض"
+},
+{
+     "id": 659,
+     "word": "تطبيقه",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تطبيقه"
+},
+{
+     "id": 660,
+     "word": "تعئيز",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تعزيز"
+},
+{
+     "id": 661,
+     "word": "دخم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "دعم"
+},
+{
+     "id": 662,
+     "word": "حظى",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "حتى"
+},
+{
+     "id": 663,
+     "word": "تتضمى",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تتنمى"
+},
+{
+     "id": 664,
+     "word": "الحإية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الحرية"
+},
+{
+     "id": 665,
+     "word": "الفلدية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الفردية"
+},
+{
+     "id": 666,
+     "word": "تزتهر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تزدهر"
+},
+{
+     "id": 667,
+     "word": "الأسداف",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الأهداف"
+},
+{
+     "id": 668,
+     "word": "المسسءلة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المساءلة"
+},
+{
+     "id": 669,
+     "word": "الطقة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الثقة"
+},
+{
+     "id": 670,
+     "word": "سللات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "سلطات"
+},
+{
+     "id": 671,
+     "word": "الوعب",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الشعب"
+},
+{
+     "id": 672,
+     "word": "للحءومة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للحكومة"
+},
+{
+     "id": 673,
+     "word": "لإرؤاء",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لإرساء"
+},
+{
+     "id": 674,
+     "word": "المجنمعية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المجتمعية"
+},
+{
+     "id": 675,
+     "word": "مثة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مدة"
+},
+{
+     "id": 676,
+     "word": "محطدة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "محددة"
+},
+{
+     "id": 677,
+     "word": "بئد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بعد"
+},
+{
+     "id": 678,
+     "word": "انقضخئها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "انقضائها"
+},
+{
+     "id": 679,
+     "word": "فصح",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فتح"
+},
+{
+     "id": 680,
+     "word": "ملف",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "ملف"
+},
+{
+     "id": 681,
+     "word": "القشية",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "القضية"
+},
+{
+     "id": 682,
+     "word": "مظة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "مرة"
+},
+{
+     "id": 683,
+     "word": "للمشكمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للمحكمة"
+},
+{
+     "id": 684,
+     "word": "العؤيا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العليا"
+},
+{
+     "id": 685,
+     "word": "المومفقة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الموافقة"
+},
+{
+     "id": 686,
+     "word": "رةض",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "رفض"
+},
+{
+     "id": 687,
+     "word": "الاسصئناف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الاستئناف"
+},
+{
+     "id": 688,
+     "word": "يؤؤذ",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يؤخذ"
+},
+{
+     "id": 689,
+     "word": "بالقظام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالنظام"
+},
+{
+     "id": 690,
+     "word": "يقبه",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يقره"
+},
+{
+     "id": 691,
+     "word": "قائي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "قاضي"
+},
+{
+     "id": 692,
+     "word": "محهمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "محكمة"
+},
+{
+     "id": 693,
+     "word": "مستؤبلا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مستقبلا"
+},
+{
+     "id": 694,
+     "word": "يمخع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يمنع"
+},
+{
+     "id": 695,
+     "word": "انتزار",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "انتشار"
+},
+{
+     "id": 696,
+     "word": "التلم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "الظلم"
+},
+{
+     "id": 697,
+     "word": "أبشز",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أبرز"
+},
+{
+     "id": 698,
+     "word": "عويمل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عوامل"
+},
+{
+     "id": 699,
+     "word": "تههيد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تهديد"
+},
+{
+     "id": 700,
+     "word": "هل",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "هل"
+},
+{
+     "id": 701,
+     "word": "مرلبط",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مرتبط"
+},
+{
+     "id": 702,
+     "word": "بالعضوبات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالعقوبات"
+},
+{
+     "id": 703,
+     "word": "تحتق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تحقق"
+},
+{
+     "id": 704,
+     "word": "عمثية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عملية"
+},
+{
+     "id": 705,
+     "word": "تشصيع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تشريع"
+},
+{
+     "id": 706,
+     "word": "المشاركة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "المشاركة"
+},
+{
+     "id": 707,
+     "word": "السيظسية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "السياسية"
+},
+{
+     "id": 708,
+     "word": "تمثن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تمكن"
+},
+{
+     "id": 709,
+     "word": "العييد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العديد"
+},
+{
+     "id": 710,
+     "word": "مواطؤيها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مواطنيها"
+},
+{
+     "id": 711,
+     "word": "صاع",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "صنع"
+},
+{
+     "id": 712,
+     "word": "القزار",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "القرار"
+},
+{
+     "id": 713,
+     "word": "لتشعيع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لتشريع"
+},
+{
+     "id": 714,
+     "word": "توأكب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تواكب"
+},
+{
+     "id": 715,
+     "word": "تغياات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تغيرات"
+},
+{
+     "id": 716,
+     "word": "الهصر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "العصر"
+},
+{
+     "id": 717,
+     "word": "تنسسب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تناسب"
+},
+{
+     "id": 718,
+     "word": "الحإيثة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الحديثة"
+},
+{
+     "id": 719,
+     "word": "إرفاء",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "إرساء"
+},
+{
+     "id": 720,
+     "word": "فيطكن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فيمكن"
+},
+{
+     "id": 721,
+     "word": "للزخص",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للشخص"
+},
+{
+     "id": 722,
+     "word": "وؤع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "وقع"
+},
+{
+     "id": 723,
+     "word": "ظظم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ظلم"
+},
+{
+     "id": 724,
+     "word": "اللطوء",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "اللجوء"
+},
+{
+     "id": 725,
+     "word": "لإنثافه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لإنصافه"
+},
+{
+     "id": 726,
+     "word": "بدهره",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بدوره"
+},
+{
+     "id": 727,
+     "word": "سيخدر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "سيصدر"
+},
+{
+     "id": 728,
+     "word": "عاذلا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "عادلا"
+},
+{
+     "id": 729,
+     "word": "مصءدر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مصادر"
+},
+{
+     "id": 730,
+     "word": "اشتراق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "اشتقاق"
+},
+{
+     "id": 731,
+     "word": "الأيكام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأحكام"
+},
+{
+     "id": 732,
+     "word": "يوءر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يوفر"
+},
+{
+     "id": 733,
+     "word": "مجابات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مجالات"
+},
+{
+     "id": 734,
+     "word": "وظيكية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "وظيفية"
+},
+{
+     "id": 735,
+     "word": "متنسعة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "متنوعة"
+},
+{
+     "id": 736,
+     "word": "لتندد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لتعدد"
+},
+{
+     "id": 737,
+     "word": "فإشه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فإنه"
+},
+{
+     "id": 738,
+     "word": "الكقير",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الكثير"
+},
+{
+     "id": 739,
+     "word": "خياغات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "خيارات"
+},
+{
+     "id": 740,
+     "word": "المزال",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "المجال"
+},
+{
+     "id": 741,
+     "word": "المحجماة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المحاماة"
+},
+{
+     "id": 742,
+     "word": "الاستثارات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الاستشارات"
+},
+{
+     "id": 743,
+     "word": "بالإنضليزية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالإنجليزية"
+},
+{
+     "id": 744,
+     "word": "متردبطة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مترابطة"
+},
+{
+     "id": 745,
+     "word": "العطاصر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "العناصر"
+},
+{
+     "id": 746,
+     "word": "تشأل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تشكل"
+},
+{
+     "id": 747,
+     "word": "بعذها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بعضها"
+},
+{
+     "id": 748,
+     "word": "بإد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بلد"
+},
+{
+     "id": 749,
+     "word": "منشقة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "منطقة"
+},
+{
+     "id": 750,
+     "word": "وزد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "وقد"
+},
+{
+     "id": 751,
+     "word": "شهآت",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "شهدت"
+},
+{
+     "id": 752,
+     "word": "الفظم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "النظم"
+},
+{
+     "id": 753,
+     "word": "تطنرا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تطورا"
+},
+{
+     "id": 754,
+     "word": "كببرا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "كبيرا"
+},
+{
+     "id": 755,
+     "word": "عبر",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "عبر"
+},
+{
+     "id": 756,
+     "word": "مرثر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مرور"
+},
+{
+     "id": 757,
+     "word": "السرين",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "السنين"
+},
+{
+     "id": 758,
+     "word": "فبغد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فبعد"
+},
+{
+     "id": 759,
+     "word": "الخآوع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الخضوع"
+},
+{
+     "id": 760,
+     "word": "للأؤظمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للأنظمة"
+},
+{
+     "id": 761,
+     "word": "البدؤئية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "البدائية"
+},
+{
+     "id": 762,
+     "word": "الديكتثتورية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الديكتاتورية"
+},
+{
+     "id": 763,
+     "word": "أصرحت",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أصبحت"
+},
+{
+     "id": 764,
+     "word": "تطثق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تطبق"
+},
+{
+     "id": 765,
+     "word": "الةوم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "اليوم"
+},
+{
+     "id": 766,
+     "word": "حدجثة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حديثة"
+},
+{
+     "id": 767,
+     "word": "الإجخاءات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الإجراءات"
+},
+{
+     "id": 768,
+     "word": "بالتظفيذ",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالتنفيذ"
+},
+{
+     "id": 769,
+     "word": "مكغب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مكتب"
+},
+{
+     "id": 770,
+     "word": "الكآتب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الكاتب"
+},
+{
+     "id": 771,
+     "word": "لتطايق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لتطبيق"
+},
+{
+     "id": 772,
+     "word": "كبهرة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "كبيرة"
+},
+{
+     "id": 773,
+     "word": "تنءيم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تنظيم"
+},
+{
+     "id": 774,
+     "word": "فلد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فقد"
+},
+{
+     "id": 775,
+     "word": "وهع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "وضع"
+},
+{
+     "id": 776,
+     "word": "مصذ",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "منذ"
+},
+{
+     "id": 777,
+     "word": "آلزف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "آلاف"
+},
+{
+     "id": 778,
+     "word": "القءيمة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القديمة"
+},
+{
+     "id": 779,
+     "word": "الصعني",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الصيني"
+},
+{
+     "id": 780,
+     "word": "القغيم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القديم"
+},
+{
+     "id": 781,
+     "word": "المزري",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المصري"
+},
+{
+     "id": 782,
+     "word": "القهد",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "العهد"
+},
+{
+     "id": 783,
+     "word": "فومئد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فوائد"
+},
+{
+     "id": 784,
+     "word": "بعيها",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "بعدها"
+},
+{
+     "id": 785,
+     "word": "يسجمع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يستمع"
+},
+{
+     "id": 786,
+     "word": "للأدلة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "للأدلة"
+},
+{
+     "id": 787,
+     "word": "يتتقق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يتحقق"
+},
+{
+     "id": 788,
+     "word": "بالكضية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالقضية"
+},
+{
+     "id": 789,
+     "word": "يءر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يقر"
+},
+{
+     "id": 790,
+     "word": "المراسب",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "المناسب"
+},
+{
+     "id": 791,
+     "word": "لئا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لها"
+},
+{
+     "id": 792,
+     "word": "يطذق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يطبق"
+},
+{
+     "id": 793,
+     "word": "بحذائيره",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بحذافيره"
+},
+{
+     "id": 794,
+     "word": "يلطم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "يلزم"
+},
+{
+     "id": 795,
+     "word": "الأأراف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الأطراف"
+},
+{
+     "id": 796,
+     "word": "بالاتتزام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالالتزام"
+},
+{
+     "id": 797,
+     "word": "بقرإره",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بقراره"
+},
+{
+     "id": 798,
+     "word": "استتناف",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "استئناف"
+},
+{
+     "id": 799,
+     "word": "أمبم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أمام"
+},
+{
+     "id": 800,
+     "word": "أعوى",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "أعلى"
+},
+{
+     "id": 801,
+     "word": "ذو",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "ذو"
+},
+{
+     "id": 802,
+     "word": "القجام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القيام"
+},
+{
+     "id": 803,
+     "word": "بالتترفات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالتصرفات"
+},
+{
+     "id": 804,
+     "word": "تآل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تخل"
+},
+{
+     "id": 805,
+     "word": "بأفن",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بأمن"
+},
+{
+     "id": 806,
+     "word": "ليكظنوا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ليكونوا"
+},
+{
+     "id": 807,
+     "word": "مواءنين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مواطنين"
+},
+{
+     "id": 808,
+     "word": "صالدين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "صالحين"
+},
+{
+     "id": 809,
+     "word": "منتغين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "منتمين"
+},
+{
+     "id": 810,
+     "word": "وطإهم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "وطنهم"
+},
+{
+     "id": 811,
+     "word": "وانب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "واجب"
+},
+{
+     "id": 812,
+     "word": "الإرص",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الحرص"
+},
+{
+     "id": 813,
+     "word": "فنض",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "فرض"
+},
+{
+     "id": 814,
+     "word": "أراأيها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أراضيها"
+},
+{
+     "id": 815,
+     "word": "رعائاها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "رعاياها"
+},
+{
+     "id": 816,
+     "word": "القضايا",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "القضايا"
+},
+{
+     "id": 817,
+     "word": "تشجبه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تشابه"
+},
+{
+     "id": 818,
+     "word": "مباتئها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مبادئها"
+},
+{
+     "id": 819,
+     "word": "تفاصالها",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تفاصيلها"
+},
+{
+     "id": 820,
+     "word": "تعزي",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تعني"
+},
+{
+     "id": 821,
+     "word": "السةبقة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "السابقة"
+},
+{
+     "id": 822,
+     "word": "التإام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "التزام"
+},
+{
+     "id": 823,
+     "word": "بتطإيق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بتطبيق"
+},
+{
+     "id": 824,
+     "word": "قدحه",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "قدمه"
+},
+{
+     "id": 825,
+     "word": "قضوة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "قضاة"
+},
+{
+     "id": 826,
+     "word": "ذإت",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "ذات"
+},
+{
+     "id": 827,
+     "word": "المبادئ",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "المبادئ"
+},
+{
+     "id": 828,
+     "word": "الممزثلة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المماثلة"
+},
+{
+     "id": 829,
+     "word": "تشرءعية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تشريعية"
+},
+{
+     "id": 830,
+     "word": "مفبوم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "مفهوم"
+},
+{
+     "id": 831,
+     "word": "عنابره",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "عناصره"
+},
+{
+     "id": 832,
+     "word": "وضنية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "وضعية"
+},
+{
+     "id": 833,
+     "word": "المنادر",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المصادر"
+},
+{
+     "id": 834,
+     "word": "لاشتقاق",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "لاشتقاق"
+},
+{
+     "id": 835,
+     "word": "بالبدلمان",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "بالبرلمان"
+},
+{
+     "id": 836,
+     "word": "فءا",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فلا"
+},
+{
+     "id": 837,
+     "word": "للمءاكم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "للمحاكم"
+},
+{
+     "id": 838,
+     "word": "نظحمي",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "نظامي"
+},
+{
+     "id": 839,
+     "word": "دستثرية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "دستورية"
+},
+{
+     "id": 840,
+     "word": "حدذد",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "حدود"
+},
+{
+     "id": 841,
+     "word": "تشدق",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تشتق"
+},
+{
+     "id": 842,
+     "word": "القركرات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "القرارات"
+},
+{
+     "id": 843,
+     "word": "جاذت",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "جاءت"
+},
+{
+     "id": 844,
+     "word": "أحخام",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "أحكام"
+},
+{
+     "id": 845,
+     "word": "سالقة",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "سابقة"
+},
+{
+     "id": 846,
+     "word": "يطإق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يطلق"
+},
+{
+     "id": 847,
+     "word": "اضم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "اسم"
+},
+{
+     "id": 848,
+     "word": "فعنشما",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فعندما"
+},
+{
+     "id": 849,
+     "word": "تععض",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "تعرض"
+},
+{
+     "id": 850,
+     "word": "قضطة",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "قضية"
+},
+{
+     "id": 851,
+     "word": "يطقب",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يطلب"
+},
+{
+     "id": 852,
+     "word": "الدءوى",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الدعوى"
+},
+{
+     "id": 853,
+     "word": "تقويم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تقديم"
+},
+{
+     "id": 854,
+     "word": "الضجج",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "الحجج"
+},
+{
+     "id": 855,
+     "word": "تدغم",
+     "tag": "correct",
+     "domain": "Legal",
+     "correct word": "تدعم"
+},
+{
+     "id": 856,
+     "word": "موقإهم",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "موقفهم"
+},
+{
+     "id": 857,
+     "word": "يرشع",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يرجع"
+},
+{
+     "id": 858,
+     "word": "لصاآبه",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "لصاحبه"
+},
+{
+     "id": 859,
+     "word": "شخصنات",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "شخصيات"
+},
+{
+     "id": 860,
+     "word": "المتنبزعين",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "المتنازعين"
+},
+{
+     "id": 861,
+     "word": "فااكل",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "فالكل"
+},
+{
+     "id": 862,
+     "word": "سواصية",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "سواسية"
+},
+{
+     "id": 863,
+     "word": "يحأق",
+     "tag": "wrong",
+     "domain": "Legal",
+     "correct word": "يحقق"
+}
+]

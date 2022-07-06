@@ -1,0 +1,11005 @@
+[{
+     "id": 1,
+     "word": "إضاات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إضافات"
+},
+{
+     "id": 2,
+     "word": "أخى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أخرى"
+},
+{
+     "id": 3,
+     "word": "يفل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يفضل"
+},
+{
+     "id": 4,
+     "word": "شرء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "شراء"
+},
+{
+     "id": 5,
+     "word": "جهز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جهاز"
+},
+{
+     "id": 6,
+     "word": "يحوي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يحتوي"
+},
+{
+     "id": 7,
+     "word": "عى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "على"
+},
+{
+     "id": 8,
+     "word": "بض",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بعض"
+},
+{
+     "id": 9,
+     "word": "الإضفات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإضافات"
+},
+{
+     "id": 10,
+     "word": "ككايرا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ككاميرا"
+},
+{
+     "id": 11,
+     "word": "اليب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الويب"
+},
+{
+     "id": 12,
+     "word": "وقص",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وقرص"
+},
+{
+     "id": 13,
+     "word": "خاجي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "خارجي"
+},
+{
+     "id": 14,
+     "word": "لغاات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "لغايات"
+},
+{
+     "id": 15,
+     "word": "حظ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حفظ"
+},
+{
+     "id": 16,
+     "word": "السخ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "النسخ"
+},
+{
+     "id": 17,
+     "word": "الاحتاطية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاحتياطية"
+},
+{
+     "id": 18,
+     "word": "الخصة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الخاصة"
+},
+{
+     "id": 19,
+     "word": "بالهاز",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالجهاز"
+},
+{
+     "id": 20,
+     "word": "تتثل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تتمثل"
+},
+{
+     "id": 21,
+     "word": "عنصر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عناصر"
+},
+{
+     "id": 22,
+     "word": "التور",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التطور"
+},
+{
+     "id": 23,
+     "word": "في",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "في"
+},
+{
+     "id": 24,
+     "word": "هه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "هذه"
+},
+{
+     "id": 25,
+     "word": "المحلة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المرحلة"
+},
+{
+     "id": 26,
+     "word": "با",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بما"
+},
+{
+     "id": 27,
+     "word": "يي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يلي"
+},
+{
+     "id": 28,
+     "word": "عمية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عملية"
+},
+{
+     "id": 29,
+     "word": "تطير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تطوير"
+},
+{
+     "id": 30,
+     "word": "البرجيات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "البرمجيات"
+},
+{
+     "id": 31,
+     "word": "الي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التي"
+},
+{
+     "id": 32,
+     "word": "تقم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تقوم"
+},
+{
+     "id": 33,
+     "word": "بتطيق",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بتطبيق"
+},
+{
+     "id": 34,
+     "word": "الذاء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الذكاء"
+},
+{
+     "id": 35,
+     "word": "الاصناعي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاصطناعي"
+},
+{
+     "id": 36,
+     "word": "تم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تتم"
+},
+{
+     "id": 37,
+     "word": "بشل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بشكل"
+},
+{
+     "id": 38,
+     "word": "بطء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بطيء"
+},
+{
+     "id": 39,
+     "word": "جا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جدا"
+},
+{
+     "id": 40,
+     "word": "بسب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بسبب"
+},
+{
+     "id": 41,
+     "word": "عم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عدم"
+},
+{
+     "id": 42,
+     "word": "وجد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وجود"
+},
+{
+     "id": 43,
+     "word": "مبرجين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مبرمجين"
+},
+{
+     "id": 44,
+     "word": "ماهين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ماهرين"
+},
+{
+     "id": 45,
+     "word": "للقام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للقيام"
+},
+{
+     "id": 46,
+     "word": "بذك",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بذلك"
+},
+{
+     "id": 47,
+     "word": "إضفة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إضافة"
+},
+{
+     "id": 48,
+     "word": "إى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إلى"
+},
+{
+     "id": 49,
+     "word": "تكلتها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تكلفتها"
+},
+{
+     "id": 50,
+     "word": "العلية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العالية"
+},
+{
+     "id": 51,
+     "word": "احتاء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "احتواء"
+},
+{
+     "id": 52,
+     "word": "أجاء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أجزاء"
+},
+{
+     "id": 53,
+     "word": "الحسوب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الحاسوب"
+},
+{
+     "id": 54,
+     "word": "الدالية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الداخلية"
+},
+{
+     "id": 55,
+     "word": "وتثبتها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتثبيتها"
+},
+{
+     "id": 56,
+     "word": "دال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "داخل"
+},
+{
+     "id": 57,
+     "word": "وفما",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وفيما"
+},
+{
+     "id": 58,
+     "word": "يأي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يأتي"
+},
+{
+     "id": 59,
+     "word": "تفيل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تفصيل"
+},
+{
+     "id": 60,
+     "word": "لأرز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لأبرز"
+},
+{
+     "id": 61,
+     "word": "سلبات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سلبيات"
+},
+{
+     "id": 62,
+     "word": "وإيجبيات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وإيجابيات"
+},
+{
+     "id": 63,
+     "word": "وي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وفي"
+},
+{
+     "id": 64,
+     "word": "الفرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الفترة"
+},
+{
+     "id": 65,
+     "word": "المتدة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الممتدة"
+},
+{
+     "id": 66,
+     "word": "ما",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ما"
+},
+{
+     "id": 67,
+     "word": "بن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بين"
+},
+{
+     "id": 68,
+     "word": "الأوام",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأعوام"
+},
+{
+     "id": 69,
+     "word": "م",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "م"
+},
+{
+     "id": 70,
+     "word": "تم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تم"
+},
+{
+     "id": 71,
+     "word": "حاوب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حاسوب"
+},
+{
+     "id": 72,
+     "word": "يدى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يدعى"
+},
+{
+     "id": 73,
+     "word": "من",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "من"
+},
+{
+     "id": 74,
+     "word": "قل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "قبل"
+},
+{
+     "id": 75,
+     "word": "جن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جون"
+},
+{
+     "id": 76,
+     "word": "فننت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فنسنت"
+},
+{
+     "id": 77,
+     "word": "أتانسوف",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أتاناسوف"
+},
+{
+     "id": 78,
+     "word": "وكيف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وكليف"
+},
+{
+     "id": 79,
+     "word": "بيي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بيري"
+},
+{
+     "id": 80,
+     "word": "ود",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وقد"
+},
+{
+     "id": 81,
+     "word": "منحما",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "منحهما"
+},
+{
+     "id": 82,
+     "word": "برءة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "براءة"
+},
+{
+     "id": 83,
+     "word": "اختاع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "اختراع"
+},
+{
+     "id": 84,
+     "word": "أل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أول"
+},
+{
+     "id": 85,
+     "word": "رقي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "رقمي"
+},
+{
+     "id": 86,
+     "word": "ورم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ورغم"
+},
+{
+     "id": 87,
+     "word": "ذك",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ذلك"
+},
+{
+     "id": 88,
+     "word": "يى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يرى"
+},
+{
+     "id": 89,
+     "word": "الكير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الكثير"
+},
+{
+     "id": 90,
+     "word": "بن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بأن"
+},
+{
+     "id": 91,
+     "word": "الي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الذي"
+},
+{
+     "id": 92,
+     "word": "اكتال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "اكتمال"
+},
+{
+     "id": 93,
+     "word": "اختاعه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "اختراعه"
+},
+{
+     "id": 94,
+     "word": "الام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "العام"
+},
+{
+     "id": 95,
+     "word": "بريبير",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بريسبير"
+},
+{
+     "id": 96,
+     "word": "إيرت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إيكرت"
+},
+{
+     "id": 97,
+     "word": "وجن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وجون"
+},
+{
+     "id": 98,
+     "word": "مولي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "موكلي"
+},
+{
+     "id": 99,
+     "word": "هو",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "هو"
+},
+{
+     "id": 100,
+     "word": "العلم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العالم"
+},
+{
+     "id": 101,
+     "word": "أم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أهم"
+},
+{
+     "id": 102,
+     "word": "شبات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شبكات"
+},
+{
+     "id": 103,
+     "word": "الأحاث",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأبحاث"
+},
+{
+     "id": 104,
+     "word": "الألية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأولية"
+},
+{
+     "id": 105,
+     "word": "شبة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شبكة"
+},
+{
+     "id": 106,
+     "word": "أربنت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أربانت"
+},
+{
+     "id": 107,
+     "word": "الأميكية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأمريكية"
+},
+{
+     "id": 108,
+     "word": "بالإنليزية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالإنجليزية"
+},
+{
+     "id": 109,
+     "word": "وشكة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وشبكة"
+},
+{
+     "id": 110,
+     "word": "أن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أن"
+},
+{
+     "id": 111,
+     "word": "بي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بي"
+},
+{
+     "id": 112,
+     "word": "أل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أل"
+},
+{
+     "id": 113,
+     "word": "ماك",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مارك"
+},
+{
+     "id": 114,
+     "word": "البريانية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "البريطانية"
+},
+{
+     "id": 115,
+     "word": "سايكاديس",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "سايكلاديس"
+},
+{
+     "id": 116,
+     "word": "الفرسية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الفرنسية"
+},
+{
+     "id": 117,
+     "word": "با",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بلا"
+},
+{
+     "id": 118,
+     "word": "إنجلزية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إنجليزية"
+},
+{
+     "id": 119,
+     "word": "استدمت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "استخدمت"
+},
+{
+     "id": 120,
+     "word": "الشكات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الشبكات"
+},
+{
+     "id": 121,
+     "word": "تقية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تقنية"
+},
+{
+     "id": 122,
+     "word": "اتصلات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "اتصالات"
+},
+{
+     "id": 123,
+     "word": "جددة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "جديدة"
+},
+{
+     "id": 124,
+     "word": "تسى",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تسمى"
+},
+{
+     "id": 125,
+     "word": "الزم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الرزم"
+},
+{
+     "id": 126,
+     "word": "المتادلة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المتبادلة"
+},
+{
+     "id": 127,
+     "word": "حث",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حيث"
+},
+{
+     "id": 128,
+     "word": "يم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يتم"
+},
+{
+     "id": 129,
+     "word": "تقيم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تقسيم"
+},
+{
+     "id": 130,
+     "word": "البينات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "البيانات"
+},
+{
+     "id": 131,
+     "word": "المغوب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المرغوب"
+},
+{
+     "id": 132,
+     "word": "إرسلها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إرسالها"
+},
+{
+     "id": 133,
+     "word": "وحات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وحدات"
+},
+{
+     "id": 134,
+     "word": "صغرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صغيرة"
+},
+{
+     "id": 135,
+     "word": "واتي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والتي"
+},
+{
+     "id": 136,
+     "word": "ترل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ترسل"
+},
+{
+     "id": 137,
+     "word": "عر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عبر"
+},
+{
+     "id": 138,
+     "word": "الشكة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الشبكة"
+},
+{
+     "id": 139,
+     "word": "منرد",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "منفرد"
+},
+{
+     "id": 140,
+     "word": "وسح",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وسمح"
+},
+{
+     "id": 141,
+     "word": "ها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "هذا"
+},
+{
+     "id": 142,
+     "word": "بزيدة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بزيادة"
+},
+{
+     "id": 143,
+     "word": "كفءة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كفاءة"
+},
+{
+     "id": 144,
+     "word": "الولات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الوصلات"
+},
+{
+     "id": 145,
+     "word": "القرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "القدرة"
+},
+{
+     "id": 146,
+     "word": "إرال",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إرسال"
+},
+{
+     "id": 147,
+     "word": "نس",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نفس"
+},
+{
+     "id": 148,
+     "word": "الاصال",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاتصال"
+},
+{
+     "id": 149,
+     "word": "وجهها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وجهتها"
+},
+{
+     "id": 150,
+     "word": "بطق",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بطرق"
+},
+{
+     "id": 151,
+     "word": "مختفة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مختلفة"
+},
+{
+     "id": 152,
+     "word": "ما",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مما"
+},
+{
+     "id": 153,
+     "word": "سح",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سمح"
+},
+{
+     "id": 154,
+     "word": "بتويع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بتوزيع"
+},
+{
+     "id": 155,
+     "word": "حرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حركة"
+},
+{
+     "id": 156,
+     "word": "المور",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المرور"
+},
+{
+     "id": 157,
+     "word": "الرابط",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الروابط"
+},
+{
+     "id": 158,
+     "word": "والاسجابة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والاستجابة"
+},
+{
+     "id": 159,
+     "word": "أي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أي"
+},
+{
+     "id": 160,
+     "word": "انهار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "انهيار"
+},
+{
+     "id": 161,
+     "word": "عن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عن"
+},
+{
+     "id": 162,
+     "word": "طرق",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "طريق"
+},
+{
+     "id": 163,
+     "word": "تويه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "توجيه"
+},
+{
+     "id": 164,
+     "word": "مكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مكان"
+},
+{
+     "id": 165,
+     "word": "آر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "آخر"
+},
+{
+     "id": 166,
+     "word": "ور",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وفر"
+},
+{
+     "id": 167,
+     "word": "المونة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المرونة"
+},
+{
+     "id": 168,
+     "word": "ومع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ومنع"
+},
+{
+     "id": 169,
+     "word": "الازحام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الازدحام"
+},
+{
+     "id": 170,
+     "word": "وزد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وزاد"
+},
+{
+     "id": 171,
+     "word": "موثقية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "موثوقية"
+},
+{
+     "id": 172,
+     "word": "تعف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تعرف"
+},
+{
+     "id": 173,
+     "word": "ذارة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ذاكرة"
+},
+{
+     "id": 174,
+     "word": "الوول",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الوصول"
+},
+{
+     "id": 175,
+     "word": "العشائي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "العشوائي"
+},
+{
+     "id": 176,
+     "word": "بأها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بأنها"
+},
+{
+     "id": 177,
+     "word": "وحة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وحدة"
+},
+{
+     "id": 178,
+     "word": "التزين",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التخزين"
+},
+{
+     "id": 179,
+     "word": "المقتة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المؤقتة"
+},
+{
+     "id": 180,
+     "word": "تفد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تفقد"
+},
+{
+     "id": 181,
+     "word": "المعومات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المعلومات"
+},
+{
+     "id": 182,
+     "word": "المزنة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المخزنة"
+},
+{
+     "id": 183,
+     "word": "فيا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فيها"
+},
+{
+     "id": 184,
+     "word": "بمرد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بمجرد"
+},
+{
+     "id": 185,
+     "word": "إغاق",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إغلاق"
+},
+{
+     "id": 186,
+     "word": "وتبت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتثبت"
+},
+{
+     "id": 187,
+     "word": "الذكرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الذاكرة"
+},
+{
+     "id": 188,
+     "word": "اللحة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "اللوحة"
+},
+{
+     "id": 189,
+     "word": "الم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأم"
+},
+{
+     "id": 190,
+     "word": "كا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كما"
+},
+{
+     "id": 191,
+     "word": "يمن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يمكن"
+},
+{
+     "id": 192,
+     "word": "تثيت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تثبيت"
+},
+{
+     "id": 193,
+     "word": "شرحة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شريحة"
+},
+{
+     "id": 194,
+     "word": "وادة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "واحدة"
+},
+{
+     "id": 195,
+     "word": "أو",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أو"
+},
+{
+     "id": 196,
+     "word": "أكر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أكثر"
+},
+{
+     "id": 197,
+     "word": "ويجد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ويوجد"
+},
+{
+     "id": 198,
+     "word": "نوان",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نوعان"
+},
+{
+     "id": 199,
+     "word": "العشائية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "العشوائية"
+},
+{
+     "id": 200,
+     "word": "ها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "هما"
+},
+{
+     "id": 201,
+     "word": "الدينميكية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الديناميكية"
+},
+{
+     "id": 202,
+     "word": "وذارة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وذاكرة"
+},
+{
+     "id": 203,
+     "word": "الثبتة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الثابتة"
+},
+{
+     "id": 204,
+     "word": "ون",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ومن"
+},
+{
+     "id": 205,
+     "word": "الشئع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الشائع"
+},
+{
+     "id": 206,
+     "word": "استدام",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "استخدام"
+},
+{
+     "id": 207,
+     "word": "ال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ال"
+},
+{
+     "id": 208,
+     "word": "الحوسيب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الحواسيب"
+},
+{
+     "id": 209,
+     "word": "الشصية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الشخصية"
+},
+{
+     "id": 210,
+     "word": "لأها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لأنها"
+},
+{
+     "id": 211,
+     "word": "أل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أقل"
+},
+{
+     "id": 212,
+     "word": "كلة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كلفة"
+},
+{
+     "id": 213,
+     "word": "وتحاج",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتحتاج"
+},
+{
+     "id": 214,
+     "word": "الموودة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الموجودة"
+},
+{
+     "id": 215,
+     "word": "تحيث",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تحديث"
+},
+{
+     "id": 216,
+     "word": "مسمر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مستمر"
+},
+{
+     "id": 217,
+     "word": "أثاء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أثناء"
+},
+{
+     "id": 218,
+     "word": "علها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عليها"
+},
+{
+     "id": 219,
+     "word": "يتتع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يتمتع"
+},
+{
+     "id": 220,
+     "word": "الإنرنت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإنترنت"
+},
+{
+     "id": 221,
+     "word": "بعة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بعدة"
+},
+{
+     "id": 222,
+     "word": "فوئد",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فوائد"
+},
+{
+     "id": 223,
+     "word": "أبرها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أبرزها"
+},
+{
+     "id": 224,
+     "word": "يأي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يأتي"
+},
+{
+     "id": 225,
+     "word": "تنقل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تنتقل"
+},
+{
+     "id": 226,
+     "word": "الفيوسات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الفيروسات"
+},
+{
+     "id": 227,
+     "word": "الأهزة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأجهزة"
+},
+{
+     "id": 228,
+     "word": "خلل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "خلال"
+},
+{
+     "id": 229,
+     "word": "العيد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العديد"
+},
+{
+     "id": 230,
+     "word": "الرق",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الطرق"
+},
+{
+     "id": 231,
+     "word": "ومها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ومنها"
+},
+{
+     "id": 232,
+     "word": "التي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الآتي"
+},
+{
+     "id": 233,
+     "word": "بدت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بدأت"
+},
+{
+     "id": 234,
+     "word": "فكة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فكرة"
+},
+{
+     "id": 235,
+     "word": "أشاء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أشياء"
+},
+{
+     "id": 236,
+     "word": "جادة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جامدة"
+},
+{
+     "id": 237,
+     "word": "تشه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تشبه"
+},
+{
+     "id": 238,
+     "word": "الكانات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الكائنات"
+},
+{
+     "id": 239,
+     "word": "الية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الحية"
+},
+{
+     "id": 240,
+     "word": "الذية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الذكية"
+},
+{
+     "id": 241,
+     "word": "مذ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "منذ"
+},
+{
+     "id": 242,
+     "word": "فتة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فترة"
+},
+{
+     "id": 243,
+     "word": "طولة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "طويلة"
+},
+{
+     "id": 244,
+     "word": "كن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كان"
+},
+{
+     "id": 245,
+     "word": "عد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عند"
+},
+{
+     "id": 246,
+     "word": "الإريق",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإغريق"
+},
+{
+     "id": 247,
+     "word": "القماء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "القدماء"
+},
+{
+     "id": 248,
+     "word": "أساير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أساطير"
+},
+{
+     "id": 249,
+     "word": "الرووتات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الروبوتات"
+},
+{
+     "id": 250,
+     "word": "بى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بنى"
+},
+{
+     "id": 251,
+     "word": "المهدسون",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المهندسون"
+},
+{
+     "id": 252,
+     "word": "الصييون",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الصينيون"
+},
+{
+     "id": 253,
+     "word": "والمريون",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والمصريون"
+},
+{
+     "id": 254,
+     "word": "إنسنا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إنسانا"
+},
+{
+     "id": 255,
+     "word": "آلا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "آليا"
+},
+{
+     "id": 256,
+     "word": "التاصل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التواصل"
+},
+{
+     "id": 257,
+     "word": "مع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مع"
+},
+{
+     "id": 258,
+     "word": "الآرين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الآخرين"
+},
+{
+     "id": 259,
+     "word": "يور",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يوفر"
+},
+{
+     "id": 260,
+     "word": "طق",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "طرق"
+},
+{
+     "id": 261,
+     "word": "بالأدقاء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالأصدقاء"
+},
+{
+     "id": 262,
+     "word": "والهل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والأهل"
+},
+{
+     "id": 263,
+     "word": "خدات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "خدمات"
+},
+{
+     "id": 264,
+     "word": "البيد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "البريد"
+},
+{
+     "id": 265,
+     "word": "الإلكروني",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإلكتروني"
+},
+{
+     "id": 266,
+     "word": "وشبات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وشبكات"
+},
+{
+     "id": 267,
+     "word": "الاجماعي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاجتماعي"
+},
+{
+     "id": 268,
+     "word": "وف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وصف"
+},
+{
+     "id": 269,
+     "word": "الفلسفة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الفلاسفة"
+},
+{
+     "id": 270,
+     "word": "الكلايكيون",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الكلاسيكيون"
+},
+{
+     "id": 271,
+     "word": "التكير",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التفكير"
+},
+{
+     "id": 272,
+     "word": "البري",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "البشري"
+},
+{
+     "id": 273,
+     "word": "بأه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بأنه"
+},
+{
+     "id": 274,
+     "word": "شبه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شبيه"
+},
+{
+     "id": 275,
+     "word": "بالظام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالنظام"
+},
+{
+     "id": 276,
+     "word": "الرزي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الرمزي"
+},
+{
+     "id": 277,
+     "word": "ها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "هنا"
+},
+{
+     "id": 278,
+     "word": "بالهور",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالظهور"
+},
+{
+     "id": 279,
+     "word": "المنديات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المنتديات"
+},
+{
+     "id": 280,
+     "word": "فم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فتم"
+},
+{
+     "id": 281,
+     "word": "المالج",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المعالج"
+},
+{
+     "id": 282,
+     "word": "شرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شركة"
+},
+{
+     "id": 283,
+     "word": "إنل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إنتل"
+},
+{
+     "id": 284,
+     "word": "إصار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إصدار"
+},
+{
+     "id": 285,
+     "word": "شخي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "شخصي"
+},
+{
+     "id": 286,
+     "word": "وأل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وأول"
+},
+{
+     "id": 287,
+     "word": "صغر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صغير"
+},
+{
+     "id": 288,
+     "word": "ثم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ثم"
+},
+{
+     "id": 289,
+     "word": "قدت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "قدمت"
+},
+{
+     "id": 290,
+     "word": "محول",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "محمول"
+},
+{
+     "id": 291,
+     "word": "واذي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والذي"
+},
+{
+     "id": 292,
+     "word": "عف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عرف"
+},
+{
+     "id": 293,
+     "word": "بـ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بـ"
+},
+{
+     "id": 294,
+     "word": "وغيها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وغيرها"
+},
+{
+     "id": 295,
+     "word": "الإنازات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإنجازات"
+},
+{
+     "id": 296,
+     "word": "الأرى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأخرى"
+},
+{
+     "id": 297,
+     "word": "سامت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ساهمت"
+},
+{
+     "id": 298,
+     "word": "تطر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تطور"
+},
+{
+     "id": 299,
+     "word": "وانشار",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وانتشار"
+},
+{
+     "id": 300,
+     "word": "استخامه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "استخدامه"
+},
+{
+     "id": 301,
+     "word": "كبر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كبير"
+},
+{
+     "id": 302,
+     "word": "الرن",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "القرن"
+},
+{
+     "id": 303,
+     "word": "الوحد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الواحد"
+},
+{
+     "id": 304,
+     "word": "والعرين",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والعشرين"
+},
+{
+     "id": 305,
+     "word": "يقل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يقال"
+},
+{
+     "id": 306,
+     "word": "هنك",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "هناك"
+},
+{
+     "id": 307,
+     "word": "تنفس",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تنافس"
+},
+{
+     "id": 308,
+     "word": "إناج",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إنتاج"
+},
+{
+     "id": 309,
+     "word": "الأرع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأسرع"
+},
+{
+     "id": 310,
+     "word": "اتاع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "اتباع"
+},
+{
+     "id": 311,
+     "word": "خطات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "خطوات"
+},
+{
+     "id": 312,
+     "word": "التبيت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التثبيت"
+},
+{
+     "id": 313,
+     "word": "الظهرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الظاهرة"
+},
+{
+     "id": 314,
+     "word": "الششة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الشاشة"
+},
+{
+     "id": 315,
+     "word": "أغب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أغلب"
+},
+{
+     "id": 316,
+     "word": "الأيان",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأحيان"
+},
+{
+     "id": 317,
+     "word": "سيم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سيتم"
+},
+{
+     "id": 318,
+     "word": "طب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "طلب"
+},
+{
+     "id": 319,
+     "word": "معلمات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "معلومات"
+},
+{
+     "id": 320,
+     "word": "قادة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "قاعدة"
+},
+{
+     "id": 321,
+     "word": "عنان",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عنوان"
+},
+{
+     "id": 322,
+     "word": "القعدة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "القاعدة"
+},
+{
+     "id": 323,
+     "word": "واسها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "واسمها"
+},
+{
+     "id": 324,
+     "word": "وام",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "واسم"
+},
+{
+     "id": 325,
+     "word": "مستدم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مستخدم"
+},
+{
+     "id": 326,
+     "word": "مخل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مخول"
+},
+{
+     "id": 327,
+     "word": "بالصول",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالوصول"
+},
+{
+     "id": 328,
+     "word": "إلها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إليها"
+},
+{
+     "id": 329,
+     "word": "وكمة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وكلمة"
+},
+{
+     "id": 330,
+     "word": "بها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بهذا"
+},
+{
+     "id": 331,
+     "word": "المسخدم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المستخدم"
+},
+{
+     "id": 332,
+     "word": "يطب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يطلب"
+},
+{
+     "id": 333,
+     "word": "البرامج",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "البرنامج"
+},
+{
+     "id": 334,
+     "word": "مل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مثل"
+},
+{
+     "id": 335,
+     "word": "الاص",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الخاص"
+},
+{
+     "id": 336,
+     "word": "بالمؤول",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالمسؤول"
+},
+{
+     "id": 337,
+     "word": "المتدى",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المنتدى"
+},
+{
+     "id": 338,
+     "word": "بالإافة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالإضافة"
+},
+{
+     "id": 339,
+     "word": "يرب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "يرغب"
+},
+{
+     "id": 340,
+     "word": "با",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بها"
+},
+{
+     "id": 341,
+     "word": "كام",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كاسم"
+},
+{
+     "id": 342,
+     "word": "مستدمه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مستخدمه"
+},
+{
+     "id": 343,
+     "word": "مرره",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مروره"
+},
+{
+     "id": 344,
+     "word": "المقع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الموقع"
+},
+{
+     "id": 345,
+     "word": "ورم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ورقم"
+},
+{
+     "id": 346,
+     "word": "المفذ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المنفذ"
+},
+{
+     "id": 347,
+     "word": "خام",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "خادم"
+},
+{
+     "id": 348,
+     "word": "عاة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عادة"
+},
+{
+     "id": 349,
+     "word": "يكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يكون"
+},
+{
+     "id": 350,
+     "word": "القم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الرقم"
+},
+{
+     "id": 351,
+     "word": "الممول",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المحمول"
+},
+{
+     "id": 352,
+     "word": "وو",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وهو"
+},
+{
+     "id": 353,
+     "word": "تشغله",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تشغيله"
+},
+{
+     "id": 354,
+     "word": "البطرية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "البطارية"
+},
+{
+     "id": 355,
+     "word": "لا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لذا"
+},
+{
+     "id": 356,
+     "word": "فن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فإن"
+},
+{
+     "id": 357,
+     "word": "نل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نقل"
+},
+{
+     "id": 358,
+     "word": "الوع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "النوع"
+},
+{
+     "id": 359,
+     "word": "يعبر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يعتبر"
+},
+{
+     "id": 360,
+     "word": "سهلة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سهولة"
+},
+{
+     "id": 361,
+     "word": "نظيتها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "نظيرتها"
+},
+{
+     "id": 362,
+     "word": "المكبية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المكتبية"
+},
+{
+     "id": 363,
+     "word": "ونرا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ونظرا"
+},
+{
+     "id": 364,
+     "word": "لكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لكون"
+},
+{
+     "id": 365,
+     "word": "المنقل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المتنقل"
+},
+{
+     "id": 366,
+     "word": "سل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سهل"
+},
+{
+     "id": 367,
+     "word": "التقل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التنقل"
+},
+{
+     "id": 368,
+     "word": "فإه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فإنه"
+},
+{
+     "id": 369,
+     "word": "تحيل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحميل"
+},
+{
+     "id": 370,
+     "word": "برنمج",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "برنامج"
+},
+{
+     "id": 371,
+     "word": "به",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "به"
+},
+{
+     "id": 372,
+     "word": "فك",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فك"
+},
+{
+     "id": 373,
+     "word": "ضغه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ضغطه"
+},
+{
+     "id": 374,
+     "word": "يسى",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "يسمى"
+},
+{
+     "id": 375,
+     "word": "مزد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مزود"
+},
+{
+     "id": 376,
+     "word": "الطقة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الطاقة"
+},
+{
+     "id": 377,
+     "word": "أيا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أيضا"
+},
+{
+     "id": 378,
+     "word": "بودة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بوحدة"
+},
+{
+     "id": 379,
+     "word": "إماد",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إمداد"
+},
+{
+     "id": 380,
+     "word": "ولمود",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ولمزود"
+},
+{
+     "id": 381,
+     "word": "وظئف",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وظائف"
+},
+{
+     "id": 382,
+     "word": "متعدة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "متعددة"
+},
+{
+     "id": 383,
+     "word": "منا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "منها"
+},
+{
+     "id": 384,
+     "word": "يأي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يأتي"
+},
+{
+     "id": 385,
+     "word": "الإابة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإصابة"
+},
+{
+     "id": 386,
+     "word": "بفيرسات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بفيروسات"
+},
+{
+     "id": 387,
+     "word": "تصب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تصاب"
+},
+{
+     "id": 388,
+     "word": "فيرسات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فيروسات"
+},
+{
+     "id": 389,
+     "word": "وذك",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وذلك"
+},
+{
+     "id": 390,
+     "word": "مجد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مجرد"
+},
+{
+     "id": 391,
+     "word": "أومر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أوامر"
+},
+{
+     "id": 392,
+     "word": "برمية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "برمجية"
+},
+{
+     "id": 393,
+     "word": "تعرها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تعرضها"
+},
+{
+     "id": 394,
+     "word": "للإابة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للإصابة"
+},
+{
+     "id": 395,
+     "word": "مثها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مثلها"
+},
+{
+     "id": 396,
+     "word": "موود",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "موجود"
+},
+{
+     "id": 397,
+     "word": "الكميوتر",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الكمبيوتر"
+},
+{
+     "id": 398,
+     "word": "ويدي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ويؤدي"
+},
+{
+     "id": 399,
+     "word": "المر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأمر"
+},
+{
+     "id": 400,
+     "word": "جل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جعل"
+},
+{
+     "id": 401,
+     "word": "الجاز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الجهاز"
+},
+{
+     "id": 402,
+     "word": "مصبا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مصابا"
+},
+{
+     "id": 403,
+     "word": "بأثر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بأكثر"
+},
+{
+     "id": 404,
+     "word": "فيوس",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فيروس"
+},
+{
+     "id": 405,
+     "word": "القت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الوقت"
+},
+{
+     "id": 406,
+     "word": "الزء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الجزء"
+},
+{
+     "id": 407,
+     "word": "المدي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المادي"
+},
+{
+     "id": 408,
+     "word": "كل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كل"
+},
+{
+     "id": 409,
+     "word": "لمه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لمسه"
+},
+{
+     "id": 410,
+     "word": "مكوات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مكونات"
+},
+{
+     "id": 411,
+     "word": "تؤي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تؤدي"
+},
+{
+     "id": 412,
+     "word": "دوا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "دورا"
+},
+{
+     "id": 413,
+     "word": "معنا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "معينا"
+},
+{
+     "id": 414,
+     "word": "ووظئف",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ووظائف"
+},
+{
+     "id": 415,
+     "word": "محدة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "محددة"
+},
+{
+     "id": 416,
+     "word": "وتتلف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتتألف"
+},
+{
+     "id": 417,
+     "word": "الأزاء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأجزاء"
+},
+{
+     "id": 418,
+     "word": "المدية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المادية"
+},
+{
+     "id": 419,
+     "word": "للحسوب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للحاسوب"
+},
+{
+     "id": 420,
+     "word": "تصف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تصنف"
+},
+{
+     "id": 421,
+     "word": "ضن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ضمن"
+},
+{
+     "id": 422,
+     "word": "أجزة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أجهزة"
+},
+{
+     "id": 423,
+     "word": "الإراج",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإخراج"
+},
+{
+     "id": 424,
+     "word": "في",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فهي"
+},
+{
+     "id": 425,
+     "word": "مسؤلة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مسؤولة"
+},
+{
+     "id": 426,
+     "word": "عض",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عرض"
+},
+{
+     "id": 427,
+     "word": "إنشؤها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إنشاؤها"
+},
+{
+     "id": 428,
+     "word": "شل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شكل"
+},
+{
+     "id": 429,
+     "word": "فييو",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فيديو"
+},
+{
+     "id": 430,
+     "word": "صوة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صورة"
+},
+{
+     "id": 431,
+     "word": "وتبه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتشبه"
+},
+{
+     "id": 432,
+     "word": "التفاز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التلفاز"
+},
+{
+     "id": 433,
+     "word": "ولن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ولكن"
+},
+{
+     "id": 434,
+     "word": "تماز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تمتاز"
+},
+{
+     "id": 435,
+     "word": "بعض",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بعرض"
+},
+{
+     "id": 436,
+     "word": "بدة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بدقة"
+},
+{
+     "id": 437,
+     "word": "عاية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عالية"
+},
+{
+     "id": 438,
+     "word": "وتنف",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتصنف"
+},
+{
+     "id": 439,
+     "word": "الششات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الشاشات"
+},
+{
+     "id": 440,
+     "word": "ثلثة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ثلاثة"
+},
+{
+     "id": 441,
+     "word": "أناع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أنواع"
+},
+{
+     "id": 442,
+     "word": "الديومة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الديمومة"
+},
+{
+     "id": 443,
+     "word": "بقدتها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بقدرتها"
+},
+{
+     "id": 444,
+     "word": "إصبة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إصابة"
+},
+{
+     "id": 445,
+     "word": "يسح",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يسمح"
+},
+{
+     "id": 446,
+     "word": "بعوتها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بعودتها"
+},
+{
+     "id": 447,
+     "word": "إله",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إليه"
+},
+{
+     "id": 448,
+     "word": "حى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حتى"
+},
+{
+     "id": 449,
+     "word": "ون",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وإن"
+},
+{
+     "id": 450,
+     "word": "تت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تمت"
+},
+{
+     "id": 451,
+     "word": "تهئة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تهيئة"
+},
+{
+     "id": 452,
+     "word": "كال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كامل"
+},
+{
+     "id": 453,
+     "word": "وخصة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وخاصة"
+},
+{
+     "id": 454,
+     "word": "إا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إذا"
+},
+{
+     "id": 455,
+     "word": "انترت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "انتشرت"
+},
+{
+     "id": 456,
+     "word": "العوى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العدوى"
+},
+{
+     "id": 457,
+     "word": "للسخ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للنسخ"
+},
+{
+     "id": 458,
+     "word": "تستجع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تسترجع"
+},
+{
+     "id": 459,
+     "word": "وبينات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وبيانات"
+},
+{
+     "id": 460,
+     "word": "خلاها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "خلالها"
+},
+{
+     "id": 461,
+     "word": "بد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بعد"
+},
+{
+     "id": 462,
+     "word": "انتاء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "انتهاء"
+},
+{
+     "id": 463,
+     "word": "الفع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الرفع"
+},
+{
+     "id": 464,
+     "word": "الدول",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الدخول"
+},
+{
+     "id": 465,
+     "word": "واهة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "واجهة"
+},
+{
+     "id": 466,
+     "word": "متفح",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "متصفح"
+},
+{
+     "id": 467,
+     "word": "وب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ويب"
+},
+{
+     "id": 468,
+     "word": "بالخول",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بالدخول"
+},
+{
+     "id": 469,
+     "word": "المان",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المكان"
+},
+{
+     "id": 470,
+     "word": "رع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "رفع"
+},
+{
+     "id": 471,
+     "word": "مرفات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مرفقات"
+},
+{
+     "id": 472,
+     "word": "النمة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "النجمة"
+},
+{
+     "id": 473,
+     "word": "يسمد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يستمد"
+},
+{
+     "id": 474,
+     "word": "الكل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الشكل"
+},
+{
+     "id": 475,
+     "word": "تصممه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تصميمه"
+},
+{
+     "id": 476,
+     "word": "اسه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "اسمه"
+},
+{
+     "id": 477,
+     "word": "فعيا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فعليا"
+},
+{
+     "id": 478,
+     "word": "فتون",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فتكون"
+},
+{
+     "id": 479,
+     "word": "مصمة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مصممة"
+},
+{
+     "id": 480,
+     "word": "نجة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نجمة"
+},
+{
+     "id": 481,
+     "word": "بحث",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بحيث"
+},
+{
+     "id": 482,
+     "word": "متلا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "متصلا"
+},
+{
+     "id": 483,
+     "word": "مبشر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مباشر"
+},
+{
+     "id": 484,
+     "word": "الريسي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الرئيسي"
+},
+{
+     "id": 485,
+     "word": "للشكة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للشبكة"
+},
+{
+     "id": 486,
+     "word": "ويون",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ويكون"
+},
+{
+     "id": 487,
+     "word": "مسؤلا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مسؤولا"
+},
+{
+     "id": 488,
+     "word": "ون",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وعن"
+},
+{
+     "id": 489,
+     "word": "طرقة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "طريقة"
+},
+{
+     "id": 490,
+     "word": "ومار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ومسار"
+},
+{
+     "id": 491,
+     "word": "لن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لكن"
+},
+{
+     "id": 492,
+     "word": "عب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عيب"
+},
+{
+     "id": 493,
+     "word": "أه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أنه"
+},
+{
+     "id": 494,
+     "word": "توف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "توقف"
+},
+{
+     "id": 495,
+     "word": "حث",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حدث"
+},
+{
+     "id": 496,
+     "word": "له",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "له"
+},
+{
+     "id": 497,
+     "word": "عل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "عطل"
+},
+{
+     "id": 498,
+     "word": "فستوقف",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فستتوقف"
+},
+{
+     "id": 499,
+     "word": "كلا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كلها"
+},
+{
+     "id": 500,
+     "word": "ند",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نود"
+},
+{
+     "id": 501,
+     "word": "النام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "النظام"
+},
+{
+     "id": 502,
+     "word": "الماني",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المجاني"
+},
+{
+     "id": 503,
+     "word": "بإمكنية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بإمكانية"
+},
+{
+     "id": 504,
+     "word": "الاخيار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الاختيار"
+},
+{
+     "id": 505,
+     "word": "مجمعة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مجموعة"
+},
+{
+     "id": 506,
+     "word": "ضخة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ضخمة"
+},
+{
+     "id": 507,
+     "word": "الماهر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المظاهر"
+},
+{
+     "id": 508,
+     "word": "يتنسب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "يتناسب"
+},
+{
+     "id": 509,
+     "word": "رغات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "رغبات"
+},
+{
+     "id": 510,
+     "word": "صاب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صاحب"
+},
+{
+     "id": 511,
+     "word": "نظم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نظام"
+},
+{
+     "id": 512,
+     "word": "المايا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المزايا"
+},
+{
+     "id": 513,
+     "word": "إمكنية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إمكانية"
+},
+{
+     "id": 514,
+     "word": "إداج",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إدراج"
+},
+{
+     "id": 515,
+     "word": "وسئط",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وسائط"
+},
+{
+     "id": 516,
+     "word": "صت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صوت"
+},
+{
+     "id": 517,
+     "word": "وصرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وصورة"
+},
+{
+     "id": 518,
+     "word": "واتال",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "واتصال"
+},
+{
+     "id": 519,
+     "word": "المستدمين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المستخدمين"
+},
+{
+     "id": 520,
+     "word": "ببعهم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ببعضهم"
+},
+{
+     "id": 521,
+     "word": "وإناء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وإنشاء"
+},
+{
+     "id": 522,
+     "word": "المحدثات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المحادثات"
+},
+{
+     "id": 523,
+     "word": "بخاية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بخاصية"
+},
+{
+     "id": 524,
+     "word": "التاسل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التراسل"
+},
+{
+     "id": 525,
+     "word": "الفري",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الفوري"
+},
+{
+     "id": 526,
+     "word": "وتقي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتلقي"
+},
+{
+     "id": 527,
+     "word": "التلينات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التلقينات"
+},
+{
+     "id": 528,
+     "word": "يتح",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "يتيح"
+},
+{
+     "id": 529,
+     "word": "تحدثه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحديثه"
+},
+{
+     "id": 530,
+     "word": "بسهلة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بسهولة"
+},
+{
+     "id": 531,
+     "word": "المسولين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المسؤولين"
+},
+{
+     "id": 532,
+     "word": "بطقة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بطاقة"
+},
+{
+     "id": 533,
+     "word": "اليد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الجيد"
+},
+{
+     "id": 534,
+     "word": "يدم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يدعم"
+},
+{
+     "id": 535,
+     "word": "اللالكية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "اللاسلكية"
+},
+{
+     "id": 536,
+     "word": "ظهر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ظهور"
+},
+{
+     "id": 537,
+     "word": "أنطة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أنشطة"
+},
+{
+     "id": 538,
+     "word": "غر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "غير"
+},
+{
+     "id": 539,
+     "word": "عاية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عادية"
+},
+{
+     "id": 540,
+     "word": "تغير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تغيير"
+},
+{
+     "id": 541,
+     "word": "كلات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كلمات"
+},
+{
+     "id": 542,
+     "word": "المور",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المرور"
+},
+{
+     "id": 543,
+     "word": "وي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وهي"
+},
+{
+     "id": 544,
+     "word": "بتخين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بتخزين"
+},
+{
+     "id": 545,
+     "word": "استخامها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "استخدامها"
+},
+{
+     "id": 546,
+     "word": "وبكل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وبشكل"
+},
+{
+     "id": 547,
+     "word": "مؤت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مؤقت"
+},
+{
+     "id": 548,
+     "word": "وتول",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتزول"
+},
+{
+     "id": 549,
+     "word": "مكونتها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مكوناتها"
+},
+{
+     "id": 550,
+     "word": "إطاء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إطفاء"
+},
+{
+     "id": 551,
+     "word": "و",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "و"
+},
+{
+     "id": 552,
+     "word": "هي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "هي"
+},
+{
+     "id": 553,
+     "word": "مكواته",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مكوناته"
+},
+{
+     "id": 554,
+     "word": "شاد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شاهد"
+},
+{
+     "id": 555,
+     "word": "معا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "معنا"
+},
+{
+     "id": 556,
+     "word": "الإابة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإجابة"
+},
+{
+     "id": 557,
+     "word": "يتكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يتمكن"
+},
+{
+     "id": 558,
+     "word": "المستدمون",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المستخدمون"
+},
+{
+     "id": 559,
+     "word": "بشكة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بشبكة"
+},
+{
+     "id": 560,
+     "word": "عة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عدة"
+},
+{
+     "id": 561,
+     "word": "تتمن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تتضمن"
+},
+{
+     "id": 562,
+     "word": "التي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الآتي"
+},
+{
+     "id": 563,
+     "word": "الحومة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الحكومة"
+},
+{
+     "id": 564,
+     "word": "بتميل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بتمويل"
+},
+{
+     "id": 565,
+     "word": "مجل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مجال"
+},
+{
+     "id": 566,
+     "word": "الثماينيات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الثمانينيات"
+},
+{
+     "id": 567,
+     "word": "وعد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وعاد"
+},
+{
+     "id": 568,
+     "word": "مجدا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مجددا"
+},
+{
+     "id": 569,
+     "word": "التدم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التقدم"
+},
+{
+     "id": 570,
+     "word": "لمنفسة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "لمنافسة"
+},
+{
+     "id": 571,
+     "word": "الجود",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الجهود"
+},
+{
+     "id": 572,
+     "word": "يبذها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "يبذلها"
+},
+{
+     "id": 573,
+     "word": "اليابنيون",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "اليابانيون"
+},
+{
+     "id": 574,
+     "word": "المسح",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الماسح"
+},
+{
+     "id": 575,
+     "word": "الضئي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الضوئي"
+},
+{
+     "id": 576,
+     "word": "يعل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يعمل"
+},
+{
+     "id": 577,
+     "word": "تحيل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحويل"
+},
+{
+     "id": 578,
+     "word": "وق",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ورق"
+},
+{
+     "id": 579,
+     "word": "رقية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "رقمية"
+},
+{
+     "id": 580,
+     "word": "التقطها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التقاطها"
+},
+{
+     "id": 581,
+     "word": "كصرة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كصورة"
+},
+{
+     "id": 582,
+     "word": "تخزنها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تخزينها"
+},
+{
+     "id": 583,
+     "word": "وتعدلها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتعديلها"
+},
+{
+     "id": 584,
+     "word": "باستدام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "باستخدام"
+},
+{
+     "id": 585,
+     "word": "البامج",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "البرامج"
+},
+{
+     "id": 586,
+     "word": "المتصصة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المتخصصة"
+},
+{
+     "id": 587,
+     "word": "تتيز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تتميز"
+},
+{
+     "id": 588,
+     "word": "وأثر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وأكثر"
+},
+{
+     "id": 589,
+     "word": "جوة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جودة"
+},
+{
+     "id": 590,
+     "word": "وموثقية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وموثوقية"
+},
+{
+     "id": 591,
+     "word": "الور",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الصور"
+},
+{
+     "id": 592,
+     "word": "فقان",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فقدان"
+},
+{
+     "id": 593,
+     "word": "شف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شغف"
+},
+{
+     "id": 594,
+     "word": "التلم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التعلم"
+},
+{
+     "id": 595,
+     "word": "والاتماد",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والاعتماد"
+},
+{
+     "id": 596,
+     "word": "الات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الذات"
+},
+{
+     "id": 597,
+     "word": "المال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المجال"
+},
+{
+     "id": 598,
+     "word": "نتجة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "نتيجة"
+},
+{
+     "id": 599,
+     "word": "للعيد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "للعديد"
+},
+{
+     "id": 600,
+     "word": "الأوات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأدوات"
+},
+{
+     "id": 601,
+     "word": "لإياد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لإيجاد"
+},
+{
+     "id": 602,
+     "word": "بدن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بدون"
+},
+{
+     "id": 603,
+     "word": "الحث",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "البحث"
+},
+{
+     "id": 604,
+     "word": "الديق",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الدقيق"
+},
+{
+     "id": 605,
+     "word": "ينم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ينجم"
+},
+{
+     "id": 606,
+     "word": "أضار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أضرار"
+},
+{
+     "id": 607,
+     "word": "عددة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "عديدة"
+},
+{
+     "id": 608,
+     "word": "يأي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يأتي"
+},
+{
+     "id": 609,
+     "word": "الأظمة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأنظمة"
+},
+{
+     "id": 610,
+     "word": "الحكمية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الحكومية"
+},
+{
+     "id": 611,
+     "word": "أصح",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أصبح"
+},
+{
+     "id": 612,
+     "word": "شاعا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شائعا"
+},
+{
+     "id": 613,
+     "word": "الإدرات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإدارات"
+},
+{
+     "id": 614,
+     "word": "المخلفة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المختلفة"
+},
+{
+     "id": 615,
+     "word": "كاة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كافة"
+},
+{
+     "id": 616,
+     "word": "المجلات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المجالات"
+},
+{
+     "id": 617,
+     "word": "كالساحة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كالسياحة"
+},
+{
+     "id": 618,
+     "word": "والتطيط",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والتخطيط"
+},
+{
+     "id": 619,
+     "word": "والرابة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والرقابة"
+},
+{
+     "id": 620,
+     "word": "المفات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الملفات"
+},
+{
+     "id": 621,
+     "word": "تحل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحمل"
+},
+{
+     "id": 622,
+     "word": "قد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "قد"
+},
+{
+     "id": 623,
+     "word": "يترض",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يتعرض"
+},
+{
+     "id": 624,
+     "word": "متلزمة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "متلازمة"
+},
+{
+     "id": 625,
+     "word": "الفق",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "النفق"
+},
+{
+     "id": 626,
+     "word": "الرغي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الرسغي"
+},
+{
+     "id": 627,
+     "word": "تحث",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحدث"
+},
+{
+     "id": 628,
+     "word": "للخص",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "للشخص"
+},
+{
+     "id": 629,
+     "word": "الاسخدام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاستخدام"
+},
+{
+     "id": 630,
+     "word": "المول",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المطول"
+},
+{
+     "id": 631,
+     "word": "والمكرر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والمتكرر"
+},
+{
+     "id": 632,
+     "word": "للحة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "للوحة"
+},
+{
+     "id": 633,
+     "word": "المفتيح",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المفاتيح"
+},
+{
+     "id": 634,
+     "word": "والأرة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والفأرة"
+},
+{
+     "id": 635,
+     "word": "فز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فاز"
+},
+{
+     "id": 636,
+     "word": "كمبوتر",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كمبيوتر"
+},
+{
+     "id": 637,
+     "word": "الشرنج",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الشطرنج"
+},
+{
+     "id": 638,
+     "word": "دب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ديب"
+},
+{
+     "id": 639,
+     "word": "بو",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بلو"
+},
+{
+     "id": 640,
+     "word": "والصنع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والمصنع"
+},
+{
+     "id": 641,
+     "word": "بل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بطل"
+},
+{
+     "id": 642,
+     "word": "الرسي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الروسي"
+},
+{
+     "id": 643,
+     "word": "غاي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "غاري"
+},
+{
+     "id": 644,
+     "word": "كاسبروف",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كاسباروف"
+},
+{
+     "id": 645,
+     "word": "عم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عام"
+},
+{
+     "id": 646,
+     "word": "وبأ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وبدأ"
+},
+{
+     "id": 647,
+     "word": "بالاتعاش",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالانتعاش"
+},
+{
+     "id": 648,
+     "word": "مثل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مثال"
+},
+{
+     "id": 649,
+     "word": "إدال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إدخال"
+},
+{
+     "id": 650,
+     "word": "الرف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الحرف"
+},
+{
+     "id": 651,
+     "word": "سبل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سبيل"
+},
+{
+     "id": 652,
+     "word": "المال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المثال"
+},
+{
+     "id": 653,
+     "word": "يتجم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "يترجم"
+},
+{
+     "id": 654,
+     "word": "الأداد",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأعداد"
+},
+{
+     "id": 655,
+     "word": "الثنئية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الثنائية"
+},
+{
+     "id": 656,
+     "word": "الدائر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الدوائر"
+},
+{
+     "id": 657,
+     "word": "الكهرائية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الكهربائية"
+},
+{
+     "id": 658,
+     "word": "بتحيل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بتحويل"
+},
+{
+     "id": 659,
+     "word": "نبات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نبضات"
+},
+{
+     "id": 660,
+     "word": "كهربئية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كهربائية"
+},
+{
+     "id": 661,
+     "word": "تشير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تشفير"
+},
+{
+     "id": 662,
+     "word": "الدرات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الدارات"
+},
+{
+     "id": 663,
+     "word": "لفم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لفهم"
+},
+{
+     "id": 664,
+     "word": "معنها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "معناها"
+},
+{
+     "id": 665,
+     "word": "فتير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فتشير"
+},
+{
+     "id": 666,
+     "word": "سللة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سلسلة"
+},
+{
+     "id": 667,
+     "word": "المعومة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المعلومة"
+},
+{
+     "id": 668,
+     "word": "إدخلها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إدخالها"
+},
+{
+     "id": 669,
+     "word": "ويسعد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ويساعد"
+},
+{
+     "id": 670,
+     "word": "والمعومات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والمعلومات"
+},
+{
+     "id": 671,
+     "word": "أناط",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أنماط"
+},
+{
+     "id": 672,
+     "word": "ثناية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ثنائية"
+},
+{
+     "id": 673,
+     "word": "صر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صفر"
+},
+{
+     "id": 674,
+     "word": "واد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "واحد"
+},
+{
+     "id": 675,
+     "word": "تسيل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تسهيل"
+},
+{
+     "id": 676,
+     "word": "تخين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تخزين"
+},
+{
+     "id": 677,
+     "word": "ونقها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ونقلها"
+},
+{
+     "id": 678,
+     "word": "بسهلة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بسهولة"
+},
+{
+     "id": 679,
+     "word": "تكفة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تكلفة"
+},
+{
+     "id": 680,
+     "word": "تنفذه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تنفيذه"
+},
+{
+     "id": 681,
+     "word": "باظة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "باهظة"
+},
+{
+     "id": 682,
+     "word": "تقيم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تقديم"
+},
+{
+     "id": 683,
+     "word": "التبعات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التبرعات"
+},
+{
+     "id": 684,
+     "word": "والتويل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والتمويل"
+},
+{
+     "id": 685,
+     "word": "الأخاص",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأشخاص"
+},
+{
+     "id": 686,
+     "word": "المسعدة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المساعدة"
+},
+{
+     "id": 687,
+     "word": "والبرع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والتبرع"
+},
+{
+     "id": 688,
+     "word": "للمشريع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للمشاريع"
+},
+{
+     "id": 689,
+     "word": "والجعيات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والجمعيات"
+},
+{
+     "id": 690,
+     "word": "الخرية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الخيرية"
+},
+{
+     "id": 691,
+     "word": "والحث",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والبحث"
+},
+{
+     "id": 692,
+     "word": "عنا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عنها"
+},
+{
+     "id": 693,
+     "word": "مجلا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مجالا"
+},
+{
+     "id": 694,
+     "word": "واعا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "واسعا"
+},
+{
+     "id": 695,
+     "word": "لا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لا"
+},
+{
+     "id": 696,
+     "word": "يهم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يهتم"
+},
+{
+     "id": 697,
+     "word": "فط",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فقط"
+},
+{
+     "id": 698,
+     "word": "باخراع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "باختراع"
+},
+{
+     "id": 699,
+     "word": "آة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "آلة"
+},
+{
+     "id": 700,
+     "word": "تحكي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحاكي"
+},
+{
+     "id": 701,
+     "word": "ذكء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ذكاء"
+},
+{
+     "id": 702,
+     "word": "الإسان",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الإنسان"
+},
+{
+     "id": 703,
+     "word": "بل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بل"
+},
+{
+     "id": 704,
+     "word": "أكر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أكبر"
+},
+{
+     "id": 705,
+     "word": "إن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إن"
+},
+{
+     "id": 706,
+     "word": "معم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "معظم"
+},
+{
+     "id": 707,
+     "word": "برميات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "برمجيات"
+},
+{
+     "id": 708,
+     "word": "يعف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يعرف"
+},
+{
+     "id": 709,
+     "word": "بأنمة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بأنظمة"
+},
+{
+     "id": 710,
+     "word": "إدرة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إدارة"
+},
+{
+     "id": 711,
+     "word": "المتوى",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المحتوى"
+},
+{
+     "id": 712,
+     "word": "للمنديات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للمنتديات"
+},
+{
+     "id": 713,
+     "word": "تثت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تثبت"
+},
+{
+     "id": 714,
+     "word": "بالطيقة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالطريقة"
+},
+{
+     "id": 715,
+     "word": "نفها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نفسها"
+},
+{
+     "id": 716,
+     "word": "ويدر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ويجدر"
+},
+{
+     "id": 717,
+     "word": "التكير",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التذكير"
+},
+{
+     "id": 718,
+     "word": "تتلب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تتطلب"
+},
+{
+     "id": 719,
+     "word": "الخدم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الخادم"
+},
+{
+     "id": 720,
+     "word": "بواطة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بواسطة"
+},
+{
+     "id": 721,
+     "word": "بروتكول",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بروتوكول"
+},
+{
+     "id": 722,
+     "word": "بياات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بيانات"
+},
+{
+     "id": 723,
+     "word": "باتاع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "باتباع"
+},
+{
+     "id": 724,
+     "word": "الخوات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الخطوات"
+},
+{
+     "id": 725,
+     "word": "الآية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الآتية"
+},
+{
+     "id": 726,
+     "word": "يود",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يوجد"
+},
+{
+     "id": 727,
+     "word": "الخائص",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الخصائص"
+},
+{
+     "id": 728,
+     "word": "معنة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "معينة"
+},
+{
+     "id": 729,
+     "word": "الحاوبية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الحاسوبية"
+},
+{
+     "id": 730,
+     "word": "بيما",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بينما"
+},
+{
+     "id": 731,
+     "word": "بعها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بعضها"
+},
+{
+     "id": 732,
+     "word": "الخر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الآخر"
+},
+{
+     "id": 733,
+     "word": "بل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بكل"
+},
+{
+     "id": 734,
+     "word": "تك",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تلك"
+},
+{
+     "id": 735,
+     "word": "التي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الآتي"
+},
+{
+     "id": 736,
+     "word": "التغيل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التشغيل"
+},
+{
+     "id": 737,
+     "word": "لمستدمي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لمستخدمي"
+},
+{
+     "id": 738,
+     "word": "بتشيل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بتشغيل"
+},
+{
+     "id": 739,
+     "word": "والتطيقات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والتطبيقات"
+},
+{
+     "id": 740,
+     "word": "المتفرة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المتوفرة"
+},
+{
+     "id": 741,
+     "word": "المارد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الموارد"
+},
+{
+     "id": 742,
+     "word": "كأجزة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كأجهزة"
+},
+{
+     "id": 743,
+     "word": "الإخال",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإدخال"
+},
+{
+     "id": 744,
+     "word": "والإراج",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والإخراج"
+},
+{
+     "id": 745,
+     "word": "ووحات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ووحدات"
+},
+{
+     "id": 746,
+     "word": "وأجزة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وأجهزة"
+},
+{
+     "id": 747,
+     "word": "بالبكة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالشبكة"
+},
+{
+     "id": 748,
+     "word": "تطرت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تطورت"
+},
+{
+     "id": 749,
+     "word": "أنمة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أنظمة"
+},
+{
+     "id": 750,
+     "word": "تشيل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تشغيل"
+},
+{
+     "id": 751,
+     "word": "الحلي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الحالي"
+},
+{
+     "id": 752,
+     "word": "إذ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إذ"
+},
+{
+     "id": 753,
+     "word": "كات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كانت"
+},
+{
+     "id": 754,
+     "word": "بداات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بدايات"
+},
+{
+     "id": 755,
+     "word": "تصممها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تصميمها"
+},
+{
+     "id": 756,
+     "word": "مة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مرة"
+},
+{
+     "id": 757,
+     "word": "ام",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "اسم"
+},
+{
+     "id": 758,
+     "word": "الإاري",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإداري"
+},
+{
+     "id": 759,
+     "word": "تحدده",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحديده"
+},
+{
+     "id": 760,
+     "word": "ساقا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سابقا"
+},
+{
+     "id": 761,
+     "word": "بشبات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بشبكات"
+},
+{
+     "id": 762,
+     "word": "حايا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حاليا"
+},
+{
+     "id": 763,
+     "word": "التي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الآتي"
+},
+{
+     "id": 764,
+     "word": "أخار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أخبار"
+},
+{
+     "id": 765,
+     "word": "بإمان",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بإمكان"
+},
+{
+     "id": 766,
+     "word": "الخص",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الشخص"
+},
+{
+     "id": 767,
+     "word": "استافة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "استضافة"
+},
+{
+     "id": 768,
+     "word": "منتاه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "منتداه"
+},
+{
+     "id": 769,
+     "word": "أد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أحد"
+},
+{
+     "id": 770,
+     "word": "الماقع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المواقع"
+},
+{
+     "id": 771,
+     "word": "تور",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "توفر"
+},
+{
+     "id": 772,
+     "word": "الخمة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الخدمة"
+},
+{
+     "id": 773,
+     "word": "وتجد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتوجد"
+},
+{
+     "id": 774,
+     "word": "موقع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مواقع"
+},
+{
+     "id": 775,
+     "word": "متخصة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "متخصصة"
+},
+{
+     "id": 776,
+     "word": "يخلف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يختلف"
+},
+{
+     "id": 777,
+     "word": "يتحه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يتيحه"
+},
+{
+     "id": 778,
+     "word": "ميات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ميزات"
+},
+{
+     "id": 779,
+     "word": "وأنمة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وأنظمة"
+},
+{
+     "id": 780,
+     "word": "يدعها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يدعمها"
+},
+{
+     "id": 781,
+     "word": "محوى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "محتوى"
+},
+{
+     "id": 782,
+     "word": "إضايا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إضافيا"
+},
+{
+     "id": 783,
+     "word": "كمجوعة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كمجموعة"
+},
+{
+     "id": 784,
+     "word": "مظهر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مظاهر"
+},
+{
+     "id": 785,
+     "word": "ووسئل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ووسائل"
+},
+{
+     "id": 786,
+     "word": "لتغير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لتغيير"
+},
+{
+     "id": 787,
+     "word": "وتصيمه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتصميمه"
+},
+{
+     "id": 788,
+     "word": "الزاعة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الزراعة"
+},
+{
+     "id": 789,
+     "word": "يعلج",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يعالج"
+},
+{
+     "id": 790,
+     "word": "التحيات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التحديات"
+},
+{
+     "id": 791,
+     "word": "تواهها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تواجهها"
+},
+{
+     "id": 792,
+     "word": "مبيات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مبيدات"
+},
+{
+     "id": 793,
+     "word": "الآات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الآفات"
+},
+{
+     "id": 794,
+     "word": "والأمدة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والأسمدة"
+},
+{
+     "id": 795,
+     "word": "ومبدات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ومبيدات"
+},
+{
+     "id": 796,
+     "word": "الفطيات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الفطريات"
+},
+{
+     "id": 797,
+     "word": "مفط",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مفرط"
+},
+{
+     "id": 798,
+     "word": "وعم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وعدم"
+},
+{
+     "id": 799,
+     "word": "التبؤ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التنبؤ"
+},
+{
+     "id": 800,
+     "word": "باللب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالطلب"
+},
+{
+     "id": 801,
+     "word": "المنجات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المنتجات"
+},
+{
+     "id": 802,
+     "word": "وافقار",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وافتقار"
+},
+{
+     "id": 803,
+     "word": "المزوعات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المزروعات"
+},
+{
+     "id": 804,
+     "word": "للي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "للري"
+},
+{
+     "id": 805,
+     "word": "الكفي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الكافي"
+},
+{
+     "id": 806,
+     "word": "بتحين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بتحسين"
+},
+{
+     "id": 807,
+     "word": "المحصيل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المحاصيل"
+},
+{
+     "id": 808,
+     "word": "قدرها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "قدرتها"
+},
+{
+     "id": 809,
+     "word": "كف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كشف"
+},
+{
+     "id": 810,
+     "word": "آفت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "آفات"
+},
+{
+     "id": 811,
+     "word": "والنبؤ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والتنبؤ"
+},
+{
+     "id": 812,
+     "word": "بأسار",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بأسعار"
+},
+{
+     "id": 813,
+     "word": "وتقيم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتقديم"
+},
+{
+     "id": 814,
+     "word": "استشرات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "استشارات"
+},
+{
+     "id": 815,
+     "word": "مفدة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مفيدة"
+},
+{
+     "id": 816,
+     "word": "الماسب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المناسب"
+},
+{
+     "id": 817,
+     "word": "الرص",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "القرص"
+},
+{
+     "id": 818,
+     "word": "اللب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الصلب"
+},
+{
+     "id": 819,
+     "word": "لحظ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لحفظ"
+},
+{
+     "id": 820,
+     "word": "ومعلمات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ومعلومات"
+},
+{
+     "id": 821,
+     "word": "ومشركة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ومشاركة"
+},
+{
+     "id": 822,
+     "word": "قدة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "قدرة"
+},
+{
+     "id": 823,
+     "word": "نخ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نسخ"
+},
+{
+     "id": 824,
+     "word": "أواره",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أوامره"
+},
+{
+     "id": 825,
+     "word": "وتعلماته",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتعليماته"
+},
+{
+     "id": 826,
+     "word": "البرجية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "البرمجية"
+},
+{
+     "id": 827,
+     "word": "وأمكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وأماكن"
+},
+{
+     "id": 828,
+     "word": "الحاب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الحساب"
+},
+{
+     "id": 829,
+     "word": "والنطق",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والمنطق"
+},
+{
+     "id": 830,
+     "word": "المون",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المكون"
+},
+{
+     "id": 831,
+     "word": "المؤول",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المسؤول"
+},
+{
+     "id": 832,
+     "word": "معاجة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "معالجة"
+},
+{
+     "id": 833,
+     "word": "العميات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "العمليات"
+},
+{
+     "id": 834,
+     "word": "الحسبية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الحسابية"
+},
+{
+     "id": 835,
+     "word": "والمطقية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والمنطقية"
+},
+{
+     "id": 836,
+     "word": "وحها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وحلها"
+},
+{
+     "id": 837,
+     "word": "صحح",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صحيح"
+},
+{
+     "id": 838,
+     "word": "تد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تعد"
+},
+{
+     "id": 839,
+     "word": "الرئسية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الرئيسية"
+},
+{
+     "id": 840,
+     "word": "لا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لها"
+},
+{
+     "id": 841,
+     "word": "مسمات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مسميات"
+},
+{
+     "id": 842,
+     "word": "لوة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لوحة"
+},
+{
+     "id": 843,
+     "word": "الأسسية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأساسية"
+},
+{
+     "id": 844,
+     "word": "ووظيتها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ووظيفتها"
+},
+{
+     "id": 845,
+     "word": "توير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "توفير"
+},
+{
+     "id": 846,
+     "word": "اتال",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "اتصال"
+},
+{
+     "id": 847,
+     "word": "المعلجة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المعالجة"
+},
+{
+     "id": 848,
+     "word": "المرزية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المركزية"
+},
+{
+     "id": 849,
+     "word": "وبن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وبين"
+},
+{
+     "id": 850,
+     "word": "باي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "باقي"
+},
+{
+     "id": 851,
+     "word": "وللحة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وللوحة"
+},
+{
+     "id": 852,
+     "word": "نع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نوع"
+},
+{
+     "id": 853,
+     "word": "محدة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "محددة"
+},
+{
+     "id": 854,
+     "word": "المعلجات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المعالجات"
+},
+{
+     "id": 855,
+     "word": "الذكرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الذاكرة"
+},
+{
+     "id": 856,
+     "word": "تحيد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحديد"
+},
+{
+     "id": 857,
+     "word": "ورم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ورسم"
+},
+{
+     "id": 858,
+     "word": "الخائط",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الخرائط"
+},
+{
+     "id": 859,
+     "word": "تسعد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تساعد"
+},
+{
+     "id": 860,
+     "word": "الأاكن",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأماكن"
+},
+{
+     "id": 861,
+     "word": "والأخاص",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والأشخاص"
+},
+{
+     "id": 862,
+     "word": "العلم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العالم"
+},
+{
+     "id": 863,
+     "word": "وعى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وعلى"
+},
+{
+     "id": 864,
+     "word": "الخيطة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الخريطة"
+},
+{
+     "id": 865,
+     "word": "وا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ولا"
+},
+{
+     "id": 866,
+     "word": "سيا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سيما"
+},
+{
+     "id": 867,
+     "word": "عنما",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عندما"
+},
+{
+     "id": 868,
+     "word": "تستدم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تستخدم"
+},
+{
+     "id": 869,
+     "word": "الموصفات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المواصفات"
+},
+{
+     "id": 870,
+     "word": "يب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يجب"
+},
+{
+     "id": 871,
+     "word": "توفها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "توفرها"
+},
+{
+     "id": 872,
+     "word": "بشرئها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بشرائها"
+},
+{
+     "id": 873,
+     "word": "التي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الآتي"
+},
+{
+     "id": 874,
+     "word": "وفت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وفرت"
+},
+{
+     "id": 875,
+     "word": "والهد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والجهد"
+},
+{
+     "id": 876,
+     "word": "فأبح",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فأصبح"
+},
+{
+     "id": 877,
+     "word": "بالإكان",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالإمكان"
+},
+{
+     "id": 878,
+     "word": "نر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نشر"
+},
+{
+     "id": 879,
+     "word": "مف",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ملف"
+},
+{
+     "id": 880,
+     "word": "معن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "معين"
+},
+{
+     "id": 881,
+     "word": "تتكن",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تتمكن"
+},
+{
+     "id": 882,
+     "word": "الومية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الوهمية"
+},
+{
+     "id": 883,
+     "word": "وسئل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وسائل"
+},
+{
+     "id": 884,
+     "word": "الاجماعي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاجتماعي"
+},
+{
+     "id": 885,
+     "word": "المخلفة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المختلفة"
+},
+{
+     "id": 886,
+     "word": "إتام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إتمام"
+},
+{
+     "id": 887,
+     "word": "إناء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إنشاء"
+},
+{
+     "id": 888,
+     "word": "جعه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جعله"
+},
+{
+     "id": 889,
+     "word": "تفالا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تفاعلا"
+},
+{
+     "id": 890,
+     "word": "ونشطا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ونشاطا"
+},
+{
+     "id": 891,
+     "word": "مستخميه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مستخدميه"
+},
+{
+     "id": 892,
+     "word": "ويكن",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ويمكن"
+},
+{
+     "id": 893,
+     "word": "التصل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التوصل"
+},
+{
+     "id": 894,
+     "word": "تفيل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تفعيل"
+},
+{
+     "id": 895,
+     "word": "خصصا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "خصوصا"
+},
+{
+     "id": 896,
+     "word": "يرل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يرسل"
+},
+{
+     "id": 897,
+     "word": "برد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بريد"
+},
+{
+     "id": 898,
+     "word": "إلكتوني",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إلكتروني"
+},
+{
+     "id": 899,
+     "word": "للمستدمين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للمستخدمين"
+},
+{
+     "id": 900,
+     "word": "وتريع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وترفيع"
+},
+{
+     "id": 901,
+     "word": "النطاء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "النشطاء"
+},
+{
+     "id": 902,
+     "word": "لتشجعهم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "لتشجيعهم"
+},
+{
+     "id": 903,
+     "word": "وو",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ولو"
+},
+{
+     "id": 904,
+     "word": "أتحت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أتيحت"
+},
+{
+     "id": 905,
+     "word": "الفصة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الفرصة"
+},
+{
+     "id": 906,
+     "word": "فيكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فيمكن"
+},
+{
+     "id": 907,
+     "word": "جع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جمع"
+},
+{
+     "id": 908,
+     "word": "أعاء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أعضاء"
+},
+{
+     "id": 909,
+     "word": "الحاة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الحياة"
+},
+{
+     "id": 910,
+     "word": "الواعية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الواقعية"
+},
+{
+     "id": 911,
+     "word": "اجتمعات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "اجتماعات"
+},
+{
+     "id": 912,
+     "word": "والتاعل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والتفاعل"
+},
+{
+     "id": 913,
+     "word": "والتاصل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والتواصل"
+},
+{
+     "id": 914,
+     "word": "معم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "معهم"
+},
+{
+     "id": 915,
+     "word": "أمن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أمكن"
+},
+{
+     "id": 916,
+     "word": "لزيدة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لزيادة"
+},
+{
+     "id": 917,
+     "word": "نشاهم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "نشاطهم"
+},
+{
+     "id": 918,
+     "word": "وتفالهم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتفاعلهم"
+},
+{
+     "id": 919,
+     "word": "سادت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ساعدت"
+},
+{
+     "id": 920,
+     "word": "بسطة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بساطة"
+},
+{
+     "id": 921,
+     "word": "تصيم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تصميم"
+},
+{
+     "id": 922,
+     "word": "جعها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جعلها"
+},
+{
+     "id": 923,
+     "word": "منخضة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "منخفضة"
+},
+{
+     "id": 924,
+     "word": "التلفة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التكلفة"
+},
+{
+     "id": 925,
+     "word": "لعد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لعدد"
+},
+{
+     "id": 926,
+     "word": "أوئل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أوائل"
+},
+{
+     "id": 927,
+     "word": "أصحت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أصبحت"
+},
+{
+     "id": 928,
+     "word": "إيثنت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إيثرنت"
+},
+{
+     "id": 929,
+     "word": "متحة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "متاحة"
+},
+{
+     "id": 930,
+     "word": "تجايا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تجاريا"
+},
+{
+     "id": 931,
+     "word": "وم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتم"
+},
+{
+     "id": 932,
+     "word": "اعتمدها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "اعتمادها"
+},
+{
+     "id": 933,
+     "word": "الجاعات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الجامعات"
+},
+{
+     "id": 934,
+     "word": "والشكات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والشركات"
+},
+{
+     "id": 935,
+     "word": "والمسسات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والمؤسسات"
+},
+{
+     "id": 936,
+     "word": "إا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إلا"
+},
+{
+     "id": 937,
+     "word": "لم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لم"
+},
+{
+     "id": 938,
+     "word": "تضن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تضمن"
+},
+{
+     "id": 939,
+     "word": "اتصلا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "اتصالا"
+},
+{
+     "id": 940,
+     "word": "موثقا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "موثوقا"
+},
+{
+     "id": 941,
+     "word": "فظرت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فظهرت"
+},
+{
+     "id": 942,
+     "word": "الحجة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الحاجة"
+},
+{
+     "id": 943,
+     "word": "جدد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جديد"
+},
+{
+     "id": 944,
+     "word": "التفيه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الترفيه"
+},
+{
+     "id": 945,
+     "word": "صنعة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صناعة"
+},
+{
+     "id": 946,
+     "word": "الألام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأفلام"
+},
+{
+     "id": 947,
+     "word": "ومقطع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ومقاطع"
+},
+{
+     "id": 948,
+     "word": "الفديو",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الفيديو"
+},
+{
+     "id": 949,
+     "word": "المؤرات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المؤثرات"
+},
+{
+     "id": 950,
+     "word": "شخصات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "شخصيات"
+},
+{
+     "id": 951,
+     "word": "خياية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "خيالية"
+},
+{
+     "id": 952,
+     "word": "امد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "امتد"
+},
+{
+     "id": 953,
+     "word": "يستدم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يستخدم"
+},
+{
+     "id": 954,
+     "word": "لبع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لبيع"
+},
+{
+     "id": 955,
+     "word": "التاكر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التذاكر"
+},
+{
+     "id": 956,
+     "word": "الريضية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الرياضية"
+},
+{
+     "id": 957,
+     "word": "الطط",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الخطط"
+},
+{
+     "id": 958,
+     "word": "تحيل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحليل"
+},
+{
+     "id": 959,
+     "word": "أدء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أداء"
+},
+{
+     "id": 960,
+     "word": "المافس",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المنافس"
+},
+{
+     "id": 961,
+     "word": "مدخات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مدخلات"
+},
+{
+     "id": 962,
+     "word": "ساقة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سابقة"
+},
+{
+     "id": 963,
+     "word": "مشادة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مشاهدة"
+},
+{
+     "id": 964,
+     "word": "وتحيل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتحميل"
+},
+{
+     "id": 965,
+     "word": "والأعاب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والألعاب"
+},
+{
+     "id": 966,
+     "word": "الراية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الرعاية"
+},
+{
+     "id": 967,
+     "word": "الصية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الصحية"
+},
+{
+     "id": 968,
+     "word": "الماطق",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المناطق"
+},
+{
+     "id": 969,
+     "word": "تفقر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تفتقر"
+},
+{
+     "id": 970,
+     "word": "رعية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "رعاية"
+},
+{
+     "id": 971,
+     "word": "صحة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صحية"
+},
+{
+     "id": 972,
+     "word": "متدم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "متقدم"
+},
+{
+     "id": 973,
+     "word": "التطيقات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التطبيقات"
+},
+{
+     "id": 974,
+     "word": "تعمد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تعتمد"
+},
+{
+     "id": 975,
+     "word": "الترف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التعرف"
+},
+{
+     "id": 976,
+     "word": "الأبئة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأوبئة"
+},
+{
+     "id": 977,
+     "word": "المحملة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المحتملة"
+},
+{
+     "id": 978,
+     "word": "مبرا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مبكرا"
+},
+{
+     "id": 979,
+     "word": "وتشخصها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتشخيصها"
+},
+{
+     "id": 980,
+     "word": "التوير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التصوير"
+},
+{
+     "id": 981,
+     "word": "وعلجها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وعلاجها"
+},
+{
+     "id": 982,
+     "word": "الخمات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الخدمات"
+},
+{
+     "id": 983,
+     "word": "الملية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المالية"
+},
+{
+     "id": 984,
+     "word": "السعة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "السرعة"
+},
+{
+     "id": 985,
+     "word": "فاستدام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فاستخدام"
+},
+{
+     "id": 986,
+     "word": "لجاز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لجهاز"
+},
+{
+     "id": 987,
+     "word": "يمنه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يمكنه"
+},
+{
+     "id": 988,
+     "word": "القام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "القيام"
+},
+{
+     "id": 989,
+     "word": "يرده",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يريده"
+},
+{
+     "id": 990,
+     "word": "بسول",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بسهول"
+},
+{
+     "id": 991,
+     "word": "وسعة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وسرعة"
+},
+{
+     "id": 992,
+     "word": "فاقة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فائقة"
+},
+{
+     "id": 993,
+     "word": "الب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الطب"
+},
+{
+     "id": 994,
+     "word": "والحة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والصحة"
+},
+{
+     "id": 995,
+     "word": "أسم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أسهم"
+},
+{
+     "id": 996,
+     "word": "مجاات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مجالات"
+},
+{
+     "id": 997,
+     "word": "الحة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الصحة"
+},
+{
+     "id": 998,
+     "word": "إحاث",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إحداث"
+},
+{
+     "id": 999,
+     "word": "ثوة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ثورة"
+},
+{
+     "id": 1000,
+     "word": "البي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الطبي"
+},
+{
+     "id": 1001,
+     "word": "الأباء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأطباء"
+},
+{
+     "id": 1002,
+     "word": "لفص",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لفحص"
+},
+{
+     "id": 1003,
+     "word": "الشاب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الشباب"
+},
+{
+     "id": 1004,
+     "word": "المصبين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المصابين"
+},
+{
+     "id": 1005,
+     "word": "باضطابات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "باضطرابات"
+},
+{
+     "id": 1006,
+     "word": "عقية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عقلية"
+},
+{
+     "id": 1007,
+     "word": "أى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أدى"
+},
+{
+     "id": 1008,
+     "word": "مكبة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مكتبة"
+},
+{
+     "id": 1009,
+     "word": "تجع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تجمع"
+},
+{
+     "id": 1010,
+     "word": "الطية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الطبية"
+},
+{
+     "id": 1011,
+     "word": "محرات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "محركات"
+},
+{
+     "id": 1012,
+     "word": "الأراص",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأقراص"
+},
+{
+     "id": 1013,
+     "word": "الصبة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الصلبة"
+},
+{
+     "id": 1014,
+     "word": "جء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جزء"
+},
+{
+     "id": 1015,
+     "word": "ومظم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ومعظم"
+},
+{
+     "id": 1016,
+     "word": "وتحوي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتحتوي"
+},
+{
+     "id": 1017,
+     "word": "أحف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أحرف"
+},
+{
+     "id": 1018,
+     "word": "لمحكات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "لمحركات"
+},
+{
+     "id": 1019,
+     "word": "لموزنة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "لموازنة"
+},
+{
+     "id": 1020,
+     "word": "بكفءة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بكفاءة"
+},
+{
+     "id": 1021,
+     "word": "وتخزنها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتخزينها"
+},
+{
+     "id": 1022,
+     "word": "المتددة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المتجددة"
+},
+{
+     "id": 1023,
+     "word": "يتمن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يتضمن"
+},
+{
+     "id": 1024,
+     "word": "عداات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "عدادات"
+},
+{
+     "id": 1025,
+     "word": "ذكة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ذكية"
+},
+{
+     "id": 1026,
+     "word": "لتحين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "لتحسين"
+},
+{
+     "id": 1027,
+     "word": "تكايف",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تكاليف"
+},
+{
+     "id": 1028,
+     "word": "الشسية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الشمسية"
+},
+{
+     "id": 1029,
+     "word": "يقم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يقسم"
+},
+{
+     "id": 1030,
+     "word": "جزين",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جزئين"
+},
+{
+     "id": 1031,
+     "word": "رئيين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "رئيسين"
+},
+{
+     "id": 1032,
+     "word": "البمجي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "البرمجي"
+},
+{
+     "id": 1033,
+     "word": "والزء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والجزء"
+},
+{
+     "id": 1034,
+     "word": "فل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فصل"
+},
+{
+     "id": 1035,
+     "word": "فالزء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فالجزء"
+},
+{
+     "id": 1036,
+     "word": "يحاج",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يحتاج"
+},
+{
+     "id": 1037,
+     "word": "الطع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "القطع"
+},
+{
+     "id": 1038,
+     "word": "الإلكرونية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الإلكترونية"
+},
+{
+     "id": 1039,
+     "word": "كي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كي"
+},
+{
+     "id": 1040,
+     "word": "كذك",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كذلك"
+},
+{
+     "id": 1041,
+     "word": "تعلمات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تعليمات"
+},
+{
+     "id": 1042,
+     "word": "وظافه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وظائفه"
+},
+{
+     "id": 1043,
+     "word": "ودره",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ودوره"
+},
+{
+     "id": 1044,
+     "word": "وأجاء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وأجزاء"
+},
+{
+     "id": 1045,
+     "word": "والمدية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والمادية"
+},
+{
+     "id": 1046,
+     "word": "تفصلها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تفصيلها"
+},
+{
+     "id": 1047,
+     "word": "كالتي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كالآتي"
+},
+{
+     "id": 1048,
+     "word": "الأمال",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأعمال"
+},
+{
+     "id": 1049,
+     "word": "والال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والمال"
+},
+{
+     "id": 1050,
+     "word": "مخلف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مختلف"
+},
+{
+     "id": 1051,
+     "word": "التجرية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التجارية"
+},
+{
+     "id": 1052,
+     "word": "والمرفية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والمصرفية"
+},
+{
+     "id": 1053,
+     "word": "فد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فقد"
+},
+{
+     "id": 1054,
+     "word": "استدم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "استخدم"
+},
+{
+     "id": 1055,
+     "word": "إنتجية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إنتاجية"
+},
+{
+     "id": 1056,
+     "word": "قطاات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "قطاعات"
+},
+{
+     "id": 1057,
+     "word": "كثرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كثيرة"
+},
+{
+     "id": 1058,
+     "word": "المبعات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المبيعات"
+},
+{
+     "id": 1059,
+     "word": "والخمات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والخدمات"
+},
+{
+     "id": 1060,
+     "word": "المصفية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المصرفية"
+},
+{
+     "id": 1061,
+     "word": "والتويق",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والتسويق"
+},
+{
+     "id": 1062,
+     "word": "وتدول",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتداول"
+},
+{
+     "id": 1063,
+     "word": "الأهم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأسهم"
+},
+{
+     "id": 1064,
+     "word": "بز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "برز"
+},
+{
+     "id": 1065,
+     "word": "كوادة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كواحدة"
+},
+{
+     "id": 1066,
+     "word": "أشر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أشهر"
+},
+{
+     "id": 1067,
+     "word": "التسيقية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التسويقية"
+},
+{
+     "id": 1068,
+     "word": "انتار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "انتشار"
+},
+{
+     "id": 1069,
+     "word": "الأبار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأخبار"
+},
+{
+     "id": 1070,
+     "word": "الميفة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المزيفة"
+},
+{
+     "id": 1071,
+     "word": "تتح",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تتيح"
+},
+{
+     "id": 1072,
+     "word": "استلال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "استغلال"
+},
+{
+     "id": 1073,
+     "word": "للمدنات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للمدونات"
+},
+{
+     "id": 1074,
+     "word": "وموقع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ومواقع"
+},
+{
+     "id": 1075,
+     "word": "أفكرهم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أفكارهم"
+},
+{
+     "id": 1076,
+     "word": "وبسولة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وبسهولة"
+},
+{
+     "id": 1077,
+     "word": "ويار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ويشار"
+},
+{
+     "id": 1078,
+     "word": "هنلك",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "هنالك"
+},
+{
+     "id": 1079,
+     "word": "حكوات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "حكومات"
+},
+{
+     "id": 1080,
+     "word": "وأشاص",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وأشخاص"
+},
+{
+     "id": 1081,
+     "word": "يحصون",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يحصلون"
+},
+{
+     "id": 1082,
+     "word": "الفئدة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الفائدة"
+},
+{
+     "id": 1083,
+     "word": "ورء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وراء"
+},
+{
+     "id": 1084,
+     "word": "والأاذيب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والأكاذيب"
+},
+{
+     "id": 1085,
+     "word": "تطبقية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تطبيقية"
+},
+{
+     "id": 1086,
+     "word": "وينى",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ويعنى"
+},
+{
+     "id": 1087,
+     "word": "بالتامل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بالتعامل"
+},
+{
+     "id": 1088,
+     "word": "الماشر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المباشر"
+},
+{
+     "id": 1089,
+     "word": "فو",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فهو"
+},
+{
+     "id": 1090,
+     "word": "يقم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يقوم"
+},
+{
+     "id": 1091,
+     "word": "بتنيذ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بتنفيذ"
+},
+{
+     "id": 1092,
+     "word": "برمج",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "برامج"
+},
+{
+     "id": 1093,
+     "word": "مهم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مهام"
+},
+{
+     "id": 1094,
+     "word": "ذت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ذات"
+},
+{
+     "id": 1095,
+     "word": "فادة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فائدة"
+},
+{
+     "id": 1096,
+     "word": "وأهية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وأهمية"
+},
+{
+     "id": 1097,
+     "word": "بالسبة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالنسبة"
+},
+{
+     "id": 1098,
+     "word": "للمسخدم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للمستخدم"
+},
+{
+     "id": 1099,
+     "word": "الأثلة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأمثلة"
+},
+{
+     "id": 1100,
+     "word": "كبرامج",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "كبرنامج"
+},
+{
+     "id": 1101,
+     "word": "معلج",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "معالج"
+},
+{
+     "id": 1102,
+     "word": "النوص",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "النصوص"
+},
+{
+     "id": 1103,
+     "word": "ومتصحات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ومتصفحات"
+},
+{
+     "id": 1104,
+     "word": "وبرمج",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وبرامج"
+},
+{
+     "id": 1105,
+     "word": "تعيل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تعديل"
+},
+{
+     "id": 1106,
+     "word": "الور",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الصور"
+},
+{
+     "id": 1107,
+     "word": "واللة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والآلة"
+},
+{
+     "id": 1108,
+     "word": "الحسبة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الحاسبة"
+},
+{
+     "id": 1109,
+     "word": "الأشطة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأنشطة"
+},
+{
+     "id": 1110,
+     "word": "التريهية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الترفيهية"
+},
+{
+     "id": 1111,
+     "word": "كمشهدة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كمشاهدة"
+},
+{
+     "id": 1112,
+     "word": "والاتماع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والاستماع"
+},
+{
+     "id": 1113,
+     "word": "للمويقى",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للموسيقى"
+},
+{
+     "id": 1114,
+     "word": "حققة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "حقيقة"
+},
+{
+     "id": 1115,
+     "word": "مخرع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مخترع"
+},
+{
+     "id": 1116,
+     "word": "حققي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "حقيقي"
+},
+{
+     "id": 1117,
+     "word": "نب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نسب"
+},
+{
+     "id": 1118,
+     "word": "فل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فضل"
+},
+{
+     "id": 1119,
+     "word": "بشله",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بشكله"
+},
+{
+     "id": 1120,
+     "word": "فالهاز",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فالجهاز"
+},
+{
+     "id": 1121,
+     "word": "المجود",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الموجود"
+},
+{
+     "id": 1122,
+     "word": "ثمة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ثمرة"
+},
+{
+     "id": 1123,
+     "word": "مرحل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مراحل"
+},
+{
+     "id": 1124,
+     "word": "مر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مر"
+},
+{
+     "id": 1125,
+     "word": "التريخ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التاريخ"
+},
+{
+     "id": 1126,
+     "word": "الحيث",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الحديث"
+},
+{
+     "id": 1127,
+     "word": "يي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يلي"
+},
+{
+     "id": 1128,
+     "word": "يوى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يوصى"
+},
+{
+     "id": 1129,
+     "word": "حم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حجم"
+},
+{
+     "id": 1130,
+     "word": "بوة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بوصة"
+},
+{
+     "id": 1131,
+     "word": "لأجزة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "لأجهزة"
+},
+{
+     "id": 1132,
+     "word": "الرائل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الرسائل"
+},
+{
+     "id": 1133,
+     "word": "الددشة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الدردشة"
+},
+{
+     "id": 1134,
+     "word": "الفرية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الفورية"
+},
+{
+     "id": 1135,
+     "word": "استاع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "استطاع"
+},
+{
+     "id": 1136,
+     "word": "الحاوبي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الحاسوبي"
+},
+{
+     "id": 1137,
+     "word": "النطق",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الناطق"
+},
+{
+     "id": 1138,
+     "word": "يوين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "يوجين"
+},
+{
+     "id": 1139,
+     "word": "غوسمان",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "غوستمان"
+},
+{
+     "id": 1140,
+     "word": "اختار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "اختبار"
+},
+{
+     "id": 1141,
+     "word": "توتغ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تورتغ"
+},
+{
+     "id": 1142,
+     "word": "خدع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "خداع"
+},
+{
+     "id": 1143,
+     "word": "الحام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الحكام"
+},
+{
+     "id": 1144,
+     "word": "وجعهم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وجعلهم"
+},
+{
+     "id": 1145,
+     "word": "يعتدون",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يعتقدون"
+},
+{
+     "id": 1146,
+     "word": "إنان",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إنسان"
+},
+{
+     "id": 1147,
+     "word": "واخبار",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "واختبار"
+},
+{
+     "id": 1148,
+     "word": "تونغ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تورنغ"
+},
+{
+     "id": 1149,
+     "word": "مساقة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مسابقة"
+},
+{
+     "id": 1150,
+     "word": "لتقيم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "لتقييم"
+},
+{
+     "id": 1151,
+     "word": "اللة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الآلة"
+},
+{
+     "id": 1152,
+     "word": "أم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أم"
+},
+{
+     "id": 1153,
+     "word": "طوت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "طورت"
+},
+{
+     "id": 1154,
+     "word": "عام",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عالم"
+},
+{
+     "id": 1155,
+     "word": "الريضيات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الرياضيات"
+},
+{
+     "id": 1156,
+     "word": "وعلم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وعالم"
+},
+{
+     "id": 1157,
+     "word": "البرطاني",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "البريطاني"
+},
+{
+     "id": 1158,
+     "word": "آلن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "آلان"
+},
+{
+     "id": 1159,
+     "word": "سبا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سببا"
+},
+{
+     "id": 1160,
+     "word": "خر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "خطر"
+},
+{
+     "id": 1161,
+     "word": "حل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حال"
+},
+{
+     "id": 1162,
+     "word": "خائ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "خاطئ"
+},
+{
+     "id": 1163,
+     "word": "وع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وضع"
+},
+{
+     "id": 1164,
+     "word": "إحى",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إحدى"
+},
+{
+     "id": 1165,
+     "word": "آلاها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "آلاتها"
+},
+{
+     "id": 1166,
+     "word": "الأدي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأيدي"
+},
+{
+     "id": 1167,
+     "word": "الفؤ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الكفؤ"
+},
+{
+     "id": 1168,
+     "word": "وسلة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وسيلة"
+},
+{
+     "id": 1169,
+     "word": "ترفهية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ترفيهية"
+},
+{
+     "id": 1170,
+     "word": "الحول",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الحصول"
+},
+{
+     "id": 1171,
+     "word": "حد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حد"
+},
+{
+     "id": 1172,
+     "word": "وممرسة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وممارسة"
+},
+{
+     "id": 1173,
+     "word": "الأعاب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الألعاب"
+},
+{
+     "id": 1174,
+     "word": "المويقى",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الموسيقى"
+},
+{
+     "id": 1175,
+     "word": "وتنيل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتنزيل"
+},
+{
+     "id": 1176,
+     "word": "مقطع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مقاطع"
+},
+{
+     "id": 1177,
+     "word": "الهاتف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الهواتف"
+},
+{
+     "id": 1178,
+     "word": "المحولة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المحمولة"
+},
+{
+     "id": 1179,
+     "word": "الاختاعات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاختراعات"
+},
+{
+     "id": 1180,
+     "word": "الممة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المهمة"
+},
+{
+     "id": 1181,
+     "word": "المو",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "النمو"
+},
+{
+     "id": 1182,
+     "word": "العلمي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العالمي"
+},
+{
+     "id": 1183,
+     "word": "للإنرنت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للإنترنت"
+},
+{
+     "id": 1184,
+     "word": "الناق",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "النطاق"
+},
+{
+     "id": 1185,
+     "word": "أنأه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أنشأه"
+},
+{
+     "id": 1186,
+     "word": "بل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بول"
+},
+{
+     "id": 1187,
+     "word": "موكابتريس",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "موكابيتريس"
+},
+{
+     "id": 1188,
+     "word": "إلاء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إلغاء"
+},
+{
+     "id": 1189,
+     "word": "العنوين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "العناوين"
+},
+{
+     "id": 1190,
+     "word": "مجمعات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مجموعات"
+},
+{
+     "id": 1191,
+     "word": "الأماء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأسماء"
+},
+{
+     "id": 1192,
+     "word": "خاة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "خاصة"
+},
+{
+     "id": 1193,
+     "word": "خودم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "خوادم"
+},
+{
+     "id": 1194,
+     "word": "تحفظ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحتفظ"
+},
+{
+     "id": 1195,
+     "word": "بقوعد",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بقواعد"
+},
+{
+     "id": 1196,
+     "word": "تتوفق",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تتوافق"
+},
+{
+     "id": 1197,
+     "word": "مجل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مجال"
+},
+{
+     "id": 1198,
+     "word": "التل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "القتل"
+},
+{
+     "id": 1199,
+     "word": "الألحة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأسلحة"
+},
+{
+     "id": 1200,
+     "word": "التلائية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التلقائية"
+},
+{
+     "id": 1201,
+     "word": "المكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الممكن"
+},
+{
+     "id": 1202,
+     "word": "تل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تصل"
+},
+{
+     "id": 1203,
+     "word": "حدث",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حدوث"
+},
+{
+     "id": 1204,
+     "word": "حب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حرب"
+},
+{
+     "id": 1205,
+     "word": "اصطاعي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "اصطناعي"
+},
+{
+     "id": 1206,
+     "word": "يؤي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "يؤدي"
+},
+{
+     "id": 1207,
+     "word": "خسئر",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "خسائر"
+},
+{
+     "id": 1208,
+     "word": "فاحة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فادحة"
+},
+{
+     "id": 1209,
+     "word": "يفد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يفقد"
+},
+{
+     "id": 1210,
+     "word": "الشر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "البشر"
+},
+{
+     "id": 1211,
+     "word": "السطرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "السيطرة"
+},
+{
+     "id": 1212,
+     "word": "علها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عليها"
+},
+{
+     "id": 1213,
+     "word": "ويعب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ويصعب"
+},
+{
+     "id": 1214,
+     "word": "علهم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عليهم"
+},
+{
+     "id": 1215,
+     "word": "إيقفها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إيقافها"
+},
+{
+     "id": 1216,
+     "word": "عبرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عبارة"
+},
+{
+     "id": 1217,
+     "word": "جهزي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "جهازي"
+},
+{
+     "id": 1218,
+     "word": "متلة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "متصلة"
+},
+{
+     "id": 1219,
+     "word": "العض",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "البعض"
+},
+{
+     "id": 1220,
+     "word": "أساك",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أسلاك"
+},
+{
+     "id": 1221,
+     "word": "التصيل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التوصيل"
+},
+{
+     "id": 1222,
+     "word": "الكيلات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الكيبلات"
+},
+{
+     "id": 1223,
+     "word": "تكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تكون"
+},
+{
+     "id": 1224,
+     "word": "لاسكي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "لاسلكي"
+},
+{
+     "id": 1225,
+     "word": "تتبدل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تتبادل"
+},
+{
+     "id": 1226,
+     "word": "والمفات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والملفات"
+},
+{
+     "id": 1227,
+     "word": "فيا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فيما"
+},
+{
+     "id": 1228,
+     "word": "بيها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بينها"
+},
+{
+     "id": 1229,
+     "word": "وباطبع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وبالطبع"
+},
+{
+     "id": 1230,
+     "word": "لش",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ليش"
+},
+{
+     "id": 1231,
+     "word": "شرا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شرطا"
+},
+{
+     "id": 1232,
+     "word": "مكنة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مكونة"
+},
+{
+     "id": 1233,
+     "word": "تم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تضم"
+},
+{
+     "id": 1234,
+     "word": "جمع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جميع"
+},
+{
+     "id": 1235,
+     "word": "تتل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تتصل"
+},
+{
+     "id": 1236,
+     "word": "بجاز",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بجهاز"
+},
+{
+     "id": 1237,
+     "word": "الطاعات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الطابعات"
+},
+{
+     "id": 1238,
+     "word": "والهاتف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والهواتف"
+},
+{
+     "id": 1239,
+     "word": "وكامرات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وكاميرات"
+},
+{
+     "id": 1240,
+     "word": "المرقبة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المراقبة"
+},
+{
+     "id": 1241,
+     "word": "أيا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أيضا"
+},
+{
+     "id": 1242,
+     "word": "يعد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يعود"
+},
+{
+     "id": 1243,
+     "word": "سب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سبب"
+},
+{
+     "id": 1244,
+     "word": "تسية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تسمية"
+},
+{
+     "id": 1245,
+     "word": "السم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الاسم"
+},
+{
+     "id": 1246,
+     "word": "كيية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كيفية"
+},
+{
+     "id": 1247,
+     "word": "انتشرها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "انتشارها"
+},
+{
+     "id": 1248,
+     "word": "وتكارها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتكاثرها"
+},
+{
+     "id": 1249,
+     "word": "إه",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إنه"
+},
+{
+     "id": 1250,
+     "word": "عدى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عدوى"
+},
+{
+     "id": 1251,
+     "word": "بالفروس",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالفيروس"
+},
+{
+     "id": 1252,
+     "word": "سران",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سرعان"
+},
+{
+     "id": 1253,
+     "word": "تنشر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تنتشر"
+},
+{
+     "id": 1254,
+     "word": "وتنقل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتنتقل"
+},
+{
+     "id": 1255,
+     "word": "لتيب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لتصيب"
+},
+{
+     "id": 1256,
+     "word": "والبامج",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والبرامج"
+},
+{
+     "id": 1257,
+     "word": "الجاز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الجهاز"
+},
+{
+     "id": 1258,
+     "word": "والدير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والجدير"
+},
+{
+     "id": 1259,
+     "word": "بالكر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بالذكر"
+},
+{
+     "id": 1260,
+     "word": "شرين",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شرطين"
+},
+{
+     "id": 1261,
+     "word": "رئييين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "رئيسيين"
+},
+{
+     "id": 1262,
+     "word": "توافهما",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "توافرهما"
+},
+{
+     "id": 1263,
+     "word": "لي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لكي"
+},
+{
+     "id": 1264,
+     "word": "حاسبي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "حاسوبي"
+},
+{
+     "id": 1265,
+     "word": "وها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وهما"
+},
+{
+     "id": 1266,
+     "word": "العمة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العامة"
+},
+{
+     "id": 1267,
+     "word": "واتصلات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "واتصالات"
+},
+{
+     "id": 1268,
+     "word": "اللب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الطلب"
+},
+{
+     "id": 1269,
+     "word": "الهتفي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الهاتفي"
+},
+{
+     "id": 1270,
+     "word": "البيطة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "البسيطة"
+},
+{
+     "id": 1271,
+     "word": "لتبدل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لتبادل"
+},
+{
+     "id": 1272,
+     "word": "الرسيين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الرسميين"
+},
+{
+     "id": 1273,
+     "word": "وسيت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وسميت"
+},
+{
+     "id": 1274,
+     "word": "بالشكات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالشبكات"
+},
+{
+     "id": 1275,
+     "word": "الشبية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الشعبية"
+},
+{
+     "id": 1276,
+     "word": "وكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وكان"
+},
+{
+     "id": 1277,
+     "word": "أشهها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أشهرها"
+},
+{
+     "id": 1278,
+     "word": "يونت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "يوزنت"
+},
+{
+     "id": 1279,
+     "word": "بروتوولات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بروتوكولات"
+},
+{
+     "id": 1280,
+     "word": "يوكس",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يونكس"
+},
+{
+     "id": 1281,
+     "word": "بت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بت"
+},
+{
+     "id": 1282,
+     "word": "نت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نت"
+},
+{
+     "id": 1283,
+     "word": "وورت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ووفرت"
+},
+{
+     "id": 1284,
+     "word": "للأخاص",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للأشخاص"
+},
+{
+     "id": 1285,
+     "word": "الين",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الذين"
+},
+{
+     "id": 1286,
+     "word": "ين",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يكن"
+},
+{
+     "id": 1287,
+     "word": "لدهم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لديهم"
+},
+{
+     "id": 1288,
+     "word": "البية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "البنية"
+},
+{
+     "id": 1289,
+     "word": "للشكات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للشبكات"
+},
+{
+     "id": 1290,
+     "word": "الرمية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الرسمية"
+},
+{
+     "id": 1291,
+     "word": "العوم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العلوم"
+},
+{
+     "id": 1292,
+     "word": "العماء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العلماء"
+},
+{
+     "id": 1293,
+     "word": "أناء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أنحاء"
+},
+{
+     "id": 1294,
+     "word": "الرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الكرة"
+},
+{
+     "id": 1295,
+     "word": "الأضية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأرضية"
+},
+{
+     "id": 1296,
+     "word": "إكال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إكمال"
+},
+{
+     "id": 1297,
+     "word": "العمية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العلمية"
+},
+{
+     "id": 1298,
+     "word": "ووت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ووقت"
+},
+{
+     "id": 1299,
+     "word": "الفرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الفكرة"
+},
+{
+     "id": 1300,
+     "word": "الألى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأولى"
+},
+{
+     "id": 1301,
+     "word": "لإناء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لإنشاء"
+},
+{
+     "id": 1302,
+     "word": "بدفع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بدافع"
+},
+{
+     "id": 1303,
+     "word": "علي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "علمي"
+},
+{
+     "id": 1304,
+     "word": "وبثي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وبحثي"
+},
+{
+     "id": 1305,
+     "word": "المرر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المبرر"
+},
+{
+     "id": 1306,
+     "word": "نفه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نفسه"
+},
+{
+     "id": 1307,
+     "word": "فيرسي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "فيروسي"
+},
+{
+     "id": 1308,
+     "word": "أنأ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أنشأ"
+},
+{
+     "id": 1309,
+     "word": "بب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بوب"
+},
+{
+     "id": 1310,
+     "word": "تواس",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "توماس"
+},
+{
+     "id": 1311,
+     "word": "موفي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "موظفي"
+},
+{
+     "id": 1312,
+     "word": "برنمجا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "برنامجا"
+},
+{
+     "id": 1313,
+     "word": "حاسبيا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "حاسوبيا"
+},
+{
+     "id": 1314,
+     "word": "قارا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "قادرا"
+},
+{
+     "id": 1315,
+     "word": "يل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يصل"
+},
+{
+     "id": 1316,
+     "word": "وأاد",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وأراد"
+},
+{
+     "id": 1317,
+     "word": "إثات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إثبات"
+},
+{
+     "id": 1318,
+     "word": "تحيق",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تحقيق"
+},
+{
+     "id": 1319,
+     "word": "رؤة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "رؤية"
+},
+{
+     "id": 1320,
+     "word": "وأفار",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وأفكار"
+},
+{
+     "id": 1321,
+     "word": "نيوان",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "نيومان"
+},
+{
+     "id": 1322,
+     "word": "البثية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "البحثية"
+},
+{
+     "id": 1323,
+     "word": "طرها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "طرحها"
+},
+{
+     "id": 1324,
+     "word": "أطرحة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "أطروحة"
+},
+{
+     "id": 1325,
+     "word": "نظية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "نظرية"
+},
+{
+     "id": 1326,
+     "word": "الاسنساخ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاستنساخ"
+},
+{
+     "id": 1327,
+     "word": "الذتي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الذاتي"
+},
+{
+     "id": 1328,
+     "word": "الأوتواتيكي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأوتوماتيكي"
+},
+{
+     "id": 1329,
+     "word": "وعف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وعرف"
+},
+{
+     "id": 1330,
+     "word": "بام",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "باسم"
+},
+{
+     "id": 1331,
+     "word": "وم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ولم"
+},
+{
+     "id": 1332,
+     "word": "يسب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يسبب"
+},
+{
+     "id": 1333,
+     "word": "للجاز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "للجهاز"
+},
+{
+     "id": 1334,
+     "word": "ينقل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ينتقل"
+},
+{
+     "id": 1335,
+     "word": "إله",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إليه"
+},
+{
+     "id": 1336,
+     "word": "إش",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "إتش"
+},
+{
+     "id": 1337,
+     "word": "يد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يعد"
+},
+{
+     "id": 1338,
+     "word": "الشيرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الشهيرة"
+},
+{
+     "id": 1339,
+     "word": "والمسخدمة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والمستخدمة"
+},
+{
+     "id": 1340,
+     "word": "واع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "واسع"
+},
+{
+     "id": 1341,
+     "word": "ويتتع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ويتمتع"
+},
+{
+     "id": 1342,
+     "word": "تثبته",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تثبيته"
+},
+{
+     "id": 1343,
+     "word": "وإدرته",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وإدارته"
+},
+{
+     "id": 1344,
+     "word": "ويخذ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ويتخذ"
+},
+{
+     "id": 1345,
+     "word": "مظرا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مظهرا"
+},
+{
+     "id": 1346,
+     "word": "تقلديا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تقليديا"
+},
+{
+     "id": 1347,
+     "word": "مفوح",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مفتوح"
+},
+{
+     "id": 1348,
+     "word": "المدر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المصدر"
+},
+{
+     "id": 1349,
+     "word": "إتحة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "إتاحة"
+},
+{
+     "id": 1350,
+     "word": "ودع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ودفع"
+},
+{
+     "id": 1351,
+     "word": "الفوتير",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الفواتير"
+},
+{
+     "id": 1352,
+     "word": "والسوق",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والتسوق"
+},
+{
+     "id": 1353,
+     "word": "وصل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وصول"
+},
+{
+     "id": 1354,
+     "word": "لحسبه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لحسابه"
+},
+{
+     "id": 1355,
+     "word": "البكي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "البنكي"
+},
+{
+     "id": 1356,
+     "word": "ومعفة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ومعرفة"
+},
+{
+     "id": 1357,
+     "word": "رصده",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "رصيده"
+},
+{
+     "id": 1358,
+     "word": "وإرال",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وإرسال"
+},
+{
+     "id": 1359,
+     "word": "الأوال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأموال"
+},
+{
+     "id": 1360,
+     "word": "وإتام",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وإتمام"
+},
+{
+     "id": 1361,
+     "word": "المعملات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المعاملات"
+},
+{
+     "id": 1362,
+     "word": "مية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ميزة"
+},
+{
+     "id": 1363,
+     "word": "التوق",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التسوق"
+},
+{
+     "id": 1364,
+     "word": "وشرئها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وشرائها"
+},
+{
+     "id": 1365,
+     "word": "دن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "دون"
+},
+{
+     "id": 1366,
+     "word": "الذاب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الذهاب"
+},
+{
+     "id": 1367,
+     "word": "للماجر",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للمتاجر"
+},
+{
+     "id": 1368,
+     "word": "صنت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صنعت"
+},
+{
+     "id": 1369,
+     "word": "مفهما",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مفهوما"
+},
+{
+     "id": 1370,
+     "word": "جددا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "جديدا"
+},
+{
+     "id": 1371,
+     "word": "أا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ألا"
+},
+{
+     "id": 1372,
+     "word": "قوعد",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "قواعد"
+},
+{
+     "id": 1373,
+     "word": "البنات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "البينات"
+},
+{
+     "id": 1374,
+     "word": "الكيرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الكبيرة"
+},
+{
+     "id": 1375,
+     "word": "ويمح",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ويسمح"
+},
+{
+     "id": 1376,
+     "word": "حب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "حسب"
+},
+{
+     "id": 1377,
+     "word": "شرط",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شروط"
+},
+{
+     "id": 1378,
+     "word": "التمر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التنمر"
+},
+{
+     "id": 1379,
+     "word": "يسهم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يساهم"
+},
+{
+     "id": 1380,
+     "word": "تعيض",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تعريض"
+},
+{
+     "id": 1381,
+     "word": "للتمر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "للتنمر"
+},
+{
+     "id": 1382,
+     "word": "وخصصا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وخصوصا"
+},
+{
+     "id": 1383,
+     "word": "فة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فئة"
+},
+{
+     "id": 1384,
+     "word": "الأفال",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأطفال"
+},
+{
+     "id": 1385,
+     "word": "دخل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "دخول"
+},
+{
+     "id": 1386,
+     "word": "المتمرين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المتنمرين"
+},
+{
+     "id": 1387,
+     "word": "بهية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بهوية"
+},
+{
+     "id": 1388,
+     "word": "مجهلة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مجهولة"
+},
+{
+     "id": 1389,
+     "word": "شرات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شركات"
+},
+{
+     "id": 1390,
+     "word": "آي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "آي"
+},
+{
+     "id": 1391,
+     "word": "تبيل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تبديل"
+},
+{
+     "id": 1392,
+     "word": "نجح",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نجاح"
+},
+{
+     "id": 1393,
+     "word": "بنة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بنية"
+},
+{
+     "id": 1394,
+     "word": "وخدات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وخدمات"
+},
+{
+     "id": 1395,
+     "word": "زيركس",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "زيروكس"
+},
+{
+     "id": 1396,
+     "word": "الشكية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الشبكية"
+},
+{
+     "id": 1397,
+     "word": "واستدمت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "واستخدمت"
+},
+{
+     "id": 1398,
+     "word": "الشكات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الشركات"
+},
+{
+     "id": 1399,
+     "word": "وكنت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وكانت"
+},
+{
+     "id": 1400,
+     "word": "موعة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "موزعة"
+},
+{
+     "id": 1401,
+     "word": "تمن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تمكن"
+},
+{
+     "id": 1402,
+     "word": "مسقل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مستقل"
+},
+{
+     "id": 1403,
+     "word": "ومرزي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ومركزي"
+},
+{
+     "id": 1404,
+     "word": "وبلك",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وبذلك"
+},
+{
+     "id": 1405,
+     "word": "عكت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عكست"
+},
+{
+     "id": 1406,
+     "word": "نو",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نحو"
+},
+{
+     "id": 1407,
+     "word": "العلمة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العولمة"
+},
+{
+     "id": 1408,
+     "word": "الاقتادية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاقتصادية"
+},
+{
+     "id": 1409,
+     "word": "تساعت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تسارعت"
+},
+{
+     "id": 1410,
+     "word": "وا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وما"
+},
+{
+     "id": 1411,
+     "word": "بعها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بعدها"
+},
+{
+     "id": 1412,
+     "word": "أنا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أنها"
+},
+{
+     "id": 1413,
+     "word": "تن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تكن"
+},
+{
+     "id": 1414,
+     "word": "متوفقة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "متوافقة"
+},
+{
+     "id": 1415,
+     "word": "مناسة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "منافسة"
+},
+{
+     "id": 1416,
+     "word": "عقة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عقبة"
+},
+{
+     "id": 1417,
+     "word": "أمم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أمام"
+},
+{
+     "id": 1418,
+     "word": "بنء",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بناء"
+},
+{
+     "id": 1419,
+     "word": "وطية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وطنية"
+},
+{
+     "id": 1420,
+     "word": "دوية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "دولية"
+},
+{
+     "id": 1421,
+     "word": "تلزم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تلتزم"
+},
+{
+     "id": 1422,
+     "word": "بالمايير",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالمعايير"
+},
+{
+     "id": 1423,
+     "word": "التنية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التقنية"
+},
+{
+     "id": 1424,
+     "word": "الممول",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المعمول"
+},
+{
+     "id": 1425,
+     "word": "لذك",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "لذلك"
+},
+{
+     "id": 1426,
+     "word": "أعنت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أعلنت"
+},
+{
+     "id": 1427,
+     "word": "الاتالات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاتصالات"
+},
+{
+     "id": 1428,
+     "word": "الونية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الوطنية"
+},
+{
+     "id": 1429,
+     "word": "أوربا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أوروبا"
+},
+{
+     "id": 1430,
+     "word": "وكدا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وكندا"
+},
+{
+     "id": 1431,
+     "word": "واليبان",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "واليابان"
+},
+{
+     "id": 1432,
+     "word": "خط",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "خطط"
+},
+{
+     "id": 1433,
+     "word": "لباء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لبناء"
+},
+{
+     "id": 1434,
+     "word": "ستون",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ستكون"
+},
+{
+     "id": 1435,
+     "word": "لي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لأي"
+},
+{
+     "id": 1436,
+     "word": "بض",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بغض"
+},
+{
+     "id": 1437,
+     "word": "الظر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "النظر"
+},
+{
+     "id": 1438,
+     "word": "ماكة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ماركة"
+},
+{
+     "id": 1439,
+     "word": "لتزيد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لتزويد"
+},
+{
+     "id": 1440,
+     "word": "الجهور",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الجمهور"
+},
+{
+     "id": 1441,
+     "word": "ببيل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "ببديل"
+},
+{
+     "id": 1442,
+     "word": "لكير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لكثير"
+},
+{
+     "id": 1443,
+     "word": "سكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "سكان"
+},
+{
+     "id": 1444,
+     "word": "صة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "صلة"
+},
+{
+     "id": 1445,
+     "word": "بالمسخدمين",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالمستخدمين"
+},
+{
+     "id": 1446,
+     "word": "التقيين",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التقنيين"
+},
+{
+     "id": 1447,
+     "word": "فرنس",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فرانس"
+},
+{
+     "id": 1448,
+     "word": "تليوم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تليكوم"
+},
+{
+     "id": 1449,
+     "word": "ميي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ميني"
+},
+{
+     "id": 1450,
+     "word": "تل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تل"
+},
+{
+     "id": 1451,
+     "word": "طرية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "طرفية"
+},
+{
+     "id": 1452,
+     "word": "مجاية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مجانية"
+},
+{
+     "id": 1453,
+     "word": "دلل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "دليل"
+},
+{
+     "id": 1454,
+     "word": "مجني",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "مجاني"
+},
+{
+     "id": 1455,
+     "word": "ومجوعة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ومجموعة"
+},
+{
+     "id": 1456,
+     "word": "متنعة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "متنوعة"
+},
+{
+     "id": 1457,
+     "word": "المدوعة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المدفوعة"
+},
+{
+     "id": 1458,
+     "word": "نموجا",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "نموذجا"
+},
+{
+     "id": 1459,
+     "word": "أويا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أوليا"
+},
+{
+     "id": 1460,
+     "word": "للتارة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للتجارة"
+},
+{
+     "id": 1461,
+     "word": "تملت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تمثلت"
+},
+{
+     "id": 1462,
+     "word": "بشاء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بشراء"
+},
+{
+     "id": 1463,
+     "word": "تذكر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تذاكر"
+},
+{
+     "id": 1464,
+     "word": "الطران",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الطيران"
+},
+{
+     "id": 1465,
+     "word": "وتجرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتجارة"
+},
+{
+     "id": 1466,
+     "word": "التزئة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التجزئة"
+},
+{
+     "id": 1467,
+     "word": "بء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بطء"
+},
+{
+     "id": 1468,
+     "word": "تجيد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تجميد"
+},
+{
+     "id": 1469,
+     "word": "عمه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عمله"
+},
+{
+     "id": 1470,
+     "word": "الداع",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الدفاع"
+},
+{
+     "id": 1471,
+     "word": "الاسفادة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الاستفادة"
+},
+{
+     "id": 1472,
+     "word": "الدفعية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الدفاعية"
+},
+{
+     "id": 1473,
+     "word": "بالديد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بالعديد"
+},
+{
+     "id": 1474,
+     "word": "العسرية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "العسكرية"
+},
+{
+     "id": 1475,
+     "word": "كتحيد",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كتحديد"
+},
+{
+     "id": 1476,
+     "word": "وتقب",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتعقب"
+},
+{
+     "id": 1477,
+     "word": "الصوريخ",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الصواريخ"
+},
+{
+     "id": 1478,
+     "word": "وتصيم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتصميم"
+},
+{
+     "id": 1479,
+     "word": "وفص",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وفحص"
+},
+{
+     "id": 1480,
+     "word": "الجيدة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الجديدة"
+},
+{
+     "id": 1481,
+     "word": "المكنات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المكونات"
+},
+{
+     "id": 1482,
+     "word": "تتون",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تتكون"
+},
+{
+     "id": 1483,
+     "word": "الأامر",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الأوامر"
+},
+{
+     "id": 1484,
+     "word": "المكوبة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المكتوبة"
+},
+{
+     "id": 1485,
+     "word": "بلة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بلغة"
+},
+{
+     "id": 1486,
+     "word": "لتشد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لترشد"
+},
+{
+     "id": 1487,
+     "word": "يتين",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "يتعين"
+},
+{
+     "id": 1488,
+     "word": "فعه",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فعله"
+},
+{
+     "id": 1489,
+     "word": "وتسم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتقسم"
+},
+{
+     "id": 1490,
+     "word": "تبا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تبعا"
+},
+{
+     "id": 1491,
+     "word": "للممة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "للمهمة"
+},
+{
+     "id": 1492,
+     "word": "تعى",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تعنى"
+},
+{
+     "id": 1493,
+     "word": "كالالي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "كالتالي"
+},
+{
+     "id": 1494,
+     "word": "اليع",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "البيع"
+},
+{
+     "id": 1495,
+     "word": "بالتزئة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالتجزئة"
+},
+{
+     "id": 1496,
+     "word": "بتطير",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بتطوير"
+},
+{
+     "id": 1497,
+     "word": "تجبة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تجربة"
+},
+{
+     "id": 1498,
+     "word": "اقترحات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "اقتراحات"
+},
+{
+     "id": 1499,
+     "word": "شخية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شخصية"
+},
+{
+     "id": 1500,
+     "word": "وعميات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وعمليات"
+},
+{
+     "id": 1501,
+     "word": "بث",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بحث"
+},
+{
+     "id": 1502,
+     "word": "المصفح",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المتصفح"
+},
+{
+     "id": 1503,
+     "word": "والظر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والنظر"
+},
+{
+     "id": 1504,
+     "word": "بطب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بطلب"
+},
+{
+     "id": 1505,
+     "word": "العلاء",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "العملاء"
+},
+{
+     "id": 1506,
+     "word": "وتحين",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وتحسين"
+},
+{
+     "id": 1507,
+     "word": "المزون",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المخزون"
+},
+{
+     "id": 1508,
+     "word": "وإدرة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وإدارة"
+},
+{
+     "id": 1509,
+     "word": "التليم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التسليم"
+},
+{
+     "id": 1510,
+     "word": "فعل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فعال"
+},
+{
+     "id": 1511,
+     "word": "اعتدت",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "اعتمدت"
+},
+{
+     "id": 1512,
+     "word": "الطفية",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الطرفية"
+},
+{
+     "id": 1513,
+     "word": "نمذج",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "نموذج"
+},
+{
+     "id": 1514,
+     "word": "محري",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "محوري"
+},
+{
+     "id": 1515,
+     "word": "رط",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ربط"
+},
+{
+     "id": 1516,
+     "word": "بكمبوتر",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بكمبيوتر"
+},
+{
+     "id": 1517,
+     "word": "مرزي",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "مركزي"
+},
+{
+     "id": 1518,
+     "word": "أوخر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أواخر"
+},
+{
+     "id": 1519,
+     "word": "الستنات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الستينات"
+},
+{
+     "id": 1520,
+     "word": "السبينات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "السبعينات"
+},
+{
+     "id": 1521,
+     "word": "تعقدا",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تعقيدا"
+},
+{
+     "id": 1522,
+     "word": "تشل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تشمل"
+},
+{
+     "id": 1523,
+     "word": "وجب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "وجرب"
+},
+{
+     "id": 1524,
+     "word": "الباثون",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الباحثون"
+},
+{
+     "id": 1525,
+     "word": "تقنات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "تقنيات"
+},
+{
+     "id": 1526,
+     "word": "لكر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "لكسر"
+},
+{
+     "id": 1527,
+     "word": "الحاجز",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الحواجز"
+},
+{
+     "id": 1528,
+     "word": "تحل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تحول"
+},
+{
+     "id": 1529,
+     "word": "تبدل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تبادل"
+},
+{
+     "id": 1530,
+     "word": "البط",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الربط"
+},
+{
+     "id": 1531,
+     "word": "الشكي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الشبكي"
+},
+{
+     "id": 1532,
+     "word": "بمشركة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بمشاركة"
+},
+{
+     "id": 1533,
+     "word": "الندرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "النادرة"
+},
+{
+     "id": 1534,
+     "word": "والملفة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "والمكلفة"
+},
+{
+     "id": 1535,
+     "word": "زات",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "زادت"
+},
+{
+     "id": 1536,
+     "word": "بدوها",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "بدورها"
+},
+{
+     "id": 1537,
+     "word": "تقيل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تقليل"
+},
+{
+     "id": 1538,
+     "word": "التكليف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "التكاليف"
+},
+{
+     "id": 1539,
+     "word": "والدرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والقدرة"
+},
+{
+     "id": 1540,
+     "word": "وإمكنية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وإمكانية"
+},
+{
+     "id": 1541,
+     "word": "المل",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "العمل"
+},
+{
+     "id": 1542,
+     "word": "أمكن",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "أماكن"
+},
+{
+     "id": 1543,
+     "word": "زيدة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "زيادة"
+},
+{
+     "id": 1544,
+     "word": "فرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فرصة"
+},
+{
+     "id": 1545,
+     "word": "المفهيم",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المفاهيم"
+},
+{
+     "id": 1546,
+     "word": "النرية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "النظرية"
+},
+{
+     "id": 1547,
+     "word": "وتطبقها",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "وتطبيقها"
+},
+{
+     "id": 1548,
+     "word": "عمي",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "عملي"
+},
+{
+     "id": 1549,
+     "word": "تغر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تغير"
+},
+{
+     "id": 1550,
+     "word": "هف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "هدف"
+},
+{
+     "id": 1551,
+     "word": "الأداف",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأهداف"
+},
+{
+     "id": 1552,
+     "word": "التجبيبة",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التجربيبة"
+},
+{
+     "id": 1553,
+     "word": "التخيبية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "التخريبية"
+},
+{
+     "id": 1554,
+     "word": "الضرة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الضارة"
+},
+{
+     "id": 1555,
+     "word": "شد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "شهد"
+},
+{
+     "id": 1556,
+     "word": "بفيوس",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بفيروس"
+},
+{
+     "id": 1557,
+     "word": "الأنب",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "الأرنب"
+},
+{
+     "id": 1558,
+     "word": "تله",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تلاه"
+},
+{
+     "id": 1559,
+     "word": "الفيوسية",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الفيروسية"
+},
+{
+     "id": 1560,
+     "word": "طرودة",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "طروادة"
+},
+{
+     "id": 1561,
+     "word": "ينشر",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ينتشر"
+},
+{
+     "id": 1562,
+     "word": "تضين",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تضمين"
+},
+{
+     "id": 1563,
+     "word": "بالبامج",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "بالبرامج"
+},
+{
+     "id": 1564,
+     "word": "تشل",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "تشغل"
+},
+{
+     "id": 1565,
+     "word": "الكميوتر",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "الكمبيوتر"
+},
+{
+     "id": 1566,
+     "word": "واسمرت",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "واستمرت"
+},
+{
+     "id": 1567,
+     "word": "والقدم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "والتقدم"
+},
+{
+     "id": 1568,
+     "word": "ملوظ",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "ملحوظ"
+},
+{
+     "id": 1569,
+     "word": "قم",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "قدم"
+},
+{
+     "id": 1570,
+     "word": "المندس",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "المهندس"
+},
+{
+     "id": 1571,
+     "word": "فرد",
+     "tag": "correct",
+     "domain": "Tech",
+     "correct word": "فريد"
+},
+{
+     "id": 1572,
+     "word": "المستدعات",
+     "tag": "wrong",
+     "domain": "Tech",
+     "correct word": "المستودعات"
+}
+]

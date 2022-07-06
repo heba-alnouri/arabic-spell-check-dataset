@@ -1,0 +1,5111 @@
+[{
+     "id": 1,
+     "word": "الخضاريف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الغضاريف"
+},
+{
+     "id": 2,
+     "word": "الشلايا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الخلايا"
+},
+{
+     "id": 3,
+     "word": "الؤنسية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الجنسية"
+},
+{
+     "id": 4,
+     "word": "التلب",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "القلب"
+},
+{
+     "id": 5,
+     "word": "تو",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "هو"
+},
+{
+     "id": 6,
+     "word": "الغهاز",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الجهاز"
+},
+{
+     "id": 7,
+     "word": "الجسؤول",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المسؤول"
+},
+{
+     "id": 8,
+     "word": "خن",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عن"
+},
+{
+     "id": 9,
+     "word": "الشكاثر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التكاثر"
+},
+{
+     "id": 10,
+     "word": "الكنسي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الجنسي"
+},
+{
+     "id": 11,
+     "word": "رختلف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يختلف"
+},
+{
+     "id": 12,
+     "word": "ذبعا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تبعا"
+},
+{
+     "id": 13,
+     "word": "هلجنس",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للجن"
+},
+{
+     "id": 14,
+     "word": "ئشكل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تشكل"
+},
+{
+     "id": 15,
+     "word": "الغطانية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البطانية"
+},
+{
+     "id": 16,
+     "word": "الزبقة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الطبقة"
+},
+{
+     "id": 17,
+     "word": "العاخلية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الداخلية"
+},
+{
+     "id": 18,
+     "word": "ثلجهاز",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للجهاز"
+},
+{
+     "id": 19,
+     "word": "الءمفاوي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اللمفاوي"
+},
+{
+     "id": 20,
+     "word": "الحوعية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأوعية"
+},
+{
+     "id": 21,
+     "word": "الطموية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الدموية"
+},
+{
+     "id": 22,
+     "word": "بعض",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بعض"
+},
+{
+     "id": 23,
+     "word": "الحعضاء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأعضاء"
+},
+{
+     "id": 24,
+     "word": "اليخرى",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأخرى"
+},
+{
+     "id": 25,
+     "word": "بثل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "مثل"
+},
+{
+     "id": 26,
+     "word": "الأماغ",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الدماغ"
+},
+{
+     "id": 27,
+     "word": "الئئتين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الرئتين"
+},
+{
+     "id": 28,
+     "word": "الغلد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الجلد"
+},
+{
+     "id": 29,
+     "word": "ؤظيفتها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "وظيفتها"
+},
+{
+     "id": 30,
+     "word": "صنتاج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "إنتاج"
+},
+{
+     "id": 31,
+     "word": "حها",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "لها"
+},
+{
+     "id": 32,
+     "word": "ؤور",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "دور"
+},
+{
+     "id": 33,
+     "word": "تي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "في"
+},
+{
+     "id": 34,
+     "word": "ثنظيم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تنظيم"
+},
+{
+     "id": 35,
+     "word": "ضغط",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ضغط"
+},
+{
+     "id": 36,
+     "word": "السم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الدم"
+},
+{
+     "id": 37,
+     "word": "كركة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "حركة"
+},
+{
+     "id": 38,
+     "word": "الأواد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المواد"
+},
+{
+     "id": 39,
+     "word": "هين",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بين"
+},
+{
+     "id": 40,
+     "word": "انسجة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أنسجة"
+},
+{
+     "id": 41,
+     "word": "الظسم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الجسم"
+},
+{
+     "id": 42,
+     "word": "أتكون",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يتكون"
+},
+{
+     "id": 43,
+     "word": "اليسيج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "النسيج"
+},
+{
+     "id": 44,
+     "word": "صن",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "من"
+},
+{
+     "id": 45,
+     "word": "لجموعة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مجموعة"
+},
+{
+     "id": 46,
+     "word": "الحتماثلة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المتماثلة"
+},
+{
+     "id": 47,
+     "word": "الري",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "التي"
+},
+{
+     "id": 48,
+     "word": "سؤدي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تؤدي"
+},
+{
+     "id": 49,
+     "word": "تظيفة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "وظيفة"
+},
+{
+     "id": 50,
+     "word": "خحددة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "محددة"
+},
+{
+     "id": 51,
+     "word": "ونتظم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تنتظم"
+},
+{
+     "id": 52,
+     "word": "عميع",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "جميع"
+},
+{
+     "id": 53,
+     "word": "سلايا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "خلايا"
+},
+{
+     "id": 54,
+     "word": "دمن",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ضمن"
+},
+{
+     "id": 55,
+     "word": "كربعة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أربعة"
+},
+{
+     "id": 56,
+     "word": "رنواع",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أنواع"
+},
+{
+     "id": 57,
+     "word": "الضنسجة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأنسجة"
+},
+{
+     "id": 58,
+     "word": "غي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "هي"
+},
+{
+     "id": 59,
+     "word": "البوتار",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأوتار"
+},
+{
+     "id": 60,
+     "word": "الذبيض",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المبيض"
+},
+{
+     "id": 61,
+     "word": "بساعد",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يساعد"
+},
+{
+     "id": 62,
+     "word": "الؤيكلي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الهيكلي"
+},
+{
+     "id": 63,
+     "word": "كوفير",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "توفير"
+},
+{
+     "id": 64,
+     "word": "الذعم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الدعم"
+},
+{
+     "id": 65,
+     "word": "المكل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الشكل"
+},
+{
+     "id": 66,
+     "word": "الةماية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحماية"
+},
+{
+     "id": 67,
+     "word": "خجسم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لجسم"
+},
+{
+     "id": 68,
+     "word": "الحنسان",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الإنسان"
+},
+{
+     "id": 69,
+     "word": "ثكوين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تكوين"
+},
+{
+     "id": 70,
+     "word": "نخزين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تخزين"
+},
+{
+     "id": 71,
+     "word": "الذعادن",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المعادن"
+},
+{
+     "id": 72,
+     "word": "الضهون",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الدهون"
+},
+{
+     "id": 73,
+     "word": "صهاز",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "جهاز"
+},
+{
+     "id": 74,
+     "word": "اليدد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الغدد"
+},
+{
+     "id": 75,
+     "word": "اللماء",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الصماء"
+},
+{
+     "id": 76,
+     "word": "الحضلة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "العضلة"
+},
+{
+     "id": 77,
+     "word": "الفلبية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "القلبية"
+},
+{
+     "id": 78,
+     "word": "الاضو",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العضو"
+},
+{
+     "id": 79,
+     "word": "البكبر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأكبر"
+},
+{
+     "id": 80,
+     "word": "ةسم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "جسم"
+},
+{
+     "id": 81,
+     "word": "العيوانات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحيوانات"
+},
+{
+     "id": 82,
+     "word": "الؤنوية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المنوية"
+},
+{
+     "id": 83,
+     "word": "جند",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عند"
+},
+{
+     "id": 84,
+     "word": "الثكور",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الذكور"
+},
+{
+     "id": 85,
+     "word": "رسواط",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أسواط"
+},
+{
+     "id": 86,
+     "word": "ذساعدها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تساعدها"
+},
+{
+     "id": 87,
+     "word": "رلى",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "على"
+},
+{
+     "id": 88,
+     "word": "الئركة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحركة"
+},
+{
+     "id": 89,
+     "word": "التظافر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الأظافر"
+},
+{
+     "id": 90,
+     "word": "الأظام",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العظام"
+},
+{
+     "id": 91,
+     "word": "طضلات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "عضلات"
+},
+{
+     "id": 92,
+     "word": "ثيكلية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "هيكلية"
+},
+{
+     "id": 93,
+     "word": "الذعر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الشعر"
+},
+{
+     "id": 94,
+     "word": "الإدة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الغدة"
+},
+{
+     "id": 95,
+     "word": "الحعترية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الزعترية"
+},
+{
+     "id": 96,
+     "word": "لؤدي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يؤدي"
+},
+{
+     "id": 97,
+     "word": "اليحافي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اللحافي"
+},
+{
+     "id": 98,
+     "word": "الجديد",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "العديد"
+},
+{
+     "id": 99,
+     "word": "المظائف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الوظائف"
+},
+{
+     "id": 100,
+     "word": "اللامة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الهامة"
+},
+{
+     "id": 101,
+     "word": "مهو",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "فهو"
+},
+{
+     "id": 102,
+     "word": "بحمي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يحمي"
+},
+{
+     "id": 103,
+     "word": "السياكل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الهياكل"
+},
+{
+     "id": 104,
+     "word": "الأدمات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الصدمات"
+},
+{
+     "id": 105,
+     "word": "الفؤثرات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المؤثرات"
+},
+{
+     "id": 106,
+     "word": "المارجية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الخارجية"
+},
+{
+     "id": 107,
+     "word": "الشفاف",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الجفاف"
+},
+{
+     "id": 108,
+     "word": "الأائنات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الكائنات"
+},
+{
+     "id": 109,
+     "word": "الرية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الحية"
+},
+{
+     "id": 110,
+     "word": "الخقيقة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الدقيقة"
+},
+{
+     "id": 111,
+     "word": "ةخزن",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يخزن"
+},
+{
+     "id": 112,
+     "word": "آنتج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ينتج"
+},
+{
+     "id": 113,
+     "word": "الصيتامينات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الفيتامينات"
+},
+{
+     "id": 114,
+     "word": "الكرمونات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الهرمونات"
+},
+{
+     "id": 115,
+     "word": "تعد",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يعد"
+},
+{
+     "id": 116,
+     "word": "الذطاء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الغطاء"
+},
+{
+     "id": 117,
+     "word": "الحارجي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الخارجي"
+},
+{
+     "id": 118,
+     "word": "رلجسم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للجسم"
+},
+{
+     "id": 119,
+     "word": "الذي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الذي"
+},
+{
+     "id": 120,
+     "word": "ثشمل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يشمل"
+},
+{
+     "id": 121,
+     "word": "يعد",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تعد"
+},
+{
+     "id": 122,
+     "word": "السذعية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الجذعية"
+},
+{
+     "id": 123,
+     "word": "شكونها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بكونها"
+},
+{
+     "id": 124,
+     "word": "رادرة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "قادرة"
+},
+{
+     "id": 125,
+     "word": "الذنقسام",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الانقسام"
+},
+{
+     "id": 126,
+     "word": "الستكرر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المتكرر"
+},
+{
+     "id": 127,
+     "word": "خير",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "غير"
+},
+{
+     "id": 128,
+     "word": "صتخصصة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "متخصصة"
+},
+{
+     "id": 129,
+     "word": "حلا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "إلا"
+},
+{
+     "id": 130,
+     "word": "أنها",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أنها"
+},
+{
+     "id": 131,
+     "word": "الدمايز",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التمايز"
+},
+{
+     "id": 132,
+     "word": "ظلى",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "إلى"
+},
+{
+     "id": 133,
+     "word": "مختلفة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "مختلفة"
+},
+{
+     "id": 134,
+     "word": "اللهنية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الدهنية"
+},
+{
+     "id": 135,
+     "word": "اليضلات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العضلات"
+},
+{
+     "id": 136,
+     "word": "اليلساء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الملساء"
+},
+{
+     "id": 137,
+     "word": "الدرقية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الدرقية"
+},
+{
+     "id": 138,
+     "word": "الزنفسي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التنفسي"
+},
+{
+     "id": 139,
+     "word": "الةبل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحبل"
+},
+{
+     "id": 140,
+     "word": "البوكي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الشوكي"
+},
+{
+     "id": 141,
+     "word": "آكون",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تكون"
+},
+{
+     "id": 142,
+     "word": "الخلدية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الجلدية"
+},
+{
+     "id": 143,
+     "word": "بكل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "شكل"
+},
+{
+     "id": 144,
+     "word": "صتراصة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "متراصة"
+},
+{
+     "id": 145,
+     "word": "الءلائي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الطلائي"
+},
+{
+     "id": 146,
+     "word": "يلم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "علم"
+},
+{
+     "id": 147,
+     "word": "الهحال",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الطحال"
+},
+{
+     "id": 148,
+     "word": "الةصبة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "القصبة"
+},
+{
+     "id": 149,
+     "word": "القوائية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الهوائية"
+},
+{
+     "id": 150,
+     "word": "اظمية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "عظمية"
+},
+{
+     "id": 151,
+     "word": "الفيضاء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البيضاء"
+},
+{
+     "id": 152,
+     "word": "آزء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "جزء"
+},
+{
+     "id": 153,
+     "word": "السناعة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المناعة"
+},
+{
+     "id": 154,
+     "word": "الطضلية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العضلية"
+},
+{
+     "id": 155,
+     "word": "الروران",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الدوران"
+},
+{
+     "id": 156,
+     "word": "التولي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "البولي"
+},
+{
+     "id": 157,
+     "word": "خقل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "نقل"
+},
+{
+     "id": 158,
+     "word": "العكسجين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأكسجين"
+},
+{
+     "id": 159,
+     "word": "الضقي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "النقي"
+},
+{
+     "id": 160,
+     "word": "مارج",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "خارج"
+},
+{
+     "id": 161,
+     "word": "ينها",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "منها"
+},
+{
+     "id": 162,
+     "word": "حاني",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ثاني"
+},
+{
+     "id": 163,
+     "word": "قكسيد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أكسيد"
+},
+{
+     "id": 164,
+     "word": "الثربون",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الكربون"
+},
+{
+     "id": 165,
+     "word": "السصبي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العصبي"
+},
+{
+     "id": 166,
+     "word": "العصبية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "العصبية"
+},
+{
+     "id": 167,
+     "word": "تتكون",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تتكون"
+},
+{
+     "id": 168,
+     "word": "غزأين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "جزأين"
+},
+{
+     "id": 169,
+     "word": "ظئيسيين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "رئيسيين"
+},
+{
+     "id": 170,
+     "word": "الظلية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الخلية"
+},
+{
+     "id": 171,
+     "word": "الظوائد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الزوائد"
+},
+{
+     "id": 172,
+     "word": "الكشارات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الإشارات"
+},
+{
+     "id": 173,
+     "word": "تعضاء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أعضاء"
+},
+{
+     "id": 174,
+     "word": "عيال",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "سيال"
+},
+{
+     "id": 175,
+     "word": "صصبي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "عصبي"
+},
+{
+     "id": 176,
+     "word": "ظانية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بانية"
+},
+{
+     "id": 177,
+     "word": "ألعظم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للعظم"
+},
+{
+     "id": 178,
+     "word": "حوجد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "توجد"
+},
+{
+     "id": 179,
+     "word": "الآنكرياس",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البنكرياس"
+},
+{
+     "id": 180,
+     "word": "عوعان",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "نوعان"
+},
+{
+     "id": 181,
+     "word": "زارات",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "جارات"
+},
+{
+     "id": 182,
+     "word": "التضلي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العضلي"
+},
+{
+     "id": 183,
+     "word": "الظثانة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المثانة"
+},
+{
+     "id": 184,
+     "word": "النرقية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العرقية"
+},
+{
+     "id": 185,
+     "word": "إلحقة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ملحقة"
+},
+{
+     "id": 186,
+     "word": "طالقناة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بالقناة"
+},
+{
+     "id": 187,
+     "word": "الحضمية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الهضمية"
+},
+{
+     "id": 188,
+     "word": "غشمل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تشمل"
+},
+{
+     "id": 189,
+     "word": "ذا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ما"
+},
+{
+     "id": 190,
+     "word": "ءأتي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يأتي"
+},
+{
+     "id": 191,
+     "word": "الغضمي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الهضمي"
+},
+{
+     "id": 192,
+     "word": "الظويضة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البويضة"
+},
+{
+     "id": 193,
+     "word": "الدناث",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الإناث"
+},
+{
+     "id": 194,
+     "word": "ؤلية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "خلية"
+},
+{
+     "id": 195,
+     "word": "ظاتيا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ذاتيا"
+},
+{
+     "id": 196,
+     "word": "وكبر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أكبر"
+},
+{
+     "id": 197,
+     "word": "ثجما",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "حجما"
+},
+{
+     "id": 198,
+     "word": "الظيوان",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحيوان"
+},
+{
+     "id": 199,
+     "word": "الكنوي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "المنوي"
+},
+{
+     "id": 200,
+     "word": "ضيما",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "فيما"
+},
+{
+     "id": 201,
+     "word": "نيان",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بيان"
+},
+{
+     "id": 202,
+     "word": "دلأجهزة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للأجهزة"
+},
+{
+     "id": 203,
+     "word": "الافاصل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المفاصل"
+},
+{
+     "id": 204,
+     "word": "الإمفاوية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اللمفاوية"
+},
+{
+     "id": 205,
+     "word": "افرازية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "إفرازية"
+},
+{
+     "id": 206,
+     "word": "ظفرز",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تفرز"
+},
+{
+     "id": 207,
+     "word": "خنزيمات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "إنزيمات"
+},
+{
+     "id": 208,
+     "word": "واضمة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "هاضمة"
+},
+{
+     "id": 209,
+     "word": "طضم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "هضم"
+},
+{
+     "id": 210,
+     "word": "اللروتينات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البروتينات"
+},
+{
+     "id": 211,
+     "word": "الفربوهيدرات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الكربوهيدرات"
+},
+{
+     "id": 212,
+     "word": "الءحليل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الإحليل"
+},
+{
+     "id": 213,
+     "word": "الزيكلية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الهيكلية"
+},
+{
+     "id": 214,
+     "word": "ئلياف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ألياف"
+},
+{
+     "id": 215,
+     "word": "فضلية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عضلية"
+},
+{
+     "id": 216,
+     "word": "مسطوانية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أسطوانية"
+},
+{
+     "id": 217,
+     "word": "ررتبط",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ترتبط"
+},
+{
+     "id": 218,
+     "word": "يبعضها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ببعضها"
+},
+{
+     "id": 219,
+     "word": "زريق",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "طريق"
+},
+{
+     "id": 220,
+     "word": "الصام",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الضام"
+},
+{
+     "id": 221,
+     "word": "الوعصاب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأعصاب"
+},
+{
+     "id": 222,
+     "word": "ولبية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "قلبية"
+},
+{
+     "id": 223,
+     "word": "ظساسية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أساسية"
+},
+{
+     "id": 224,
+     "word": "شلقناة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للقناة"
+},
+{
+     "id": 225,
+     "word": "غل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "كل"
+},
+{
+     "id": 226,
+     "word": "ءحطمة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "محطمة"
+},
+{
+     "id": 227,
+     "word": "بنتج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تنتج"
+},
+{
+     "id": 228,
+     "word": "ئبل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "قبل"
+},
+{
+     "id": 229,
+     "word": "الزناسلية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التناسلية"
+},
+{
+     "id": 230,
+     "word": "الغنصف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المنصف"
+},
+{
+     "id": 231,
+     "word": "الفلى",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الكلى"
+},
+{
+     "id": 232,
+     "word": "ظعرف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يعرف"
+},
+{
+     "id": 233,
+     "word": "فيضا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أيضا"
+},
+{
+     "id": 234,
+     "word": "ااسم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "باسم"
+},
+{
+     "id": 235,
+     "word": "حلك",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ذلك"
+},
+{
+     "id": 236,
+     "word": "خأنه",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لأنه"
+},
+{
+     "id": 237,
+     "word": "النجسام",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأجسام"
+},
+{
+     "id": 238,
+     "word": "الرريبة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الغريبة"
+},
+{
+     "id": 239,
+     "word": "الفارة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الضارة"
+},
+{
+     "id": 240,
+     "word": "قهامه",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مهامه"
+},
+{
+     "id": 241,
+     "word": "الفوائل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "السوائل"
+},
+{
+     "id": 242,
+     "word": "كمف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لمف"
+},
+{
+     "id": 243,
+     "word": "غما",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "مما"
+},
+{
+     "id": 244,
+     "word": "الفحكم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التحكم"
+},
+{
+     "id": 245,
+     "word": "خوازن",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "توازن"
+},
+{
+     "id": 246,
+     "word": "صه",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "له"
+},
+{
+     "id": 247,
+     "word": "أامتصاص",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بامتصاص"
+},
+{
+     "id": 248,
+     "word": "يواتج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "نواتج"
+},
+{
+     "id": 249,
+     "word": "الغضم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الهضم"
+},
+{
+     "id": 250,
+     "word": "منقسم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تنقسم"
+},
+{
+     "id": 251,
+     "word": "زثلاثة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لثلاثة"
+},
+{
+     "id": 252,
+     "word": "نظائف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "وظائف"
+},
+{
+     "id": 253,
+     "word": "إو",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أو"
+},
+{
+     "id": 254,
+     "word": "الحسيولوجيا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الفسيولوجيا"
+},
+{
+     "id": 255,
+     "word": "لختص",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يختص"
+},
+{
+     "id": 256,
+     "word": "غدراسة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بدراسة"
+},
+{
+     "id": 257,
+     "word": "الءشري",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البشري"
+},
+{
+     "id": 258,
+     "word": "الءنف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأنف"
+},
+{
+     "id": 259,
+     "word": "ئجهزة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أجهزة"
+},
+{
+     "id": 260,
+     "word": "الئناسلي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التناسلي"
+},
+{
+     "id": 261,
+     "word": "دوفر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يوفر"
+},
+{
+     "id": 262,
+     "word": "ظتنوعة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "متنوعة"
+},
+{
+     "id": 263,
+     "word": "البمثلة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأمثلة"
+},
+{
+     "id": 264,
+     "word": "الءامة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الضامة"
+},
+{
+     "id": 265,
+     "word": "اللضروف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الغضروف"
+},
+{
+     "id": 266,
+     "word": "الوبقات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الطبقات"
+},
+{
+     "id": 267,
+     "word": "الجهني",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الدهني"
+},
+{
+     "id": 268,
+     "word": "اللمف",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "اللمف"
+},
+{
+     "id": 269,
+     "word": "النربطة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأربطة"
+},
+{
+     "id": 270,
+     "word": "سصبية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "عصبية"
+},
+{
+     "id": 271,
+     "word": "ذبقية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "دبقية"
+},
+{
+     "id": 272,
+     "word": "الففائح",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الصفائح"
+},
+{
+     "id": 273,
+     "word": "يخثر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تخثر"
+},
+{
+     "id": 274,
+     "word": "التوارني",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الدوارني"
+},
+{
+     "id": 275,
+     "word": "اللغذيات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المغذيات"
+},
+{
+     "id": 276,
+     "word": "الةازات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الغازات"
+},
+{
+     "id": 277,
+     "word": "الاضلات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الفضلات"
+},
+{
+     "id": 278,
+     "word": "أهضم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بهضم"
+},
+{
+     "id": 279,
+     "word": "اللعام",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الطعام"
+},
+{
+     "id": 280,
+     "word": "لفعل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بفعل"
+},
+{
+     "id": 281,
+     "word": "العنزيمات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الإنزيمات"
+},
+{
+     "id": 282,
+     "word": "الءصارات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العصارات"
+},
+{
+     "id": 283,
+     "word": "الآاضمة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الهاضمة"
+},
+{
+     "id": 284,
+     "word": "دحول",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تحول"
+},
+{
+     "id": 285,
+     "word": "وكونات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مكونات"
+},
+{
+     "id": 286,
+     "word": "وسيطة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بسيطة"
+},
+{
+     "id": 287,
+     "word": "تمكن",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يمكن"
+},
+{
+     "id": 288,
+     "word": "قمتصاصها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "امتصاصها"
+},
+{
+     "id": 289,
+     "word": "متزويد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لتزويد"
+},
+{
+     "id": 290,
+     "word": "ضالطاقة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بالطاقة"
+},
+{
+     "id": 291,
+     "word": "نالآتي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "كالآتي"
+},
+{
+     "id": 292,
+     "word": "الحعب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الشعب"
+},
+{
+     "id": 293,
+     "word": "جنظم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ينظم"
+},
+{
+     "id": 294,
+     "word": "الزمليات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العمليات"
+},
+{
+     "id": 295,
+     "word": "الءيوية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحيوية"
+},
+{
+     "id": 296,
+     "word": "الآمو",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "النمو"
+},
+{
+     "id": 297,
+     "word": "الفطور",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "التطور"
+},
+{
+     "id": 298,
+     "word": "الظمثيل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التمثيل"
+},
+{
+     "id": 299,
+     "word": "التذائي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الغذائي"
+},
+{
+     "id": 300,
+     "word": "الثوازن",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التوازن"
+},
+{
+     "id": 301,
+     "word": "ضطلاق",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "إطلاق"
+},
+{
+     "id": 302,
+     "word": "لشارات",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "إشارات"
+},
+{
+     "id": 303,
+     "word": "إيميائية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "كيميائية"
+},
+{
+     "id": 304,
+     "word": "إسمى",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تسمى"
+},
+{
+     "id": 305,
+     "word": "صرمونات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "هرمونات"
+},
+{
+     "id": 306,
+     "word": "العنثوي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأنثوي"
+},
+{
+     "id": 307,
+     "word": "اللمراء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحمراء"
+},
+{
+     "id": 308,
+     "word": "ذحدد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تحدد"
+},
+{
+     "id": 309,
+     "word": "عوع",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "نوع"
+},
+{
+     "id": 310,
+     "word": "ضنقل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تنقل"
+},
+{
+     "id": 311,
+     "word": "تاز",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "غاز"
+},
+{
+     "id": 312,
+     "word": "زننخاع",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مننخاع"
+},
+{
+     "id": 313,
+     "word": "الجظم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العظم"
+},
+{
+     "id": 314,
+     "word": "فلاثة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ثلاثة"
+},
+{
+     "id": 315,
+     "word": "الحنجرة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الحنجرة"
+},
+{
+     "id": 316,
+     "word": "الءخامية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "النخامية"
+},
+{
+     "id": 317,
+     "word": "تغطي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تغطي"
+},
+{
+     "id": 318,
+     "word": "إطح",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "سطح"
+},
+{
+     "id": 319,
+     "word": "التارج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الخارج"
+},
+{
+     "id": 320,
+     "word": "صبطن",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تبطن"
+},
+{
+     "id": 321,
+     "word": "أنوات",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "قنوات"
+},
+{
+     "id": 322,
+     "word": "الذاخل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الداخل"
+},
+{
+     "id": 323,
+     "word": "اليكون",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المكون"
+},
+{
+     "id": 324,
+     "word": "الصساسي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأساسي"
+},
+{
+     "id": 325,
+     "word": "ءعضلات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لعضلات"
+},
+{
+     "id": 326,
+     "word": "دحدة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "وحدة"
+},
+{
+     "id": 327,
+     "word": "الزناء",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "البناء"
+},
+{
+     "id": 328,
+     "word": "الأساسية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الأساسية"
+},
+{
+     "id": 329,
+     "word": "محتوي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يحتوي"
+},
+{
+     "id": 330,
+     "word": "تريليون",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تريليون"
+},
+{
+     "id": 331,
+     "word": "عفيه",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "وفيه"
+},
+{
+     "id": 332,
+     "word": "رئات",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "مئات"
+},
+{
+     "id": 333,
+     "word": "التنواع",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأنواع"
+},
+{
+     "id": 334,
+     "word": "اللختلفة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المختلفة"
+},
+{
+     "id": 335,
+     "word": "جيث",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "حيث"
+},
+{
+     "id": 336,
+     "word": "التجم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الحجم"
+},
+{
+     "id": 337,
+     "word": "السظيفة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الوظيفة"
+},
+{
+     "id": 338,
+     "word": "إذه",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "هذه"
+},
+{
+     "id": 339,
+     "word": "اجزر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بجزر"
+},
+{
+     "id": 340,
+     "word": "عانغرهانس",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لانغرهانس"
+},
+{
+     "id": 341,
+     "word": "نستوى",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مستوى"
+},
+{
+     "id": 342,
+     "word": "الصلوكوز",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الغلوكوز"
+},
+{
+     "id": 343,
+     "word": "لندماج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اندماج"
+},
+{
+     "id": 344,
+     "word": "جواتي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "نواتي"
+},
+{
+     "id": 345,
+     "word": "ترد",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "فرد"
+},
+{
+     "id": 346,
+     "word": "شديد",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "جديد"
+},
+{
+     "id": 347,
+     "word": "الوصيتين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الخصيتين"
+},
+{
+     "id": 348,
+     "word": "الثظرية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الكظرية"
+},
+{
+     "id": 349,
+     "word": "الؤوزتين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اللوزتين"
+},
+{
+     "id": 350,
+     "word": "عجلط",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تجلط"
+},
+{
+     "id": 351,
+     "word": "الةنوبرية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الصنوبرية"
+},
+{
+     "id": 352,
+     "word": "رهم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أهم"
+},
+{
+     "id": 353,
+     "word": "ءنسيق",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تنسيق"
+},
+{
+     "id": 354,
+     "word": "أنشطة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أنشطة"
+},
+{
+     "id": 355,
+     "word": "النجهزة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأجهزة"
+},
+{
+     "id": 356,
+     "word": "الئستجابة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الاستجابة"
+},
+{
+     "id": 357,
+     "word": "كلمؤثرات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للمؤثرات"
+},
+{
+     "id": 358,
+     "word": "فتميز",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يتميز"
+},
+{
+     "id": 359,
+     "word": "اأنه",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بأنه"
+},
+{
+     "id": 360,
+     "word": "ذظام",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "نظام"
+},
+{
+     "id": 361,
+     "word": "أيناميكي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ديناميكي"
+},
+{
+     "id": 362,
+     "word": "بتكامل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "متكامل"
+},
+{
+     "id": 363,
+     "word": "أديد",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "شديد"
+},
+{
+     "id": 364,
+     "word": "الحعقيد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التعقيد"
+},
+{
+     "id": 365,
+     "word": "طجالات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مجالات"
+},
+{
+     "id": 366,
+     "word": "يهرومغناطيسية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "كهرومغناطيسية"
+},
+{
+     "id": 367,
+     "word": "طناصر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "عناصر"
+},
+{
+     "id": 368,
+     "word": "إشكل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بشكل"
+},
+{
+     "id": 369,
+     "word": "ظرمي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "هرمي"
+},
+{
+     "id": 370,
+     "word": "أوجد",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يوجد"
+},
+{
+     "id": 371,
+     "word": "العثير",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الكثير"
+},
+{
+     "id": 372,
+     "word": "كروع",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "فروع"
+},
+{
+     "id": 373,
+     "word": "الححياء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأحياء"
+},
+{
+     "id": 374,
+     "word": "فشارك",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تشارك"
+},
+{
+     "id": 375,
+     "word": "تراسة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "دراسة"
+},
+{
+     "id": 376,
+     "word": "الللعوم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البلعوم"
+},
+{
+     "id": 377,
+     "word": "النشريح",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التشريح"
+},
+{
+     "id": 378,
+     "word": "غنية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بنية"
+},
+{
+     "id": 379,
+     "word": "ئحريك",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تحريك"
+},
+{
+     "id": 380,
+     "word": "ذبر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عبر"
+},
+{
+     "id": 381,
+     "word": "فعضائه",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أعضائه"
+},
+{
+     "id": 382,
+     "word": "الثبد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الكبد"
+},
+{
+     "id": 383,
+     "word": "الةمعاء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأمعاء"
+},
+{
+     "id": 384,
+     "word": "اليحم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الرحم"
+},
+{
+     "id": 385,
+     "word": "إيرها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "غيرها"
+},
+{
+     "id": 386,
+     "word": "شوعين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "نوعين"
+},
+{
+     "id": 387,
+     "word": "ؤكثر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أكثر"
+},
+{
+     "id": 388,
+     "word": "وعمل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تعمل"
+},
+{
+     "id": 389,
+     "word": "ثعا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "معا"
+},
+{
+     "id": 390,
+     "word": "رأداء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لأداء"
+},
+{
+     "id": 391,
+     "word": "نما",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أما"
+},
+{
+     "id": 392,
+     "word": "متآزر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تتآزر"
+},
+{
+     "id": 393,
+     "word": "ؤلساء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ملساء"
+},
+{
+     "id": 394,
+     "word": "الئخلص",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التخلص"
+},
+{
+     "id": 395,
+     "word": "ثضلات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فضلات"
+},
+{
+     "id": 396,
+     "word": "الثحافظة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المحافظة"
+},
+{
+     "id": 397,
+     "word": "تركيز",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تركيز"
+},
+{
+     "id": 398,
+     "word": "غرجة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "درجة"
+},
+{
+     "id": 399,
+     "word": "القموضة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحموضة"
+},
+{
+     "id": 400,
+     "word": "الءبيعية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الطبيعية"
+},
+{
+     "id": 401,
+     "word": "الغسؤولة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المسؤولة"
+},
+{
+     "id": 402,
+     "word": "شعظم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "معظم"
+},
+{
+     "id": 403,
+     "word": "حدة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عدة"
+},
+{
+     "id": 404,
+     "word": "اتمثل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تتمثل"
+},
+{
+     "id": 405,
+     "word": "شالآتي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بالآتي"
+},
+{
+     "id": 406,
+     "word": "الغكري",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الذكري"
+},
+{
+     "id": 407,
+     "word": "جظيفته",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "وظيفته"
+},
+{
+     "id": 408,
+     "word": "ظخصب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تخصب"
+},
+{
+     "id": 409,
+     "word": "الجويضات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البويضات"
+},
+{
+     "id": 410,
+     "word": "الذقد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العقد"
+},
+{
+     "id": 411,
+     "word": "النيمفاوية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الليمفاوية"
+},
+{
+     "id": 412,
+     "word": "اللالب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحالب"
+},
+{
+     "id": 413,
+     "word": "الأهاد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المهاد"
+},
+{
+     "id": 414,
+     "word": "مؤثر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تؤثر"
+},
+{
+     "id": 415,
+     "word": "عستقلاب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "استقلاب"
+},
+{
+     "id": 416,
+     "word": "فكتشاف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اكتشاف"
+},
+{
+     "id": 417,
+     "word": "الميروسات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الفيروسات"
+},
+{
+     "id": 418,
+     "word": "إصنف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تصنف"
+},
+{
+     "id": 419,
+     "word": "طساس",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أساس"
+},
+{
+     "id": 420,
+     "word": "ئحتواها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "محتواها"
+},
+{
+     "id": 421,
+     "word": "الومض",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الحمض"
+},
+{
+     "id": 422,
+     "word": "الاووي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "النووي"
+},
+{
+     "id": 423,
+     "word": "فجمها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "حجمها"
+},
+{
+     "id": 424,
+     "word": "حبعاتها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "قبعاتها"
+},
+{
+     "id": 425,
+     "word": "الزروتينية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البروتينية"
+},
+{
+     "id": 426,
+     "word": "أجود",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "وجود"
+},
+{
+     "id": 427,
+     "word": "كلاف",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "غلاف"
+},
+{
+     "id": 428,
+     "word": "الئروتين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البروتين"
+},
+{
+     "id": 429,
+     "word": "التحيط",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "المحيط"
+},
+{
+     "id": 430,
+     "word": "ضها",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بها"
+},
+{
+     "id": 431,
+     "word": "الشسم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "القسم"
+},
+{
+     "id": 432,
+     "word": "السصنيفي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التصنيفي"
+},
+{
+     "id": 433,
+     "word": "بئتين",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فئتين"
+},
+{
+     "id": 434,
+     "word": "حناء",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بناء"
+},
+{
+     "id": 435,
+     "word": "طحتوى",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "محتوى"
+},
+{
+     "id": 436,
+     "word": "ءيروسات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فيروسات"
+},
+{
+     "id": 437,
+     "word": "ملك",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تلك"
+},
+{
+     "id": 438,
+     "word": "ظحتوي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تحتوي"
+},
+{
+     "id": 439,
+     "word": "الءزدوج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المزدوج"
+},
+{
+     "id": 440,
+     "word": "كو",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ذو"
+},
+{
+     "id": 441,
+     "word": "اليلسلة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "السلسلة"
+},
+{
+     "id": 442,
+     "word": "الذحادية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأحادية"
+},
+{
+     "id": 443,
+     "word": "القزدوجة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المزدوجة"
+},
+{
+     "id": 444,
+     "word": "الخسخ",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "النسخ"
+},
+{
+     "id": 445,
+     "word": "اليكسي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "العكسي"
+},
+{
+     "id": 446,
+     "word": "ظات",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ذات"
+},
+{
+     "id": 447,
+     "word": "ءحادي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أحادي"
+},
+{
+     "id": 448,
+     "word": "ؤحتها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تحتها"
+},
+{
+     "id": 449,
+     "word": "التيروس",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الفيروس"
+},
+{
+     "id": 450,
+     "word": "الؤهقري",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "القهقري"
+},
+{
+     "id": 451,
+     "word": "الطغيرة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الصغيرة"
+},
+{
+     "id": 452,
+     "word": "الثلبية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "السلبية"
+},
+{
+     "id": 453,
+     "word": "ذبدية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ربدية"
+},
+{
+     "id": 454,
+     "word": "بنائي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ثنائي"
+},
+{
+     "id": 455,
+     "word": "سدانية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "غدانية"
+},
+{
+     "id": 456,
+     "word": "اللربسية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الهربسية"
+},
+{
+     "id": 457,
+     "word": "السدرية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الجدرية"
+},
+{
+     "id": 458,
+     "word": "الغصائص",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الخصائص"
+},
+{
+     "id": 459,
+     "word": "حلفيروسات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للفيروسات"
+},
+{
+     "id": 460,
+     "word": "صجعلها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تجعلها"
+},
+{
+     "id": 461,
+     "word": "وشبة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تشبة"
+},
+{
+     "id": 462,
+     "word": "ثصائص",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "خصائص"
+},
+{
+     "id": 463,
+     "word": "ذفاوتت",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تفاوتت"
+},
+{
+     "id": 464,
+     "word": "العراء",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الآراء"
+},
+{
+     "id": 465,
+     "word": "هول",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "حول"
+},
+{
+     "id": 466,
+     "word": "ثاصية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "خاصية"
+},
+{
+     "id": 467,
+     "word": "الزياة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحياة"
+},
+{
+     "id": 468,
+     "word": "أالنسبة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بالنسبة"
+},
+{
+     "id": 469,
+     "word": "فمن",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "فمن"
+},
+{
+     "id": 470,
+     "word": "الللماء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العلماء"
+},
+{
+     "id": 471,
+     "word": "لعتبرها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اعتبرها"
+},
+{
+     "id": 472,
+     "word": "أائنات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "كائنات"
+},
+{
+     "id": 473,
+     "word": "رية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "حية"
+},
+{
+     "id": 474,
+     "word": "اقيقة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "دقيقة"
+},
+{
+     "id": 475,
+     "word": "حنهم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "منهم"
+},
+{
+     "id": 476,
+     "word": "ضنى",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بنى"
+},
+{
+     "id": 477,
+     "word": "مضوية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عضوية"
+},
+{
+     "id": 478,
+     "word": "هافة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "حافة"
+},
+{
+     "id": 479,
+     "word": "ون",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أن"
+},
+{
+     "id": 480,
+     "word": "جناك",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "هناك"
+},
+{
+     "id": 481,
+     "word": "خشابها",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تشابها"
+},
+{
+     "id": 482,
+     "word": "ذدا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "جدا"
+},
+{
+     "id": 483,
+     "word": "دوجود",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بوجود"
+},
+{
+     "id": 484,
+     "word": "أينات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "جينات"
+},
+{
+     "id": 485,
+     "word": "إراثية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "وراثية"
+},
+{
+     "id": 486,
+     "word": "الزدرة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "القدرة"
+},
+{
+     "id": 487,
+     "word": "الدنتقاء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الانتقاء"
+},
+{
+     "id": 488,
+     "word": "الضبيعي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الطبيعي"
+},
+{
+     "id": 489,
+     "word": "وطوره",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تطوره"
+},
+{
+     "id": 490,
+     "word": "ترمية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "جرمية"
+},
+{
+     "id": 491,
+     "word": "خما",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "إما"
+},
+{
+     "id": 492,
+     "word": "زمواد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "كمواد"
+},
+{
+     "id": 493,
+     "word": "مسيم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "جسيم"
+},
+{
+     "id": 494,
+     "word": "ددفة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "صدفة"
+},
+{
+     "id": 495,
+     "word": "فارجية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "خارجية"
+},
+{
+     "id": 496,
+     "word": "ذبسط",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أبسط"
+},
+{
+     "id": 497,
+     "word": "تكفي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يكفي"
+},
+{
+     "id": 498,
+     "word": "صتشفير",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لتشفير"
+},
+{
+     "id": 499,
+     "word": "نروتينات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بروتينات"
+},
+{
+     "id": 500,
+     "word": "الحكثر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأكثر"
+},
+{
+     "id": 501,
+     "word": "ءعقيدا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تعقيدا"
+},
+{
+     "id": 502,
+     "word": "حمكنه",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يمكنه"
+},
+{
+     "id": 503,
+     "word": "إرميز",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ترميز"
+},
+{
+     "id": 504,
+     "word": "العجزاء",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الأجزاء"
+},
+{
+     "id": 505,
+     "word": "الهئيسة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الرئيسة"
+},
+{
+     "id": 506,
+     "word": "الكيجابية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الإيجابية"
+},
+{
+     "id": 507,
+     "word": "الس",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الـ"
+},
+{
+     "id": 508,
+     "word": "غالفيروسات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "كالفيروسات"
+},
+{
+     "id": 509,
+     "word": "الوخائية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الطخائية"
+},
+{
+     "id": 510,
+     "word": "ختنافى",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تتنافى"
+},
+{
+     "id": 511,
+     "word": "بع",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "مع"
+},
+{
+     "id": 512,
+     "word": "جفات",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "صفات"
+},
+{
+     "id": 513,
+     "word": "آشر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "نشر"
+},
+{
+     "id": 514,
+     "word": "ثدولف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أدولف"
+},
+{
+     "id": 515,
+     "word": "باير",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ماير"
+},
+{
+     "id": 516,
+     "word": "ليميائي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "كيميائي"
+},
+{
+     "id": 517,
+     "word": "طاحث",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "باحث"
+},
+{
+     "id": 518,
+     "word": "هراعي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "زراعي"
+},
+{
+     "id": 519,
+     "word": "ظلماني",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ألماني"
+},
+{
+     "id": 520,
+     "word": "ذحثا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بحثا"
+},
+{
+     "id": 521,
+     "word": "هرض",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "مرض"
+},
+{
+     "id": 522,
+     "word": "قسيفساء",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فسيفساء"
+},
+{
+     "id": 523,
+     "word": "العبغ",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التبغ"
+},
+{
+     "id": 524,
+     "word": "فام",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عام"
+},
+{
+     "id": 525,
+     "word": "ي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "م"
+},
+{
+     "id": 526,
+     "word": "بتائج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "نتائج"
+},
+{
+     "id": 527,
+     "word": "آجاربه",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تجاربه"
+},
+{
+     "id": 528,
+     "word": "الماسعة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الواسعة"
+},
+{
+     "id": 529,
+     "word": "دجد",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "وجد"
+},
+{
+     "id": 530,
+     "word": "ننه",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أنه"
+},
+{
+     "id": 531,
+     "word": "صندما",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "عندما"
+},
+{
+     "id": 532,
+     "word": "بحق",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "سحق"
+},
+{
+     "id": 533,
+     "word": "ئوراق",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أوراق"
+},
+{
+     "id": 534,
+     "word": "حصابة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مصابة"
+},
+{
+     "id": 535,
+     "word": "حقن",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "حقن"
+},
+{
+     "id": 536,
+     "word": "الدصير",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العصير"
+},
+{
+     "id": 537,
+     "word": "الصار",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الضار"
+},
+{
+     "id": 538,
+     "word": "هروق",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عروق"
+},
+{
+     "id": 539,
+     "word": "الثير",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الغير"
+},
+{
+     "id": 540,
+     "word": "عدى",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أدى"
+},
+{
+     "id": 541,
+     "word": "الذون",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "اللون"
+},
+{
+     "id": 542,
+     "word": "السصفر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأصفر"
+},
+{
+     "id": 543,
+     "word": "الغرقط",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المرقط"
+},
+{
+     "id": 544,
+     "word": "الدوراق",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأوراق"
+},
+{
+     "id": 545,
+     "word": "الشصابة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المصابة"
+},
+{
+     "id": 546,
+     "word": "يان",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "كان"
+},
+{
+     "id": 547,
+     "word": "دايير",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مايير"
+},
+{
+     "id": 548,
+     "word": "قعتقد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يعتقد"
+},
+{
+     "id": 549,
+     "word": "رسبب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يسبب"
+},
+{
+     "id": 550,
+     "word": "الإورق",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المورق"
+},
+{
+     "id": 551,
+     "word": "آستعصى",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "استعصى"
+},
+{
+     "id": 552,
+     "word": "مليه",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عليه"
+},
+{
+     "id": 553,
+     "word": "ثثبات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اثبات"
+},
+{
+     "id": 554,
+     "word": "ععر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "شعر"
+},
+{
+     "id": 555,
+     "word": "البؤكد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المؤكد"
+},
+{
+     "id": 556,
+     "word": "الفرض",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "المرض"
+},
+{
+     "id": 557,
+     "word": "مصل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أصل"
+},
+{
+     "id": 558,
+     "word": "حكتيري",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بكتيري"
+},
+{
+     "id": 559,
+     "word": "حكنه",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لكنه"
+},
+{
+     "id": 560,
+     "word": "ضم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "لم"
+},
+{
+     "id": 561,
+     "word": "طتمكن",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يتمكن"
+},
+{
+     "id": 562,
+     "word": "جزل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عزل"
+},
+{
+     "id": 563,
+     "word": "الأامل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العامل"
+},
+{
+     "id": 564,
+     "word": "الطسبب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المسبب"
+},
+{
+     "id": 565,
+     "word": "غلمرض",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للمرض"
+},
+{
+     "id": 566,
+     "word": "الةعرف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التعرف"
+},
+{
+     "id": 567,
+     "word": "لحت",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تحت"
+},
+{
+     "id": 568,
+     "word": "الضجهر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المجهر"
+},
+{
+     "id": 569,
+     "word": "أا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "لا"
+},
+{
+     "id": 570,
+     "word": "ءعيد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يعيد"
+},
+{
+     "id": 571,
+     "word": "ظنتاج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "انتاج"
+},
+{
+     "id": 572,
+     "word": "تباتات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "نباتات"
+},
+{
+     "id": 573,
+     "word": "ئحية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "صحية"
+},
+{
+     "id": 574,
+     "word": "الأكتيريا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البكتيريا"
+},
+{
+     "id": 575,
+     "word": "الءعروفة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المعروفة"
+},
+{
+     "id": 576,
+     "word": "فتفاوت",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تتفاوت"
+},
+{
+     "id": 577,
+     "word": "ظشكال",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أشكال"
+},
+{
+     "id": 578,
+     "word": "ضفقا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "وفقا"
+},
+{
+     "id": 579,
+     "word": "طنوعها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لنوعها"
+},
+{
+     "id": 580,
+     "word": "يذا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "إذا"
+},
+{
+     "id": 581,
+     "word": "شسيطا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بسيطا"
+},
+{
+     "id": 582,
+     "word": "تعقدا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "معقدا"
+},
+{
+     "id": 583,
+     "word": "خيندرج",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فيندرج"
+},
+{
+     "id": 584,
+     "word": "السولبي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اللولبي"
+},
+{
+     "id": 585,
+     "word": "الدشروني",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العشروني"
+},
+{
+     "id": 586,
+     "word": "الظجوه",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الوجوه"
+},
+{
+     "id": 587,
+     "word": "الطركيب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التركيب"
+},
+{
+     "id": 588,
+     "word": "مشار",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يشار"
+},
+{
+     "id": 589,
+     "word": "النمكن",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الممكن"
+},
+{
+     "id": 590,
+     "word": "سنتقل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تنتقل"
+},
+{
+     "id": 591,
+     "word": "بعدة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بعدة"
+},
+{
+     "id": 592,
+     "word": "خرق",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "طرق"
+},
+{
+     "id": 593,
+     "word": "الفبات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "النبات"
+},
+{
+     "id": 594,
+     "word": "ئالاعتماد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بالاعتماد"
+},
+{
+     "id": 595,
+     "word": "الظشرات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحشرات"
+},
+{
+     "id": 596,
+     "word": "نما",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "كما"
+},
+{
+     "id": 597,
+     "word": "الرال",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الحال"
+},
+{
+     "id": 598,
+     "word": "شالمن",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بالمن"
+},
+{
+     "id": 599,
+     "word": "ندم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "قدم"
+},
+{
+     "id": 600,
+     "word": "الأالم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "العالم"
+},
+{
+     "id": 601,
+     "word": "الئيولوجي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "البيولوجي"
+},
+{
+     "id": 602,
+     "word": "ذيفيد",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ديفيد"
+},
+{
+     "id": 603,
+     "word": "دلتيمور",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بلتيمور"
+},
+{
+     "id": 604,
+     "word": "دبتكارا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ابتكارا"
+},
+{
+     "id": 605,
+     "word": "غلعالم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للعالم"
+},
+{
+     "id": 606,
+     "word": "اسمى",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "مسمى"
+},
+{
+     "id": 607,
+     "word": "عصنيف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تصنيف"
+},
+{
+     "id": 608,
+     "word": "بالإضافة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بالإضافة"
+},
+{
+     "id": 609,
+     "word": "الوجنة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "اللجنة"
+},
+{
+     "id": 610,
+     "word": "البولية",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الدولية"
+},
+{
+     "id": 611,
+     "word": "ضتصنيف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لتصنيف"
+},
+{
+     "id": 612,
+     "word": "ينفت",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "صنفت"
+},
+{
+     "id": 613,
+     "word": "صرر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "كرر"
+},
+{
+     "id": 614,
+     "word": "ءالب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "طالب"
+},
+{
+     "id": 615,
+     "word": "آوسي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "روسي"
+},
+{
+     "id": 616,
+     "word": "لدعى",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يدعى"
+},
+{
+     "id": 617,
+     "word": "غيمتري",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ديمتري"
+},
+{
+     "id": 618,
+     "word": "عيفانوفسكي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "إيفانوفسكي"
+},
+{
+     "id": 619,
+     "word": "فجارب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تجارب"
+},
+{
+     "id": 620,
+     "word": "عكن",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "لكن"
+},
+{
+     "id": 621,
+     "word": "اليل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "قليل"
+},
+{
+     "id": 622,
+     "word": "اللحايل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "التحايل"
+},
+{
+     "id": 623,
+     "word": "ثمقال",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "لمقال"
+},
+{
+     "id": 624,
+     "word": "اقد",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "فقد"
+},
+{
+     "id": 625,
+     "word": "ئجتاز",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اجتاز"
+},
+{
+     "id": 626,
+     "word": "المصارة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "العصارة"
+},
+{
+     "id": 627,
+     "word": "القشجار",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأشجار"
+},
+{
+     "id": 628,
+     "word": "هلال",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "خلال"
+},
+{
+     "id": 629,
+     "word": "ضرشح",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مرشح"
+},
+{
+     "id": 630,
+     "word": "حشامبرلاند",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تشامبرلاند"
+},
+{
+     "id": 631,
+     "word": "عتحاته",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فتحاته"
+},
+{
+     "id": 632,
+     "word": "شاعمة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ناعمة"
+},
+{
+     "id": 633,
+     "word": "ؤما",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بما"
+},
+{
+     "id": 634,
+     "word": "زالتقاط",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لالتقاط"
+},
+{
+     "id": 635,
+     "word": "الغغم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الرغم"
+},
+{
+     "id": 636,
+     "word": "الطرشيح",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الترشيح"
+},
+{
+     "id": 637,
+     "word": "إستطع",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يستطع"
+},
+{
+     "id": 638,
+     "word": "اصل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "فصل"
+},
+{
+     "id": 639,
+     "word": "سسبب",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مسبب"
+},
+{
+     "id": 640,
+     "word": "الحائل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "السائل"
+},
+{
+     "id": 641,
+     "word": "ذقي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بقي"
+},
+{
+     "id": 642,
+     "word": "الفرشح",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "المرشح"
+},
+{
+     "id": 643,
+     "word": "ءعديا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "معديا"
+},
+{
+     "id": 644,
+     "word": "أكتشف",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "اكتشف"
+},
+{
+     "id": 645,
+     "word": "شغيرا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "صغيرا"
+},
+{
+     "id": 646,
+     "word": "ظلمرور",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للمرور"
+},
+{
+     "id": 647,
+     "word": "الرلتر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الفلتر"
+},
+{
+     "id": 648,
+     "word": "طلص",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "خلص"
+},
+{
+     "id": 649,
+     "word": "ببب",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "سبب"
+},
+{
+     "id": 650,
+     "word": "البصابة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الإصابة"
+},
+{
+     "id": 651,
+     "word": "دمرض",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بمرض"
+},
+{
+     "id": 652,
+     "word": "بمكن",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تمكن"
+},
+{
+     "id": 653,
+     "word": "بالم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "عالم"
+},
+{
+     "id": 654,
+     "word": "قولندي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "هولندي"
+},
+{
+     "id": 655,
+     "word": "وسمه",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "اسمه"
+},
+{
+     "id": 656,
+     "word": "اارتنوس",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مارتنوس"
+},
+{
+     "id": 657,
+     "word": "حيرينك",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بيرينك"
+},
+{
+     "id": 658,
+     "word": "غكن",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يكن"
+},
+{
+     "id": 659,
+     "word": "يكتيريا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بكتيريا"
+},
+{
+     "id": 660,
+     "word": "رل",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بل"
+},
+{
+     "id": 661,
+     "word": "ويروسا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فيروسا"
+},
+{
+     "id": 662,
+     "word": "تيا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "حيا"
+},
+{
+     "id": 663,
+     "word": "تائلا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "سائلا"
+},
+{
+     "id": 664,
+     "word": "ءشيرا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مشيرا"
+},
+{
+     "id": 665,
+     "word": "ثليه",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "إليه"
+},
+{
+     "id": 666,
+     "word": "أالمصطلح",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بالمصطلح"
+},
+{
+     "id": 667,
+     "word": "كصبح",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أصبح"
+},
+{
+     "id": 668,
+     "word": "الغن",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الآن"
+},
+{
+     "id": 669,
+     "word": "بديما",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "قديما"
+},
+{
+     "id": 670,
+     "word": "خيروس",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فيروس"
+},
+{
+     "id": 671,
+     "word": "ؤابل",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "قابل"
+},
+{
+     "id": 672,
+     "word": "سلتصفية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للتصفية"
+},
+{
+     "id": 673,
+     "word": "الءراجع",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "المراجع"
+},
+{
+     "id": 674,
+     "word": "اندرج",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تندرج"
+},
+{
+     "id": 675,
+     "word": "الآبدية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الكبدية"
+},
+{
+     "id": 676,
+     "word": "ثطلق",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يطلق"
+},
+{
+     "id": 677,
+     "word": "ءسم",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "اسم"
+},
+{
+     "id": 678,
+     "word": "الصمات",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "الحمات"
+},
+{
+     "id": 679,
+     "word": "هبارة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "عبارة"
+},
+{
+     "id": 680,
+     "word": "ثفيليات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "طفيليات"
+},
+{
+     "id": 681,
+     "word": "يغيرة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "صغيرة"
+},
+{
+     "id": 682,
+     "word": "ظسببات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مسببات"
+},
+{
+     "id": 683,
+     "word": "ثلأمراض",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للأمراض"
+},
+{
+     "id": 684,
+     "word": "افتقر",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تفتقر"
+},
+{
+     "id": 685,
+     "word": "حلقدرة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "للقدرة"
+},
+{
+     "id": 686,
+     "word": "سن",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "إن"
+},
+{
+     "id": 687,
+     "word": "بكاثرها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تكاثرها"
+},
+{
+     "id": 688,
+     "word": "أحدث",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "يحدث"
+},
+{
+     "id": 689,
+     "word": "عاخلها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "داخلها"
+},
+{
+     "id": 690,
+     "word": "طقط",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فقط"
+},
+{
+     "id": 691,
+     "word": "عتخذ",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تتخذ"
+},
+{
+     "id": 692,
+     "word": "ءدرجة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لدرجة"
+},
+{
+     "id": 693,
+     "word": "حشاهدتها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مشاهدتها"
+},
+{
+     "id": 694,
+     "word": "مواسطة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بواسطة"
+},
+{
+     "id": 695,
+     "word": "الحوئي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الضوئي"
+},
+{
+     "id": 696,
+     "word": "ةزو",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "غزو"
+},
+{
+     "id": 697,
+     "word": "نجسام",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أجسام"
+},
+{
+     "id": 698,
+     "word": "لمختلف",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "بمختلف"
+},
+{
+     "id": 699,
+     "word": "انواعها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "أنواعها"
+},
+{
+     "id": 700,
+     "word": "طصنيفا",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تصنيفا"
+},
+{
+     "id": 701,
+     "word": "واصا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "خاصا"
+},
+{
+     "id": 702,
+     "word": "خهي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فهي"
+},
+{
+     "id": 703,
+     "word": "أيست",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ليست"
+},
+{
+     "id": 704,
+     "word": "إيوانات",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "حيوانات"
+},
+{
+     "id": 705,
+     "word": "ظتم",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "يتم"
+},
+{
+     "id": 706,
+     "word": "ئضعها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "وضعها"
+},
+{
+     "id": 707,
+     "word": "أموما",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "عموما"
+},
+{
+     "id": 708,
+     "word": "قملكتها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مملكتها"
+},
+{
+     "id": 709,
+     "word": "التاقع",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الواقع"
+},
+{
+     "id": 710,
+     "word": "بنبغي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "ينبغي"
+},
+{
+     "id": 711,
+     "word": "شتى",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "حتى"
+},
+{
+     "id": 712,
+     "word": "آعتبر",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تعتبر"
+},
+{
+     "id": 713,
+     "word": "ةالمعنى",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بالمعنى"
+},
+{
+     "id": 714,
+     "word": "الذرفي",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الحرفي"
+},
+{
+     "id": 715,
+     "word": "أأنها",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لأنها"
+},
+{
+     "id": 716,
+     "word": "معيش",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تعيش"
+},
+{
+     "id": 717,
+     "word": "هحرية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بحرية"
+},
+{
+     "id": 718,
+     "word": "ذي",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "أي"
+},
+{
+     "id": 719,
+     "word": "ئستطيع",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "تستطيع"
+},
+{
+     "id": 720,
+     "word": "الؤيام",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "القيام"
+},
+{
+     "id": 721,
+     "word": "زالعمليات",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "بالعمليات"
+},
+{
+     "id": 722,
+     "word": "الغيضية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "الأيضية"
+},
+{
+     "id": 723,
+     "word": "هون",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "دون"
+},
+{
+     "id": 724,
+     "word": "هضيفة",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "مضيفة"
+},
+{
+     "id": 725,
+     "word": "حمأخوذ",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "فمأخوذ"
+},
+{
+     "id": 726,
+     "word": "ثلمة",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "كلمة"
+},
+{
+     "id": 727,
+     "word": "ماتينية",
+     "tag": "wrong",
+     "domain": "Scientific",
+     "correct word": "لاتينية"
+},
+{
+     "id": 728,
+     "word": "كعني",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "تعني"
+},
+{
+     "id": 729,
+     "word": "إحلا",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "ضحلا"
+},
+{
+     "id": 730,
+     "word": "دما",
+     "tag": "correct",
+     "domain": "Scientific",
+     "correct word": "سما"
+}
+]
